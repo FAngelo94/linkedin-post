@@ -1,0 +1,22 @@
+Settimana scorsa ho completato il mio primo progetto svolto per un cliente completamente "esterno" (senza conoscenze intermedie) con la modalità di "Sviluppatore in Abbonamento"
+
+Come ha funzionato?
+- Call iniziale: mi spiega obiettivo e requisiti.
+- Stima: 2 settimane di sviluppo → 2 settimane di abbonamento.
+- Giorno dopo: inizio a lavorare.
+- Fine settimana 1: demo di quanto fatto. Cliente soddisfatto → paga entrambe le settimane.
+- Fine settimana 2: sito consegnato.
+
+Vantaggi
+- Si parte subito. Zero perdite di tempo tra contratti infiniti e colloqui tecnici. Se dopo la prima settimana non è soddisfatto, non paga.
+- Flessibilità totale. Durante le 2 settimane può chiedere modifiche e aggiustamenti senza discussioni su “quanto costa questa variazione”. Io segnalo solo se stiamo uscendo dalle 2 settimane di abbonamento
+- Niente micro-gestione. Nessun timesheet, nessuna stima per ogni singolo cambio. Focus solo sull’obiettivo.
+
+Risultato finale?
+Cliente soddisfatto.
+Io pure.
+
+Appena il progetto sarà pubblico magari lo presenti in un post con il permesso del cliente
+
+Se anche a te serve uno sviluppatore e ti piace questo metodo di lavoro scrivimi qui su LinkedIn oppure prenota una call dal mio sito:
+👉 https://angelofalci.com/

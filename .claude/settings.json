@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:orbitingrocks.com)",
+      "WebFetch(domain:gutmusic.media)",
+      "WebFetch(domain:www.gutmusic.media)",
+      "WebFetch(domain:it.linkedin.com)"
+    ]
+  }
+}

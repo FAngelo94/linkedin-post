@@ -1,0 +1,17 @@
+Ho insegnato a Claude a scrivere come me.
+
+Non con un prompt magico e non con un corso da 297 euro.
+Con i miei post.
+
+Ho preso tutti i post che ho scritto su LinkedIn e li ho messi in una cartella. Poi ho scritto un file di istruzioni con il mio stile: frasi corte, niente fuffa motivazionale, niente emoji a raffica, niente hashtag.
+
+In pratica Claude legge i miei vecchi post, segue le regole e mi propone una bozza che suona come me.
+
+Il punto e che chiedere "scrivimi un post su X" non funziona. Viene fuori roba generica, il classico tono da LinkedIn coach che non sopporto.
+Dargli il contesto di come scrivi tu cambia tutto.
+
+Ammetto che non e perfetto al primo colpo. Ma parte da un 70-80% invece che da zero, e la revisione diventa molto piu veloce di scrivere tutto da capo.
+
+(Questo post per esempio e nato cosi: bozza di Claude, poi rivisto e riscritto da me dove serviva)
+
+Voi usate l'IA per scrivere contenuti? Come fate a mantenere la vostra voce?

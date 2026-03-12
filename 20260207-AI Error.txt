@@ -1,0 +1,37 @@
+Un caso in cui l’AI ha fallito
+
+Su Linkedin leggo spesso di post che elogiano o criticano l'AI in ambito di sviluppo ma la maggior parte non portano mai esempi concreti, quindi eccone uno fresco fresco
+
+Premesse rapide:
+- Firebase lo uso da anni come hosting, ma non avevo mai sfruttato il suo servizio di Authentication o le function (di solito gestisco tutto lato backend).
+- Per sviluppare uso Copilot in VS Code, principalmente con GPT-5.2-Codex o Claude Sonnet 4.5; lo uso quotidianamente e lo considero uno strumento fenomenale, per questo ormai mi stupisco più quando sbaglia che quando azzecca tutto.
+
+Il problema:
+Per un progetto ho usato Firebase sia per il deploy che per l’autenticazione.
+Con la verifica email di default, il flusso è questo:
+👉 email → click → pagina bianca Firebase con pulsante “conferma” → redirect alla webapp.
+
+All'utente non piace, giustamente, la pagina bianca
+
+Vincolo: continuare a usare Firebase Auth (almeno per ora), senza mettersi ad affittare e configurare un mail server custom.
+
+Descrivendo soltanto il problema questa è la soluzione proposta da Copilot:
+❌ "Non si può fare. Affittati un server mail pezzente."
+
+Gli suggerisco di usare in qualche modo le firebase function e modificare il link di attivazione nell'email (non avevo ancora chiara l'idea di come fare ma pensavo si potessero sfruttare in qualche modo le function), ma la soluzione proposta da Copilot rimane pressocche invariata:
+❌ "Non si può fare. Affittati un server mail pezzente."
+
+A questo punto torno ai bei vecchi tempi, Google, e trovo un video che fa al caso mio su Youtube
+
+Scopro che:
+✔️ si può creare una Cloud Function
+✔️ usare quell’URL nel template email di Firebase
+✔️ attivare l’utente nella function
+✔️ redirect automatico alla webapp
+➡️ zero pagina bianca
+
+Dopo aver spiegato esplicitamente questa soluzione a Copilot mi implementa la function perfettamente funzionante.
+Io cambio solo l’URL nel template email di Firebase e fine.
+
+Conclusione
+Mi ha colpito il fatto che l’AI fosse convinta che non si potesse fare, anche dopo averle suggerito la strada giusta, e non riuscisse a collegare i pezzi ma una volta guidata passo-passo, l’implementazione fosse impeccabile

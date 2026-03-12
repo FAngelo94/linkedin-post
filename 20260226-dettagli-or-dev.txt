@@ -1,0 +1,22 @@
+Il processo di sviluppo di Orbiting Rocks
+Un caso concreto di come gli strumenti AI stanno cambiando il modo in cui sviluppiamo software e collaboriamo con i clienti.
+
+Innanzitutto se non conosci il progetto, ne avevo parlato qui: https://www.linkedin.com/feed/update/urn:li:activity:7429930405946003457/
+
+Il punto di partenza
+La persona che mi ha contattato aveva costruito un prototipo completamente da sola, usando strumenti AI. Un risultato che fino a poco tempo fa sarebbe stato impensabile per chi non ha competenze di programmazione.
+
+Il problema? 
+Il prototipo non era scalabile e mancavano alcune feature fondamentali anche per un prototipo. Per darvi un'idea: ogni pagina del sito era un unico file HTML enorme, con CSS e JavaScript mischiati dentro.
+
+La richiesta? 
+Semplice: sistemarlo e metterlo online.
+
+Come ho lavorato
+1) Ho iniziato analizzando il prototipo insieme al cliente, ascoltando le sue esigenze e proponendo feature aggiuntive per migliorare l'esperienza utente, ad esempio un sistema di registrazione e il salvataggio dei report su database anziché in locale.
+2) Da lì sono passato a Lovable, dandogli in pasto i file HTML originali e chiedendogli di generare un'app React con le stesse funzionalità in modo da avere un progetto più strutturato e scalabile. Questo singolo passaggio, fatto manualmente, mi avrebbe richiesto settimane. Con l'AI è stato drasticamente più veloce.
+3) Ho poi scaricato lo scaffolding in locale e proseguito lo sviluppo con Copilot, impostando il progetto per un deploy su Firebase: hosting, autenticazione, Firestore come database e Cloud Functions per il piccolo backend necessario.
+4) Durante tutto il processo ho pubblicato regolarmente su Firebase per raccogliere feedback continui dal cliente. 
+5) Una volta raggiunta una versione stabile nel tempo concordato (due settimane di abbonamento), ho trasferito la proprietà del progetto Firebase a un account Google dedicato creato dal cliente, lasciandogli pieno controllo.
+
+Il risultato finale → https://orbitingrocks.com/

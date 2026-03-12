@@ -1,0 +1,19 @@
+Un pensiero sul Referendum sulla Giustizia – parte 2
+
+Se gli utenti di un sito lo usano in modo diverso da come gli sviluppatori avevano previsto, oppure riescono a fare cose che "non si dovrebbero poter fare" a causa di un bug, di chi è la responsabilità?
+
+Degli utenti che "non hanno capito"?
+O di chi ha progettato e sviluppato il sistema?
+
+Nel software la risposta è abbastanza chiara:
+se il comportamento è tecnicamente possibile, la responsabilità è di chi ha scritto le regole del gioco.
+
+Mi è tornato in mente questo ragionamento leggendo, in questi giorni, gli attacchi del governo alla magistratura, accusata di "ostacolare" l’azione politica.
+
+Ma la magistratura applica le leggi.
+E le leggi chi le scrive?
+
+Se un sistema produce effetti indesiderati, forse il problema non è chi lo esegue, ma chi lo ha progettato.
+
+Nel tech lo chiamiamo design flaw.
+In politica come lo chiamiamo?

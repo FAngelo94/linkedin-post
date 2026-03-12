@@ -1,0 +1,20 @@
+Vi siete mai chiesti come funzionano i Captcha?
+
+Quelli vecchi erano semplici: testo distorto, lo riscrivevi e passavi.
+Ma forse non sapete che con reCAPTCHA v1, Google usava le tue risposte per digitalizzare libri. Milioni di persone che lavoravano gratis senza saperlo.
+
+Poi è arrivato il famoso "Non sono un robot", e qui per la prima volta sono andato a cercare info sui captcha perché non capivo come potesse funzionare.
+Perchè cliccare una cassella dimostra che non sono un bot? Posso anche farlo con del codice javascript.
+Il sistema analizza come muovi il mouse, la velocità, le micro-oscillazioni del cursore. Un umano ha movimenti imprecisi e casuali, un bot no.
+Il controllo vero parte pagine prima di arrivare a quella casella.
+
+Ma la versione più interessante è reCAPTCHA v3. Quella invisibile.
+Non ti chiede nulla. Gira in background e ti assegna un punteggio da 0 a 1.
+Per farlo raccoglie diversi dati come indirizzo IP, cookie, movimenti del mouse, tasti premuti, informazioni sul dispositivo.
+
+Tutto inviato ai server di Google.
+
+In pratica, per dimostrare di essere umano, regali a Google un pacchetto completo dei tuoi comportamenti online.
+Non a caso reCAPTCHA v3 ha diversi problemi di conformità con il GDPR.
+
+Voi lo sapevate?

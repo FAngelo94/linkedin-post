@@ -1,0 +1,22 @@
+Un pensiero sul Referendum sulla Giustizia
+
+Nelle ultime settimane mi sono studiato il tema: articoli, video, interventi pro Sì e pro No.
+Prché quando voto voglio farlo con la mia testa, non con quella del politico che presenta meglio la sua idea.
+
+Approfondendo l'argomento mi sono reso conto di una cosa: stiamo delegando a milioni di persone una decisione estremamente tecnica, che incide sull’architettura istituzionale del Paese.
+
+Io ho avuto il tempo (e la voglia) di studiare.
+Ma realisticamente, quanti lo faranno?
+
+Il rischio è che non vinca l’argomentazione migliore, ma la narrazione più semplice. 
+O quella più rumorosa.
+
+Il referendum è uno strumento democratico potentissimo.
+Ma funziona bene solo quando chi vota ha strumenti adeguati per comprendere ciò che sta modificando. Altrimenti diventa una leva politica enorme, utilizzabile per cambiare pezzi delicati del sistema a colpi di slogan.
+
+La vedo così:
+nel mio lavoro, se un’azienda mi chiede di sviluppare una webapp, non faccio votare ai manager quale architettura usare o quale database scegliere. Li ascolto sugli obiettivi di business, ma le scelte tecniche spettano a chi ha le competenze per valutarle.
+
+Qui stiamo facendo l’opposto.
+
+Voi come la vedete?

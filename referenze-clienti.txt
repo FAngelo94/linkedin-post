@@ -1,0 +1,21 @@
+Referenza LinkedIn
+
+Ho collaborato con [il tuo nome] per lo sviluppo di Orbiting Rocks e posso dire che è stata una delle esperienze di collaborazione più fluide che abbia avuto con uno sviluppatore.
+
+Fin dall'inizio mi ha colpito la sua trasparenza nel processo di sviluppo: ha predisposto un link dedicato dove potevo seguire in tempo reale gli aggiornamenti e l'avanzamento del progetto, senza dover rincorrere informazioni o chiedere continuamente a che punto fossimo. Sapevo sempre cosa stava succedendo, e questo ha reso tutto molto più sereno.
+
+Ma ciò che ha fatto davvero la differenza è stato il suo approccio proattivo. Non si è limitato a implementare quanto concordato: ha migliorato la UI di propria iniziativa e ha proposto soluzioni aggiuntive a cui non avevo nemmeno pensato, come un sistema completo di registrazione e login con salvataggio dei dati su database remoto. Non è un semplice esecutore — è qualcuno che ragiona sul prodotto e lo porta a un livello superiore.
+
+Infine, una menzione particolare va al suo modello di sviluppo in abbonamento, che per me è stato una svolta. La collaborazione è risultata snella e senza sorprese: mi proponeva le feature da implementare e mi comunicava in anticipo se rientravamo nel monte ore concordato o se era necessario espandere il pacchetto. Niente preventivi gonfiati, niente costi nascosti — solo chiarezza e flessibilità. Un modello che consiglio a chiunque cerchi un rapporto continuativo con uno sviluppatore.
+
+Se cercate qualcuno che sia affidabile, trasparente e che porti valore reale al vostro progetto, non posso che consigliarlo.
+
+-----------------------------------------------
+
+Abbiamo avuto il piacere di lavorare con Angelo Falci durante lo sviluppo della piattaforma GUT Music (gutmusic.media), il nostro progetto di video-music streaming, e il suo contributo è stato determinante per portare il prodotto al livello che volevamo.
+
+Angelo è entrato nel team con il ruolo di responsabile del frontend in React, ma fin da subito ha dimostrato di essere molto più di uno specialista di interfaccia. Quando il nostro sviluppatore interno, che si occupava del backend, aveva bisogno di supporto, che fosse per risolvere un problema, ottimizzare una logica o integrare nuove funzionalità, Angelo interveniva con competenza. Questa sua versatilità ha accelerato lo sviluppo in modo significativo e ha alleggerito il carico sul resto del team.
+
+Un aspetto che ci ha colpito particolarmente è stata la sua reperibilità. In un progetto come il nostro, dove la piattaforma è live e gli imprevisti non aspettano l'orario d'ufficio, sapere di poter contare su qualcuno che risponde tempestivamente fa tutta la differenza. Angelo non ci ha mai lasciati in difficoltà: ogni volta che lo abbiamo contattato per un'urgenza, la risposta è arrivata nel giro di pochissimo, spesso con già un'idea di soluzione in mano.
+
+Lavorare con lui è stato semplice, diretto e produttivo. Lo consigliamo senza riserve a chiunque cerchi uno sviluppatore su cui poter contare davvero, anche quando le cose si fanno complicate.
