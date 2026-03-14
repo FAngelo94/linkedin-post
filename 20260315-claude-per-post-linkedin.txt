@@ -1,0 +1,16 @@
+Sto insegnando a Claude a scrivere come me.
+Cioè male
+
+Come? Con i miei post.
+
+Ho gran parte degli ultimi miei post che ho scritto su LinkedIn e li ho messi in una cartella. 
+Li ho fatti analizzare a Claude chiedendogli di creare un file di regole che rispecchiasse il mio stile.
+
+Quando voglio usarlo per scrivere un post, scrivo una breve bozza dell'argomento con i punti chiave, poi lui legge i post vecchi, segue le regole nel file creato e mi propone una bozza che suona come me.
+
+La cosa più interessante è vederlo migliorare con l'aumentare dei miei post.
+All'inizio del progetto, quando ne avevo pochi, tirava fuori dei post penosi e continuavo a preferire ChatGPT mentre già adesso, con circa  15 post passati, inizia a scrivere come me.
+
+(Questo post per esempio è nato così: bozza di Claude, poi rivisto e riscritto da me dove serviva)
+
+Voi usate l'IA per scrivere contenuti? Come fate a mantenere la vostra voce?
