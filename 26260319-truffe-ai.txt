@@ -1,0 +1,31 @@
+L'AI ha migliorato anche le truffe
+
+Con l'AI oggi si implementano siti e applicazioni a una velocità prima impensabile, anche con poche competenze.
+Il lato oscuro? Lo stesso vale per le truffe.
+
+Ne parlo perché di recente un amico, che chiameremo Mario per comodità, ne è stato vittima.
+Niente danni economici per fortuna, ma la dinamica merita attenzione.
+
+Mario non è uno smanettone, ma nemmeno un "boomer"
+
+Cos'è successo?
+
+Gli arriva un messaggio su WhatsApp da un'amica (vittima anch'essa) che gli chiede di votare per un concorso che coinvolge dei bambini.
+Questa sua amica lavora proprio con i bambini, non so se ci fossero ricerche dietro o pura coincidenza, ma il messaggio risultava molto credibile.
+Il sito tra l'altro era ben fatto e tradotto senza errori.
+
+Procede a votare e durante il processo finisce nella schermata sotto per "validare" il voto.
+Mario, in un momento di leggerezza e senza pensarci troppo, segue la procedura.
+
+Risultato: chi sta dietro alla truffa prende il controllo del suo WhatsApp, manda in broadcast lo stesso messaggio a tutti i contatti e gli fa bloccare l'account.
+
+Quando si è rivolto a me c'era ormai poco da fare: segnalare a Meta e aspettare.
+Account sbloccato dopo alcune ore.
+
+Lo so che qualcuno vedendo l'immagine sotto potrebbe pensare "che stupido", ma siamo tutti furbi riguardo alle cose che conosciamo e tutti possiamo essere fregati in settori in cui non abbiamo competenza.
+Ed è più o meno la stessa cosa che ho detto al mio amico per consolarlo.
+
+Che si può fare per combattere queste truffe?
+Parlarne. Anche e soprattutto quando ci si casca e si vorrebbe tenere la cosa nascosta per vergogna.
+
+A voi è capitata qualche truffa ben costruita di recente?

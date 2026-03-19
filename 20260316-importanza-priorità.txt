@@ -1,0 +1,22 @@
+Due task assegnati, da quale parto?
+
+Sembra scontato ma vale la pena ricordarlo ogni tanto.
+È una delle problematiche più trasversali che mi sia capitata tra i diversi progetti e clienti con cui mi sono interfacciato.
+
+Presi 2 task, come faccio a definire quale sia più importante dell'altro?
+Ecco le poche domande che mi pongo:
+
+- Il funzionamento di uno dipende dall'altro? -> si parte da quello indipendente
+- Solo uno dei due è bloccante per la prossima release? -> si parte da quello bloccante
+- Quale dei due è più complesso da realizzare e/o testare? -> si parte da quello più difficile, per dare più tempo al testing prima della release
+- Uno dei due ha un impatto diretto sull'utente finale oppure quale dei due migliora maggiormente l'esperienza utente? -> priorità a quello che tocca, o migliora di più, l'esperienza utente
+- Sono indipendente nel realizzarli entrambi o devo collaborare in qualche modo con un'altra persona? -> verificare le disponibilità di entrambi
+
+Di solito basta rispondere anche solo ad una o due per capire qual'è il task prioritario.
+Se invece avete risposto a tutte le domande e i due task sono esattamente allo stesso livello, cosa molto rara, che si fa? 
+Io a quel punto parto semplicemente da quello che mi sembra meno divertente sviluppare, seguendo la linea di principio: prima il dovere poi il piacere.
+
+Voi come gestite le priorità tra task? Avete un vostro metodo?
+
+E ricordate: 
+"Se tutto è prioritario allo stesso modo, allora niente in realtà lo è davvero"
