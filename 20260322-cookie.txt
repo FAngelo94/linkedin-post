@@ -1,0 +1,21 @@
+Cos'è un Cookie?
+
+Chiunque leggerà questo post ne avrà accettato chissà quanti, ma in quanti sanno cosa sono a livello pratico?
+Un piccolo file di testo che un sito salva nel tuo browser, tutto qui.
+
+E a cosa servono? 
+Dipende
+
+Quelli "tecnici" servono a cose utili: tenerti loggato, ricordare la lingua, il carrello di un e-commerce. Senza di loro dovresti rifare il login a ogni pagina.
+
+I cookie "meno buoni" sono quelli di terze parti, piazzati non dal sito che stai visitando, ma da aziende esterne, quasi sempre pubblicitarie.
+Cerchi un volo per Londra su un sito di viaggi. Quel sito ha un cookie di un network pubblicitario. Vai su Instagram, stesso network, stesso cookie.
+Risultato: pubblicità di voli per Londra ovunque.
+
+Non è magia, non è il telefono che ti ascolta, è un "biscottino" che ti segue da un sito all'altro costruendo un profilo dei tuoi interessi.
+(Anche se alle volte giurerei di aver ricevuto pubblicità di cose mai ancora cercate ma soltanto di cui ho parlato)
+
+Poi c'è il teatro dei cookie banner.
+Il GDPR dice che devi dare consenso esplicito, in teoria.
+In pratica, "Accetta tutti" è un bottone grande e colorato, "Personalizza" è un link grigio che apre 15 sottomenu, ma che spesso non mi è nemmeno capitato di vedere.
+Si chiama dark pattern, ed è progettato apposta per farti cliccare sì.

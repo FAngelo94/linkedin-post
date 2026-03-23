@@ -1,0 +1,53 @@
+MNHEME - un diario personale per capire come pensi
+
+Mirko Perrone settimana scorsa ha rilasciato un progetto interessante: 𝗠𝗡𝗛𝗘𝗠𝗘, un database ispirato a come funziona la memoria umana.
+
+Nel suo post i dettagli: https://www.linkedin.com/feed/update/urn:li:activity:7440670399576760320/
+
+L'idea mi è piaciuta talmente tanto che ho tradotto la logica da Python (pensato per girare backend) a JavaScript e ho aggiunto qualche modifica per trasformarlo in una PWA: un diario personale dei propri pensieri.
+
+Sezioni chiave:
+
+- Perceive: trasforma i pensieri grezzi in ricordi strutturati
+- Memories: sfoglia e cerca tra tutti i ricordi salvati
+- Brain: il cervello cognitivo di MNHEME, interroga, rifletti, sogna, analizza
+- Stats: statistiche del database, timeline emotiva e grafo delle connessioni
+- Setting: personalizza il diario e configura uno o più LLM per farlo funzionare
+
+E la sicurezza?
+
+Massima, tutto viene salvato in locale 😂
+(ma potete importare/esportare i dati tra dispositivi)
+
+Provalo qui: https://mnheme-musa.web.app/
+
+Se lo testate, fatemi sapere cosa ne pensate, ogni feedback è utile sia a me che a Mirko Perrone per migliorare il progetto.
+
+
+---
+
+
+MNHEME - a personal diary to understand how you think
+
+Last week Mirko Perrone released an interesting project: 𝗠𝗡𝗛𝗘𝗠𝗘, a database inspired by how human memory works.
+
+Details in his post: https://www.linkedin.com/feed/update/urn:li:activity:7440670399576760320/
+
+I liked the idea so much that I translated the logic from Python (built for backend) to JavaScript and added a few tweaks to turn it into a PWA: a personal diary for your thoughts.
+
+Key sections:
+
+- Perceive: turns raw thoughts into structured memories
+- Memories: browse and search through all your saved memories
+- Brain: MNHEME's cognitive engine, query, reflect, dream, analyze
+- Stats: database statistics, emotional timeline and connection graph
+- Setting: customize your diary and configure one or more LLMs to power it
+
+What about security?
+
+Top notch, everything is saved locally 😂
+(but you can import/export data across devices)
+
+Try it here: https://mnheme-musa.web.app/
+
+If you give it a try, let me know what you think, any feedback is valuable for both me and Mirko Perrone to improve the project.
