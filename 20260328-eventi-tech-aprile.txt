@@ -1,0 +1,35 @@
+Ogni volta che mi capita un post di un evento tech è sempre troppo tardi per organizzarmi, a questo giro voglio provare a muovermi prima e vedere se riesco a partecipare a qualcuno.
+
+Cercando online questi sono gli eventi tech più interessanti in programma a Milano ad aprile, li condivido qui nel caso possano interessare anche a qualcun altro:
+
+1 aprile - Data Science Milan | Can Your Laptop Run AI?
+Meetup per chi lavora con AI e data science.
+https://www.meetup.com/data-science-milan/events/313817105/
+
+13 aprile - OpenClaw Milano #1
+Meetup hands-on su AI agent per builder, founder, developer e curiosi.
+https://www.meetup.com/coding-bunker/events/313810247/
+
+15 aprile - AI Forum 2026, Milano
+AI applicata alle imprese. Organizzato da AIxIA, al Palazzo Giureconsulti. 
+https://www.aiforum.eu/
+
+15 aprile - Hands-on con Kiro (Meetup #7), Milano
+Meetup AWS per chi vuole vedere l'AI in pratica, non solo nelle slide.
+https://www.meetup.com/aws-well-architected-usergroup-italy/events/313094012/
+
+16 aprile - Global Azure 2026, Milano
+Giornata gratuita su Azure, cloud e AI.
+https://www.aspitalia.com/eventi/99/Global-Azure-2026-ASPItalia.com-Milano.aspx
+
+22 aprile - Mindstone AI Meetup, Milano
+Speech brevi, panel e aperitivo finale al Talent Garden Calabiana. 
+https://www.eventbrite.com/e/1985566939165
+
+
+27 aprile - GitHub Copilot Dev Days, Milano
+Tappa milanese dedicata al coding assistito con anche workshop pratico
+https://www.azuremeetupmilano.it/e/5053/GitHub-Copilot-Dev-Days-%7C-Milan
+
+Ancora non so a quale andrò, si accettano consigli.
+Se ne conoscete altri interessanti, segnalateli pure nei commenti!

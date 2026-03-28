@@ -1,0 +1,14 @@
+Aggiornare il metodo di votazione in Italia è possibile?
+
+Lo scorso weekend, come tanti, sono andato a votare per il referendum e, come ogni votazione, mi sembra assurdo nel 2026 star lì ancora con carta e matita per votare.
+Possibile che non si possa mettere in piedi un sistema più digitalizzato?
+
+Un metodo per autenticarci a livello statale lo abbiamo già, lo SPID o, meglio ancora, la CIE. 
+
+Basterebbe un monitor in ogni seggio o, forse, anche uno smartphone degli scrutinanti. 
+Ti autentichi con SPID o CIE, leggi un QR code che si rigenera ogni tot secondi e voti.
+Il voto finisce in una blockchain criptata che viene decriptata solo a chiusura delle urne.
+
+Farei comunque sempre andare le persone in una sede a votare (non per forza quella di residenza a questo punto) per essere sicuri che non subiscano minacce durante la votazione
+
+Non capisco perché non si discuta di questo tema più spesso e si inizi a programmarne il suo uso futuro.
