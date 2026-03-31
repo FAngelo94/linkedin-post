@@ -1,0 +1,14 @@
+E se al posto di un hardisk avreste un QR code per salvare le vostre foto?
+
+Chi non ha letto la notizia starà pensando che ho sbagliato a scrivere (o mi sono fumato qualcosa prima di scrivere), ma è tutto vero: un team di ricercatori ha creato un QR code così piccolo da poter essere inciso su un film ceramico, con pixel da soli 49 nanometri. Questo significa che su un foglio A4 si potrebbero salvare oltre 2 terabyte di dati.
+
+Inoltre, essendo realizzato con materiali ceramici, questo QR code è estremamente resistente a caldo, pressione e tempo. 
+Ovviamente non richiede nemmeno corrente o refresh per mantenere i dati, il che significa che potrebbe durare per secoli, forse addirittura millenni.
+
+Quando ho letto la notizia due cose mi sono venute in mente:
+1. Le tavolette incise viste in tanti musei (cosa poi citata anche in coda all'articolo)
+2. Si potrebbero salvare 2 tera di foto su un foglio A4 rendendo anche facile (perchè occuperebbe poco spazio) ed economico costruire un album di famiglia che duri generazioni
+
+Ok, in realtà non è che tutti possiamo creare o leggere questo tipo di QR code a casa nostra in realtà, serve ad esempio un microscopio elettronico per leggerlo, ma magari a regime si potrebbe pagare un servizio che lo faccia per noi.
+
+Qual'è la prima cosa che vi è venuta in mente leggendo la notizia? Cosa salvereste su un QR code del genere? 
