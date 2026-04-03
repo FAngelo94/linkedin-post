@@ -1,0 +1,21 @@
+Il progetto di cui vado più fiero?
+Sicuramente è tra i progetti che mi hanno dato più soddisfazione nella mia carriera lavorativa, almeno fin qui.
+
+In breve Smanno è una startup che sviluppa soluzioni di automazione nei laboratori clinici, utilizzando principalmente robotica collaborativa sia fissa che mobile e in questo periodo sta ufficialmente entrando sul mercato vendendo i suoi primi prodotti.
+
+Lato mio ho avuto la fortuna di essere coinvolto in questo progetto fin dall'inizio e ho realizzato tutta l'infrastruttura software che permette di gestire i robot (lo sviluppo dei singoli robot e dell'hardware è merito di Emanuele Schiavon)
+
+Parliamo di:
+- progettazione del database
+- sviluppo del backend (API + integrazione diretta con i robot)
+- sviluppo del frontend (web app responsive con gestione ruoli e interazioni avanzate)
+- versionamento e gestione installazione sui sistemi dei clienti
+
+L'obiettivo principale era quello di creare una piattaforma software che fosse il più flessibile possibile in modo da poter gestire soluzioni di robotica e scenari molto diversi tra loro e creare task complessi in maniera semplice.
+
+Un risultato che fino ad ora è stato raggiunto e che stiamo continuando a migliorare giorno dopo giorno, anche grazie al feedback dei nostri clienti.
+
+Perché mi ha dato così tanta soddisfazione? 
+Perché è un progetto, di una certa complessità, che ho fatto nascere e di cui ho curato ogni singolo aspetto in autonomia.
+
+Qual'è un vostro progetto di cui siete particolarmente fieri?
