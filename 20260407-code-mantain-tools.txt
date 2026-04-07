@@ -1,0 +1,41 @@
+Github, Copilot e Claude per monitorare il tuo codice
+
+Di recente mi è capitato più volte di leggere post di persone che sponsorizzano servizi software propri per analizzare il codice al fine di trovare bug, vulnerabilità o semplicemente per migliorarne la qualità
+
+Quello che quasi mai viene chiarito è:
+👉 che differenza c’è (se c’è) tra questi strumenti e ciò che puoi già fare con GitHub, Copilot o Claude?
+
+🛡️ **Security & Quality (nativo GitHub)**
+La soluzione più immediata è usare quello che GitHub offre già:
+- Analisi statica del codice
+-- vulnerabilità note
+-- problemi di mantenibilità
+-- suggerimenti automatici
+- Dependabot
+-- aggiornamento dipendenze
+-- alert su CVE
+-- PR automatiche
+👉 perfetto per problemi **noti e standardizzati**
+
+🤖 **AI review (Copilot & Claude)**
+Puoi:
+- analizzare codice o diff
+- fare code review
+- trovare bug logici
+- proporre miglioramenti
+E soprattutto:
+👉 puoi definire regole personalizzate (security, stile, architettura)
+👉 non solo pattern… ma **ragionamento sul codice**
+
+⚙️ **Automazione (CI/CD)**
+Il tutto può essere integrato nel workflow:
+- analisi su ogni PR
+- controlli automatici ad ogni commit
+- scansioni periodiche
+Con:
+- GitHub Actions
+- pipeline CI/CD
+- API (es. Claude)
+
+Se si può già fare tutto questo con tool che sicuramente la maggior parte di sviluppatori già usano e pagano
+Ha davvero senso aggiungere altri tool sopra?
