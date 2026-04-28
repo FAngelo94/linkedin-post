@@ -1,0 +1,10 @@
+Mi capita sempre più frequentemente di confrontarmi con persone, non sviluppatori o sviluppatori alle prime armi, che hanno sviluppato qualcosa con l'aiuto dell'IA ma non hanno idea di come o dove pubblicarlo.
+Per un MVP, o in generale per una sito o webapp, che voglio pubblicare a costo zero, o quasi, la mia scelta preferita è Firebase Hosting.
+
+- Facile da configurare e si integra facilmente con le github action
+- Ha un free tier molto generoso
+- Ha una serie di servizi già pronti, se servono, come database, autenticazione, funzioni serverless, ecc.
+
+A tal proposito stavo pensando se fare una video guida dove realizzo una webapp react e la pubblico proprio su Firebase e, magari, provare poi ad integrare qualche funzionalità "avanzata" come l'autenticazione o un database. Potrebbe interessare a qualcuno?
+
+In caso affermativo suggeritemi pure che webapp da realizzare.

@@ -1,0 +1,16 @@
+Qual'è la miglior strategia per risparmiare token?
+La semplicità
+
+LinkedIn ultimamente è pieno di post che vendono skill, strategie e prompt magici per ottimizzare l'uso dei token.
+
+Alcuni funzionano. Ma nella maggior parte dei casi basta semplificare il problema e i token si risparmiano da soli.
+
+Cosa significa in pratica?
+
+- Usa modelli più piccoli per task semplici. Non prendi l'auto per fare 200 metri.
+- Non caricare skill o MCP che non ti servono per quel task specifico. Sarebbe come portarsi dietro sempre la valigia grande anche se si fa un breve weekend fuori porta.
+- Nuovo task non collegato al precedente? Apri una nuova sessione. Non farlo è come portarsi dietro un pesante zaino da escursione ovunque voi andiate
+- Dopo una lunga sessione di pianificazione fai creare al tuo modello un breve riassunto dei todo e dei punti chiave, così da poterlo ricaricare in una nuova sessione. È come prendere appunti durante una lezione per poterli consultare in seguito invece di dover ascoltare di nuovo tutta la lezione.
+
+Voi appllicate già strategie simili? 
+Scrivete nei commenti se ne avete altri da condividere! 

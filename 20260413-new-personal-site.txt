@@ -1,0 +1,22 @@
+Sito Personale Aggiornato
+
+Finita la collaborazione con un cliente ho deciso di dedicare un po' di tempo a migliorare il mio sito personale, per aggiornarlo ma anche per renderlo più utile e interessantea a potenziali nuovi clienti o collaboratori.
+
+Le modifiche nascono da tre fonti principali: 
+- i feedback ricevuti
+- alcuni siti di colleghi su LinkedIn
+- un’analisi fatta da Claude, che mi ha dato diversi spunti concreti su cui lavorare.
+
+Aggiornamenti principali:
+- Riorganizzato il sito in 3 pagine anzichè 1
+- Ho rivisto la home, aggiungendo informazioni più utili per potenziali clienti, come tempistiche di consegna e recensioni di clienti passati
+- A malincuore Ho rimosso, almeno per ora, lo sfondo animato, era una feature divisiva, apprezzata da alcuni ma meno da altri
+- Dedicato una pagina ai lavori e progetti passati creando una sezione per i progetti principali ai quali ho aggiunto anche una descrizione meno tecnica
+- Ho aggiunto un piccolo blog per raccogliere ciò che pubblico anche su LinkedIn e rendere il sito più aggiornabile e indicizzabile
+- Aggiunto un chatbot in cui è possibile chiedere informazioni su di me (per gli HR più pigri xD)
+
+Per i più curiosi ho voluto pubblicare il vecchio sito in questo url temporaneo: https://angelo-falci--old-idcw7q77.web.app/?lang=it
+
+Mentre questa è la versione aggiornata: https://angelofalci.com/?lang=it
+
+Cosa ne pensate?
