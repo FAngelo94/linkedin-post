@@ -1,0 +1,24 @@
+MNHEME - a personal diary to understand how you think
+
+Mirko Perrone last week released an interesting project: 𝗠𝗡𝗛𝗘𝗠𝗘, a database inspired by how human memory works.
+
+Details in his post: https://www.linkedin.com/feed/update/urn:li:activity:7440670399576760320/
+
+I liked the idea so much that I translated the logic from Python (designed to run on the backend) to JavaScript and added some changes to turn it into a PWA: a personal diary of one's thoughts.
+
+Key sections:
+
+- Perceive: transforms raw thoughts into structured memories
+- Memories: browse and search through all saved memories
+- Brain: the cognitive brain of MNHEME, query, reflect, dream, analyze
+- Stats: database statistics, emotional timeline and graph of connections
+- Setting: customize the diary and configure one or more LLMs to make it work
+
+And security?
+
+Maximum, everything is saved locally 😂
+(but you can import/export data between devices)
+
+Try it here: https://mnheme-musa.web.app/
+
+If you test it, let me know what you think, any feedback is useful both to me and to Mirko Perrone to improve the project.

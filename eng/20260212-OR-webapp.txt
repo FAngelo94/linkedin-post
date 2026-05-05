@@ -1,0 +1,22 @@
+Last week I completed my first project done for a client completely “externally” (without intermediaries) using the "Subscription Developer" model
+
+How did it work?
+- Initial call: they explained goals and requirements.
+- Estimate: 2 weeks of development → 2-week subscription.
+- The next day: I start working.
+- End of week 1: demo of what’s been done. Client satisfied → pays for both weeks.
+- End of week 2: site delivered.
+
+Advantages
+- You start immediately. Zero time lost to endless contracts and technical interviews. If after the first week they aren’t satisfied, they don’t pay.
+- Total flexibility. During the 2 weeks they can ask for changes and tweaks without debates about “how much this change costs”. I only point out if we’re going beyond the 2-week subscription.
+- No micromanagement. No timesheets, no estimate for every single change. Focus only on the goal.
+
+Final result?
+Client satisfied.
+Me too.
+
+When the project becomes public I might present it in a post with the client’s permission
+
+If you also need a developer and you like this way of working, write me here on LinkedIn or book a call from my site:
+👉 https://angelofalci.com/

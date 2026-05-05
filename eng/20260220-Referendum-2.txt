@@ -1,0 +1,19 @@
+A thought on the Justice Referendum – part 2
+
+If a site's users use it differently than developers expected, or they can do things they "shouldn't be able to do" because of a bug, who is responsible?
+
+The users who "didn't understand"?
+Or those who designed and developed the system?
+
+In software the answer is quite clear:
+if the behavior is technically possible, the responsibility lies with whoever wrote the rules of the game.
+
+This reasoning came back to me while reading, these days, the government's attacks on the judiciary, accused of "obstructing" political action.
+
+But the judiciary applies the laws.
+And who writes the laws?
+
+If a system produces unwanted effects, maybe the problem isn't who runs it, but who designed it.
+
+In tech we call it a design flaw.
+In politics what do we call it?

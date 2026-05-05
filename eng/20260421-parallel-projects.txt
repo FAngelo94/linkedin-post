@@ -1,0 +1,26 @@
+How many projects can I handle in parallel?
+
+It’s one of the questions I get asked most often.
+Both by new clients and by HR
+
+The short answer is: it depends
+
+It depends on the type of project.
+It depends on my role.
+It depends on how much responsibility I’ll have on my shoulders.
+
+If I’m only handling the frontend, the workload is different compared to a project where I manage the entire stack.
+And it’s not the same to build a dashboard with external APIs, authentication, and custom logic, versus a static landing page.
+
+Another factor also matters: how familiar that work is to me.
+If I’ve already solved similar problems, I move faster.
+If it’s something new, it takes more time to do things properly.
+
+That’s why it’s not possible to give a definitive answer before truly understanding the project.
+First I want to know what needs to be done, what the context looks like, and what the operational expectations are.
+Only then can I say if I have room, and how much real availability I can offer.
+
+At the moment, though, I’m fairly free to take on 1 or 2 more projects 👀
+
+What about you?
+How many projects can you handle in parallel?

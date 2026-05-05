@@ -1,0 +1,22 @@
+A thought on the Justice Referendum
+
+In recent weeks I studied the topic: articles, videos, pro and con interventions.
+Because when I vote I want to do it with my own head, not with the politician who presents their idea better.
+
+Digging into the topic I realized one thing: we are delegating to millions of people an extremely technical decision, which affects the institutional architecture of the country.
+
+I had the time (and willingness) to study.
+But realistically, how many will?
+
+The risk is that the winning argument won’t be the best one, but the simplest narrative.
+Or the loudest one.
+
+The referendum is a very powerful democratic tool.
+But it works well only when those who vote have adequate tools to understand what they are changing. Otherwise it becomes a huge political lever, usable to change delicate parts of the system with slogans.
+
+I see it this way:
+in my work, if a company asks me to develop a webapp, I don’t make managers vote on which architecture to use or which database to choose. I listen to them about business goals, but technical choices belong to those who have the skills to evaluate them.
+
+Here we are doing the opposite.
+
+What do you think?

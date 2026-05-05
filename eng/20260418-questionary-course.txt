@@ -1,0 +1,10 @@
+I increasingly encounter people, non-developers or junior developers, who developed something with the help of AI but have no idea how or where to publish it.
+For an MVP, or generally for a site or webapp that I want to publish at zero cost, or almost, my preferred choice is Firebase Hosting.
+
+- Easy to configure and integrates effortlessly with GitHub Actions
+- Has a very generous free tier
+- Offers a set of ready-made services, if needed, like database, authentication, serverless functions, etc.
+
+In this regard I was thinking about making a video guide where I build a React webapp and publish it on Firebase and maybe try to integrate some "advanced" features like authentication or a database. Could that interest anyone?
+
+If so, suggest what webapp to build.

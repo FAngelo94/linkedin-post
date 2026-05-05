@@ -1,0 +1,20 @@
+Claude vs ChatGPT
+
+In development I use Copilot, switching models based on the task (including Claude Opus 4.6 and GPT-5.x).
+In recent days I tried Claude Max and the difference, on complex tasks, I admit it surprised me.
+
+On micro-tasks it changes little.
+But when the problem requires prolonged reasoning, planning and maintaining context for several minutes, Claude is on another level. It keeps iterating without degrading. On Copilot, even using the same model, this continuity is lost more easily.
+
+Another interesting point: orchestration.
+With Claude Max you can explicitly ask to parallelize, launch multiple agents, split the work. Just write it in chat and it really does it in the background.
+
+On coding, therefore, in my experience Claude Max is superior.
+But we're also comparing very different plans: ~€100/year vs ~€200/month. It would be strange if it weren't.
+
+That said, in general-purpose text generation, for example improving a post like this, ChatGPT (even the free version) still seems more solid and natural to me.
+
+This confirms one thing: there isn't yet an AI "good at everything", we're far from AGI basically.
+Each stack has its strengths.
+
+What experience do you have? Is there any other model alternative to the two presented that you consider better at something?

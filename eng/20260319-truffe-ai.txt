@@ -1,0 +1,31 @@
+AI has also improved scams
+
+With AI today you can build sites and applications at a speed previously unthinkable, even with little expertise.
+The dark side? The same goes for scams.
+
+I mention it because recently a friend, whom we'll call Mario for convenience, fell victim to one.
+No financial damage fortunately, but the dynamic deserves attention.
+
+Mario isn't a tech tinkerer, but he's not a "boomer" either
+
+What happened?
+
+He gets a WhatsApp message from a friend (also a victim) asking him to vote for a contest involving children.
+This friend actually works with children; I don't know if there was research behind it or pure coincidence, but the message looked very credible.
+The site, by the way, was well made and translated without errors.
+
+He goes ahead to vote and during the process ends up on the screen below to "validate" the vote.
+Mario, in a moment of carelessness and without thinking too much, follows the procedure.
+
+Result: those behind the scam take control of his WhatsApp, send the same message in broadcast to all his contacts and get his account blocked.
+
+When he came to me there was little to be done: report to Meta and wait.
+Account unlocked after a few hours.
+
+I know someone seeing the image below might think "how stupid", but we're all clever about the things we know and we can all be fooled in areas where we lack expertise.
+And it's more or less the same thing I told my friend to console him.
+
+What can be done to fight these scams?
+Talk about them. Especially when you fall for them and would want to keep it hidden out of shame.
+
+Have you encountered any well-crafted scam recently?

@@ -1,0 +1,8 @@
+Best strategy to save tokens? Simplicity.
+LinkedIn is full of posts selling prompt tricks and token hacks. Some work, but often simplifying the problem saves tokens naturally.
+Practical tips:
+- Use smaller models for simple tasks. Don’t take the car for a 200-meter trip.
+- Don’t load skills or MCPs you don’t need for the task.
+- Start a new session for a new, unrelated task instead of carrying a heavy context.
+- After a long planning session, ask the model for a short summary of todo and key points to reload into a new session.
+Do you use similar token-saving strategies? Share them below.

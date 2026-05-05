@@ -1,0 +1,21 @@
+What is a Cookie?
+
+Anyone reading this post will have accepted who knows how many, but how many people know what they are in practical terms?
+A small text file that a site saves in your browser, that's it.
+
+And what are they for?
+It depends
+
+The "technical" ones are for useful things: keeping you logged in, remembering the language, the cart of an e-commerce. Without them you'd have to log in again on every page.
+
+The "less good" cookies are third-party ones, placed not by the site you're visiting, but by external companies, almost always advertising.
+You search for a flight to London on a travel site. That site has a cookie from an ad network. You go on Instagram, same network, same cookie.
+Result: ads for flights to London everywhere.
+
+It's not magic, it's not your phone listening to you, it's a "little cookie" that follows you from one site to another building a profile of your interests.
+(Although sometimes I'd swear I've received ads for things I've never searched for, only talked about)
+
+Then there's the theatre of cookie banners.
+GDPR says you must give explicit consent, in theory.
+In practice, "Accept all" is a big colorful button, "Customize" is a grey link that opens 15 submenus, which I often don't even notice.
+It's called a dark pattern, and it's designed specifically to make you click yes.

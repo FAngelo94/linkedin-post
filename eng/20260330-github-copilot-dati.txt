@@ -1,0 +1,13 @@
+Public repositories aren't enough for Copilot anymore
+
+Soon it will start using user-generated data after noticing a big jump in quality in tests run with its own employees.
+
+Consent is automatic, but those who don't want to participate can disable it.
+
+To do this go to Profile > Settings > Copilot > Features
+
+Look for the option "Allow GitHub to use my data for AI model training" in the Privacy section, one of the last items on the page.
+
+What do you think of this move by Microsoft?
+
+Personally it doesn't seem like a drama to me; after all, if I'm not mistaken Anthropic's Claude more or less does the same thing, but I certainly find the choice to make consent active by default annoying.

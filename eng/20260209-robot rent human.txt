@@ -1,0 +1,15 @@
+Have you heard of RentAHuman.ai?
+
+The site works roughly like this:
+- Humans sign up with skills, city and hourly rate.
+- AI agents search the database, select a profile and assign a task.
+- Payments are made in cryptocurrencies via protocols like MCP.
+
+In other words, the situation is reversed: it’s no longer us using AI but AI using us!
+
+Will we become tools of AI Agents?
+Maybe later we’ll be fired when they have robots to upload themselves into?
+
+Jokes aside, at the moment the site isn’t widely used and I think it’s more of a social experiment than a business that will explode in the future, but never say never
+
+What do you think?

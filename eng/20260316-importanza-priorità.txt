@@ -1,0 +1,22 @@
+Two tasks assigned, which one do I start with?
+
+It seems obvious but it's worth remembering every now and then.
+It's one of the most cross-cutting issues I've encountered across different projects and clients I've worked with.
+
+Given 2 tasks, how do I decide which is more important than the other?
+Here are the few questions I ask myself:
+
+- Does one depend on the other? -> start with the independent one
+- Is only one of the two blocking the next release? -> start with the blocking one
+- Which of the two is more complex to implement and/or test? -> start with the harder one, to allow more time for testing before release
+- Does one of the two have a direct impact on the end user or which of the two most improves the user experience? -> priority to the one that affects, or most improves, the user experience
+- Am I independent in completing both or do I need to collaborate with someone else? -> check both availabilities
+
+Usually answering just one or two is enough to understand which task is the priority.
+If instead you've answered all the questions and the two tasks are exactly at the same level, which is very rare, what do you do?
+I then simply start with the one that seems less fun to develop, following the line of principle: duty first, then pleasure.
+
+How do you manage priorities between tasks? Do you have your own method?
+
+And remember:
+"If everything is a priority in the same way, then nothing really is"

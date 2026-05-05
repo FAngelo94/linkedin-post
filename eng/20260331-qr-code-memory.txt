@@ -1,0 +1,14 @@
+What if instead of a hard disk you had a QR code to save your photos?
+
+Anyone who hasn't read the news might think I wrote it wrong (or that I smoked something before writing), but it's all true: a team of researchers created a QR code so small it can be engraved on a ceramic film, with pixels of only 49 nanometers. This means that over 2 terabytes of data could be stored on an A4 sheet.
+
+Moreover, being made of ceramic materials, this QR code is extremely resistant to heat, pressure and time.
+Obviously it also doesn't require power or refreshing to retain the data, which means it could last for centuries, perhaps even millennia.
+
+When I read the news two things came to mind:
+1. The engraved tablets seen in many museums (which are also mentioned at the end of the article)
+2. You could store 2 TB of photos on an A4 sheet, making it easy (because it would take up little space) and cheap to build a family album that lasts generations
+
+Ok, actually it's not like we can all create or read this kind of QR code at home — for example you need an electron microscope to read it — but maybe in the long run you could pay a service to do it for us.
+
+What's the first thing that came to your mind when reading the news? What would you store on a QR code like that?

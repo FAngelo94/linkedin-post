@@ -1,0 +1,16 @@
+I'm teaching Claude to write like me.
+That is, badly
+
+How? With my posts.
+
+I have most of my recent LinkedIn posts and I put them in a folder.
+I had Claude analyze them, asking him to create a rules file that reflected my style.
+
+When I want to use him to write a post, I write a short draft of the topic with the key points, then he reads the old posts, follows the rules in the created file, and proposes a draft that sounds like me.
+
+The most interesting thing is seeing him improve as I add more posts.
+At the start of the project, when I had few, he produced pathetic posts and I kept preferring ChatGPT, while now, with about 15 past posts, he starts to write like me.
+
+(This post, for example, was born like this: Claude's draft, then revised and rewritten by me where needed)
+
+Do you use AI to write content? How do you keep your voice?

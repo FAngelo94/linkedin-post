@@ -1,0 +1,21 @@
+The project I'm most proud of?
+It's certainly among the projects that have given me the most satisfaction in my working career, at least so far.
+
+In short, Smanno is a startup that develops automation solutions for clinical laboratories, using primarily collaborative robotics both fixed and mobile, and it's currently officially entering the market selling its first products.
+
+On my side I was lucky to be involved in this project from the start and I built the entire software infrastructure that allows managing the robots (the development of the individual robots and the hardware is the work of Emanuele Schiavon)
+
+We're talking about:
+- database design
+- backend development (API + direct integration with the robots)
+- frontend development (responsive web app with role management and advanced interactions)
+- versioning and management of installation on clients' systems
+
+The main objective was to create a software platform that was as flexible as possible so as to be able to manage robotics solutions and very different scenarios and to create complex tasks in a simple way.
+
+A result that so far has been achieved and that we are continuing to improve day after day, also thanks to feedback from our customers.
+
+Why did it give me so much satisfaction?
+Because it's a project, of a certain complexity, that I brought to life and of which I took care of every single aspect independently.
+
+What's a project of yours that you're particularly proud of?

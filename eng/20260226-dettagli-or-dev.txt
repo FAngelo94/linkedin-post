@@ -1,0 +1,22 @@
+The development process of Orbiting Rocks
+A concrete case of how AI tools are changing the way we develop software and collaborate with clients.
+
+First of all, if you don't know the project, I talked about it here: https://www.linkedin.com/feed/update/urn:li:activity:7429930405946003457/
+
+The starting point
+The person who contacted me had built a prototype completely on their own, using AI tools. A result that until recently would have been unthinkable for someone without programming skills.
+
+The problem?
+The prototype wasn't scalable and some fundamental features were missing even for a prototype. To give you an idea: every page of the site was a single huge HTML file, with CSS and JavaScript mixed inside.
+
+The request?
+Simple: fix it and put it online.
+
+How I worked
+1) I started by analyzing the prototype together with the client, listening to their needs and proposing additional features to improve the user experience, for example a registration system and saving reports to a database instead of locally.
+2) From there I moved to Lovable, feeding it the original HTML files and asking it to generate a React app with the same functionality so we would have a more structured and scalable project. This single step, done manually, would have taken me weeks. With AI it was drastically faster.
+3) I then downloaded the scaffolding locally and continued development with Copilot, setting up the project for a deploy on Firebase: hosting, authentication, Firestore as the database and Cloud Functions for the small backend needed.
+4) Throughout the process I regularly published to Firebase to gather continuous feedback from the client. 
+5) Once we reached a stable version within the agreed time (two weeks of subscription), I transferred ownership of the Firebase project to a dedicated Google account created by the client, leaving them full control.
+
+The final result → https://orbitingrocks.com/

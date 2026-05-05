@@ -1,0 +1,41 @@
+🚀 Orbiting Rocks is online
+
+Cybersecurity is not (only) protection. It’s legibility.
+
+Early-stage startups live in constant acceleration.
+They build while deciding. They decide while fundraising. They fundraise while being analyzed.
+
+The problem?
+Trust breaks before systems break.
+
+Orbiting Rocks flips the traditional way of looking at security in startups.
+
+It doesn’t talk about checklists.
+It doesn’t sell theatrical compliance.
+It doesn’t propose SOC 2 to a pre-seed.
+
+It talks about Trust Legibility.
+
+👉 Not “how secure are you?”
+👉 But “are you legible under scrutiny?”
+
+For investors, enterprise partners and regulators one thing matters:
+understanding how you think, how you decide, how you manage risk.
+
+Orbiting Rocks works precisely on this:
+- makes explicit decisions that usually remain implicit
+- structures responsibilities before they become chaos
+- transforms technical trade-offs into a defensible narrative
+- prepares the startup for due diligence before it arrives
+
+They also have a free tool, the Trust Legibility Tool, which in 10 minutes tells you:
+- where your security posture is interpretable
+- where it risks creating friction
+- what to say (and what to avoid) during due diligence
+
+In early-stage, the difference is not made by who has more policies.
+It’s made by those who know how to explain why they exist, or why they don’t yet.
+
+Here’s the link: https://orbitingrocks.com/
+
+In a next post I’ll present the process with which I developed Orbiting Rocks for my client who used the subscription payment model I offer!

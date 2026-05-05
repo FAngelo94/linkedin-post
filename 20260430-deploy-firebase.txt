@@ -1,0 +1,15 @@
+Pubblicare un sito su Firebase è più semplice di quanto sembri.
+E si può fare gratis.
+
+Negli ultimi giorni ho deciso di registrare qualche video guida su problemi molto pratici con i quali persone con cui ho parlato si sono confrontate.
+Questo è il primo, ed è pensato soprattutto per chi non sviluppa di mestiere ma si è ritrovato con un sito, magari generato da ChatGPT, pronto da pubblicare.
+
+Ammetto che fare video non è il mio forte, non sono abituato a parlare ad alta voce senza nessuno davanti, ma anche per questo ho deciso di fare questo tipo di contenuto, per mettermi alla prova.
+
+Nel video cerco di andare dritto al punto.
+Zero tecnicismi inutili, solo i passaggi che servono per pubblicare tutto su Firebase senza troppe spiegazioni teoriche.
+
+Se il contenuto vi è utile, nei prossimi video posso parlare ancora di Firebase o di altri problemi pratici che vedete davvero spesso.
+
+Se avete domande o suggerimenti, scriveteli nei commenti.
+Link nei commenti (al signor Linkedin non piacciono i link nei post dicono)

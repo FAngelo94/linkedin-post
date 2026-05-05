@@ -1,0 +1,37 @@
+A case where AI failed
+
+On LinkedIn I often read posts that praise or criticize AI in development, but most never provide concrete examples, so here’s a fresh one
+
+Quick preface:
+- I’ve used Firebase for years as hosting, but I had never used its Authentication service or Functions (I usually handle everything on the backend).
+- For development I use Copilot in VS Code, mainly with GPT-5.2-Codex or Claude Sonnet 4.5; I use it daily and consider it a phenomenal tool, which is why I’m more surprised when it fails than when it gets everything right.
+
+The problem:
+For a project I used Firebase for both deploy and authentication.
+With the default email verification, the flow is:
+👉 email → click → Firebase blank page with a “confirm” button → redirect to the webapp.
+
+The user understandably dislikes the blank page
+
+Constraint: continue using Firebase Auth (at least for now), without renting and configuring a custom mail server.
+
+Describing only the problem this is the solution proposed by Copilot:
+❌ "It can’t be done. Rent a crappy mail server."
+
+I suggest using Firebase Functions somehow and modifying the activation link in the email (I didn’t yet have a clear idea how to do it but thought Functions could be used), but the solution proposed by Copilot basically remains unchanged:
+❌ "It can’t be done. Rent a crappy mail server."
+
+At this point I went back to the good old Google and found a video on YouTube that fit my needs
+
+I discovered that:
+✔️ you can create a Cloud Function
+✔️ use that URL in the Firebase email template
+✔️ activate the user in the function
+✔️ automatic redirect to the webapp
+➡️ zero blank page
+
+After explicitly explaining this solution to Copilot it implemented the function perfectly.
+I only change the URL in the Firebase email template and that’s it.
+
+Conclusion
+I was struck by the fact that the AI was convinced it couldn’t be done, even after I suggested the right path, and couldn’t connect the pieces but once guided step-by-step, the implementation was flawless

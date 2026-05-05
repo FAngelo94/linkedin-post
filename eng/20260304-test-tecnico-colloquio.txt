@@ -1,0 +1,25 @@
+Do take-home coding tests still make sense?
+I still see job ads that send a "home assignment" with a deadline. After years of experience and public projects, asking candidates to spend hours on a test feels misaligned and disrespectful.
+Today an AI with a Claude or ChatGPT subscription can often complete those tests. That risks selecting whoever has the best tool, not the best developer.
+Dear HR and colleagues, a question 👇
+
+Does a take-home technical test still make sense?
+
+I still see positions where the "homework" is sent to be completed within X days.
+After 8 years of experience, online projects and public code to discuss, investing hours (or days) on a test seems poorly aligned with the current context, as well as disrespectful of a professional's time.
+
+Moreover, today with a subscription to Claude or ChatGPT that test in many cases can be easily done by AI.
+And so you risk selecting whoever has the better tool, not who is the better developer.
+
+If you really want to understand how a developer works, the most useful thing is to talk together.
+See how they reason, how they approach a problem, how they make decisions.
+Maybe by looking at a project implemented in the past.
+
+In my case I also propose a concrete alternative designed for those who want to use my subscription formula:
+let's start collaborating for a week.
+
+If you're convinced by how I work and how I make decisions, you pay and we continue.
+If you don't feel comfortable, we part ways.
+(for more info: https://angelofalci.com/)
+
+What do you think?

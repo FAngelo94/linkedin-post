@@ -1,0 +1,21 @@
+Have you ever wondered how Captchas work?
+
+The old ones were simple: distorted text, you rewrote it and you passed.
+But you might not know that with reCAPTCHA v1, Google used your answers to digitize books. Millions of people working for free without knowing it.
+
+Then came the famous "I'm not a robot", and that was the first time I went looking for info on captchas because I couldn't understand how it could work.
+Why does clicking a checkbox prove I'm not a bot? I can do that with some JavaScript.
+The system analyzes how you move the mouse, the speed, the tiny oscillations of the cursor. A human has imprecise and random movements, a bot doesn't, unless...
+The real check actually starts pages before you reach that checkbox, in short.
+
+But the most interesting version is reCAPTCHA v3, which you probably haven't seen yet.
+It's the invisible one 😂
+It doesn't ask you anything, it runs in the background and assigns you a score from 0 to 1.
+To do that it collects various data like IP address, cookies, mouse movements, keys pressed, device information.
+
+All sent to Google's servers.
+
+Basically, to prove you're human, you give Google a full package of your online behaviors.
+Not surprisingly, reCAPTCHA v3 has several GDPR compliance issues.
+
+I'd also be curious to know how many regular users, not people in my field, actually know what captchas are for

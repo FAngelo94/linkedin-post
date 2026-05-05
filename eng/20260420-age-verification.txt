@@ -1,0 +1,21 @@
+Was the Age Verification app hacked in 2 minutes?
+Short answer: no, more of a communication "bug"
+
+The app wasn't yet a finished product; it was a demo.
+Yet it was reported as if it were already ready and public.
+
+As for the rest, the first articles I read seem to have exaggerated the situation somewhat.
+From further research I did, the reported problems would actually be solvable in fairly short times.
+If you have different sources, correct me in the comments.
+
+Out of curiosity I went to look at the repo, since it's open source:
+https://github.com/eu-digital-identity-wallet
+
+And at first glance it looks like a mess with its 81 repositories and scattered documentation everywhere.
+
+Why so many repositories?
+Because Age Verification is not an isolated project.
+It's only a piece of a much larger system on European digital identity.
+
+I like the idea of open source.
+I wonder how sustainable a project of this size really is, when its structure is so fragmented that it reflects even in external communication.

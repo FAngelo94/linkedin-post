@@ -1,0 +1,23 @@
+AI allows anyone to write code.
+The problem is managing it without creating a mess.
+
+That’s why one of the first things I recommend to people who develop only using AI is to use GitHub.
+Not just to "save code", but to have versions, history, backups, and at least some control when something breaks.
+
+
+For those who’ve been developing for years, this sounds obvious.
+For beginners, though, it often isn’t.
+And that’s exactly why the second video in my beginner-friendly guide will be about GitHub.
+
+I discovered GitHub only towards the end of my final year of my Bachelor's degree in Computer Engineering, almost by chance.
+Since then, it has become the home of my projects, with over 100 repositories by now.
+
+Before that, for my first projects, I used to save multiple local copies of the code to have a sort of "manual versioning"—it makes me laugh/cry just thinking about it now.
+
+I’ve always found it incredible that after 5 years of IT technical school and 3 years of university, no one had ever seriously talked to me about GitHub or version control systems.
+
+Which is crazy, considering how fundamental they are in real-world work.
+
+When did you start using GitHub or another version control system?
+
+If you’re not using it yet but are interested in the video, let me know in the comments and I’ll notify you when it’s out.

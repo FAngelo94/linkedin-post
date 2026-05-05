@@ -1,0 +1,9 @@
+Recently on LinkedIn I see more and more posts about how much decision-making power to give AI in projects, and about the importance of human oversight to avoid harm, especially in cybersecurity.
+
+But then you look up and discover that, in other parts of the world, AI doesn't limit itself to suggesting code or optimizing processes.
+It is starting to enter decisions that have real, irreversible and, perhaps, questionable consequences.
+
+I'm not writing this to say what's right or wrong — I'm not even sure myself.
+But the news made me reflect on how quickly the boundary is shifting between what is acceptable to leave to AI and what instead requires closer human control.
+
+👉 https://www.ilfoglio.it/esteri/2026/04/14/news/in-ucraina-per-la-prima-volta-nella-storia-i-robot-hanno-conquistato-una-postazione-nemica--276569

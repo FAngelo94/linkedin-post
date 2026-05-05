@@ -1,0 +1,51 @@
+How an agency "sold" me the website for my holiday home
+
+A few months ago I put a holiday home up for rent on Booking.com and Airbnb.
+
+At first I didn't intend to make a dedicated website.
+My idea was simple: most people search directly on the portals or on Google Maps, where I added the property with my contacts.
+
+However, last week I started receiving several calls from agencies wanting to sell me a website for my holiday home.
+The first few times I politely declined.
+
+After the umpteenth insistent call I decided to explain my point of view: for a small holiday home, in my opinion, having a website isn't that essential.
+
+The salesperson didn't agree.
+
+He explained that, from their experience (it's their job after all), many people search on Google even to look for holiday homes and having a website is very important.
+
+Well, he convinced me, so I told him I would develop the site myself, since it's my job, and that if they needed a hand I'd be available to talk about it.
+
+The guy took it well, he laughed and told me they didn't need it at the moment, wishing me a good evening.
+
+Do you really need a website for a case like this? I'm not completely convinced yet, but at least nobody calls me anymore to sell me one. 😄
+
+This is the site if you're curious: https://il-posto-giusto-valtellina.web.app/
+All built in vibe coding and published on Firebase
+
+-------------------------------------------------
+
+Improve the site's complete SEO to maximize visibility both in traditional Google searches and in AI searches (ChatGPT, Perplexity, Google AI Overview, Claude).
+Context: The site is about a holiday home located in Berbenno di Valtellina (SO), Lombardy, Italy.
+Search targets to cover:
+
+Turists (Italian) searching for holiday homes in Valtellina
+Foreign tourists (Germans, Swiss, Dutch, English) searching for holidays in the Italian Alps
+People searching for specific activities: skiing (Bormio, Ponte di Legno, Aprica are nearby), trekking, mountain biking, snowshoeing
+People searching by area: "case vacanza Sondrio", "affitti Valtellina", "appartamenti Valmalenco"
+People searching for experiences: "vacanza in montagna lombardia", "weekend sulle alpi", "agriturismo Valtellina"
+
+Technical interventions to execute:
+
+Meta tag: Optimize <title> and <meta description> of each page with local keywords (Berbenno, Valtellina, Sondrio, Rhaetian Alps). Add og: meta tags for social.
+Schema Markup (JSON-LD): Add structured data of type LodgingBusiness or VacationRental with: name, full address (street, city, postal code, region, country), GPS coordinates, phone number/email, offered services, available languages, priceRange.
+Headings (H1/H2/H3): Ensure each page has a clear H1 with the main keyword (e.g. "Holiday Home in Berbenno di Valtellina") and H2/H3 that cover tourists' frequently asked questions.
+Content optimized for AI Search: Add a structured FAQ section with real questions like: "Where is Berbenno di Valtellina?", "How far is it from the ski slopes?", "What can you do in Valtellina in summer/winter?", "How do you reach it from Milan/Zurich?". AIs extract answers from clear, direct texts.
+Alt text images: All images must have descriptive alt text referencing geography (e.g. "panoramic view of the Rhaetian Alps from the holiday home's terrace in Berbenno").
+Sitemap and robots.txt: Generate or update sitemap.xml and ensure robots.txt doesn't block important pages.
+Multilingual content: Add German and French to the site as well, with professional translations optimized for SEO for those markets (e.g. "Ferienhaus in Berbenno di Valtellina", "Maison de vacances à Berbenno di Valtellina").
+Speed and mobile: Verify the site is fully responsive and that images are compressed/optimized for fast loading (critical for Google ranking).
+Internal links: Link pages to each other with descriptive anchor text (not "click here" but "discover summer activities in Valtellina").
+Google Business / NAP Consistency: Insert name, address and phone number as text (not an image) in the footer, consistent with what I'll put on the Google Business Profile.
+
+Would you build a site for a small holiday rental or rely on platforms?

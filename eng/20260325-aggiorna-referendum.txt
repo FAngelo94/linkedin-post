@@ -1,0 +1,14 @@
+Is it possible to update the voting method in Italy?
+
+Last weekend, like many, I went to vote in the referendum and, like every vote, it seems absurd in 2026 to still be there with paper and pencil to vote.
+Is it possible that we can't set up a more digitized system?
+
+We already have a way to authenticate ourselves at the state level, SPID or, even better, the CIE.
+
+A monitor in each polling station would be enough, or maybe even poll workers' smartphones.
+You authenticate with SPID or CIE, scan a QR code that regenerates every few seconds and you vote.
+The vote ends up in an encrypted blockchain that is decrypted only when the polls close.
+
+I would still always have people go to a physical location to vote (not necessarily their registered address at this point) to be sure they don't suffer threats during voting
+
+I don't understand why this topic isn't discussed more often and why we don't start planning its future use.

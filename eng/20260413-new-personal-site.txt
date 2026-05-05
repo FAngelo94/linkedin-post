@@ -1,0 +1,22 @@
+Personal Site Updated
+
+After finishing a collaboration with a client I decided to spend some time improving my personal site, to update it but also to make it more useful and interesting to potential new clients or collaborators.
+
+The changes come from three main sources:
+- feedback I received
+- some colleagues' sites on LinkedIn
+- an analysis done by Claude, which gave me several concrete ideas to work on.
+
+Main updates:
+- Reorganized the site into 3 pages instead of 1
+- I revised the homepage, adding more useful information for potential clients, such as delivery times and past client reviews
+- Reluctantly I removed, at least for now, the animated background — it was a divisive feature, appreciated by some but less by others
+- Dedicated a page to past works and projects, creating a section for the main projects to which I also added less-technical descriptions
+- I added a small blog to collect what I publish on LinkedIn and to make the site more updatable and indexable
+- Added a chatbot where you can ask information about me (for the lazier HRs xD)
+
+For the curious I published the old site at this temporary URL: https://angelo-falci--old-idcw7q77.web.app/?lang=it
+
+While this is the updated version: https://angelofalci.com/?lang=it
+
+What do you think?

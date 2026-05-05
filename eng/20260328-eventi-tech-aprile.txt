@@ -1,0 +1,35 @@
+Every time I see a post about a tech event it's always too late for me to organize, this time I want to try to move earlier and see if I can attend any.
+
+Searching online, these are the most interesting tech events scheduled in Milan in April, I'm sharing them here in case they might interest someone else:
+
+1 April - Data Science Milan | Can Your Laptop Run AI?
+Meetup for people who work with AI and data science.
+https://www.meetup.com/data-science-milan/events/313817105/
+
+13 April - OpenClaw Milan #1
+Hands-on meetup on AI agents for builders, founders, developers and the curious.
+https://www.meetup.com/coding-bunker/events/313810247/
+
+15 April - AI Forum 2026, Milan
+AI applied to businesses. Organized by AIxIA, at Palazzo Giureconsulti.
+https://www.aiforum.eu/
+
+15 April - Hands-on with Kiro (Meetup #7), Milan
+AWS meetup for those who want to see AI in practice, not just in slides.
+https://www.meetup.com/aws-well-architected-usergroup-italy/events/313094012/
+
+16 April - Global Azure 2026, Milan
+Free day about Azure, cloud and AI.
+https://www.aspitalia.com/eventi/99/Global-Azure-2026-ASPItalia.com-Milano.aspx
+
+22 April - Mindstone AI Meetup, Milan
+Short talks, panels and a final aperitif at Talent Garden Calabiana.
+https://www.eventbrite.com/e/1985566939165
+
+
+27 April - GitHub Copilot Dev Days, Milan
+Milan stop dedicated to assisted coding with a practical workshop as well
+https://www.azuremeetupmilano.it/e/5053/GitHub-Copilot-Dev-Days-%7C-Milan
+
+I still don't know which one I'll go to, tips are welcome.
+If you know other interesting ones, feel free to mention them in the comments!

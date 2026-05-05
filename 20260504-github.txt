@@ -1,0 +1,23 @@
+L'AI permette a tutti di scrivere codice.
+Il problema è poi gestirlo senza fare casino.
+
+Per questo una delle prime cose che consiglio a chi sviluppa solo tramite AI è usare GitHub.
+Non solo per "salvare il codice". Ma per avere versioni, storico, backup e un minimo di controllo quando qualcosa si rompe.
+
+
+Per chi sviluppa da anni sembra scontato.
+Per chi è agli inizi, invece, spesso non lo è affatto.
+Ed è proprio per questo che il secondo video della mia guida per nabbi parlerà di GitHub.
+
+Io ho scoperto l'esistenza di Github soltanto verso la fine del mio ultimo hanno di triennale in Ingegneria informatica un po' per caso. 
+Da allora è diventato la casa dei miei progetti con oltre 100 repository ormai.
+
+Prima di allora per i miei primi progetti realizzati salvavo in locale più copie del codice in modo da avere una sorta di "versionamento" manuale, mi vien da ridere/piangere a pensarci adesso.
+
+Ho sempre trovato incredibile che tra 5 anni di perito informatico e 3 anni di università, nessuno mi aveva mai parlato seriamente di GitHub o dei sistemi di versionamento.
+
+Che è folle, considerando quanto sono trasversali nel lavoro reale.
+
+Voi quando avete iniziato a usare GitHub o un altro sistema di versionamento?
+
+Se invece non lo usate ancora ma vi interessa il video, scrivetemelo nei commenti e vi avviso quando esce.
