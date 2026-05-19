@@ -1,0 +1,14 @@
+Vi serve un tool gratuito e semplice con cui fare un grafico?
+Ecco mermaid.live
+
+L'ho riscoperto da poco: la prima versione è di circa dieci anni fa, quindi magari lo conoscete già.
+È una web app che permette di creare flowchart, timeline, schemi relazionali, kanban, git-flow e altro, usando una sintassi molto semplice, simile al Markdown.
+
+Potete rappresentare un flusso git, una kanban, una timeline, uno schema relazionale (come quello in foto), e tanto altro ancora.
+Selezionando la tipologia di grafico vi mostrerà già un esempio di codice da cui partire.
+
+Fun fact: 
+Perchè si chiama "Sirena" (è la prima cosa che mi viene in mente quando vedo un tool dal nome particolare😂)? 
+Il creatore, Knut Sveidqvist, ha scelto il nome del cartone animato che i suoi figli stavano guardando quando iniziò a sviluppare il tool, ovvero "La Sirenetta".
+
+Link al tool nei commenti!

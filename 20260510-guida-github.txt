@@ -1,0 +1,13 @@
+Ti diverti con il vibecoding, ma poi il codice dove lo salvi?
+
+Se sei un programmatore puoi passare al post successivo.
+
+Se invece da poco hai iniziato a creare qualche progetto usand l'IA questa guida è per te.
+Scopri GitHub, per gestire al meglio il codice generato dal tuo tool preferito.
+
+Zero tecnicismi o lunghe spiegazioni.
+Ti dico i vantaggi di usare GitHub e ti mostro un esempio pratico di come iniziare ad usarlo con i comandi base.
+
+Scrivetemi eventuali dubbi nei commenti.
+
+Ecco il link: https://www.youtube.com/watch?v=opvwSZkBeHU

@@ -1,0 +1,15 @@
+App con nomi a caso
+
+Cosa vuol dire per l'utente?
+Che se non uso l'app da un po' mi dimentico come si chiama, e se cerco il nome dell'azienda non la trovo.
+
+Se cerco Garmin, mi aspetto di trovare Garmin.
+Non "Connect".
+
+Se cerco Intesa Sanpaolo, mi aspetto di trovare Intesa.
+Non "Mobile".
+
+Che poi non capisco la logica dietro a queste scelte.
+
+Voi che ne pensate?
+Avete altre app con nomi a caso da segnalare?

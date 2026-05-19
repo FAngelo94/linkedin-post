@@ -1,0 +1,14 @@
+ou never really notice something until you actually need it.
+
+Recently I added the ability to book appointments with me on my personal website.
+A feature that in reality is barely used — people usually just reach out to me directly on LinkedIn.
+
+When I started looking for a tool, I had one main requirement: it needed to sync with my personal Google Calendar to avoid overlapping events.
+
+And that’s exactly where I discovered a Google Calendar feature I had never noticed before: “Booking pages”, which allows you to define availability across days and time slots and share it via a simple link.
+
+I’ve been using Google Calendar for years, but since I had never needed it, that feature had simply stayed hidden from me until now.
+
+Has it ever happened to you to discover a feature in a software you’ve been using for a long time only when you actually needed it?
+
+PS: I’ll drop the link to my booking page in the comments, so you can see how it looks (or use it to book a call and have a quick chat 😄)

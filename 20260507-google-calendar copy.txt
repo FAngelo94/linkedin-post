@@ -1,0 +1,13 @@
+Google Calendar ha una pagina di prenotazione integrata
+
+Cosa vuol dire in pratica?
+Che puoi far prenotare una call con un semplice link, senza usare servizi esterni, e con il calendario già sincronizzato per evitare sovrapposizioni.
+
+L'ho scoperto solo adesso, mentre aggiungevo questa possibilità sul mio sito.
+E la cosa assurda è che uso Google Calendar da anni.
+
+Mi fa sempre effetto quando una funzione ce l'hai davanti da tempo ma la vedi solo nel momento in cui ti serve davvero.
+
+A voi è mai capitato?
+
+PS: nei commenti lascio il link della mia pagina di prenotazione, così potete vedere come si presenta.
