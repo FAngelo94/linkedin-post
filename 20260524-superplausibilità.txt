@@ -1,0 +1,21 @@
+Gli LLM capiscono davvero quello che diciamo?
+
+Oppure sono semplicemente diventati mostruosamente bravi a imitare il linguaggio umano?
+
+Ho letto un articolo che sostiene una tesi interessante: gli LLM attuali non sono davvero intelligenti e, soprattutto, non porteranno mai all'AGI cosi come sono concepiti oggi.
+
+Non modellano la comprensione.
+Modellano la probabilita.
+
+In pratica, un modello risponde che 2+2=4 non perche "ha capito" l'addizione, ma perche quella risposta e statisticamente la piu plausibile.
+
+Cosa ne penso io?
+
+I modelli più avanzati di oggi richiedono enormi quantità di dati, potenza di calcolo ed energia per replicare, almeno in parte, capacità che il cervello umano esprime consumando appena 20 watt.
+
+Che sia quindi necessario un cambio di paradigma per arrivare ad una vera AGI?
+Per ora penso di sì.
+
+Voi come la vedete?
+
+📎 Link all'articolo nei commenti.

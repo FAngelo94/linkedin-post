@@ -1,0 +1,25 @@
+Con l'IA sta diventando più semplice rifare che modificare?
+E in futuro?
+
+Ultimamente ho fatto un test interessante.
+
+Dovevo modificare una web app, servizi e contenuti simili, ma con una UI completamente diversa
+Il cliente mi ha fornito un mockup HTML generato con ChatGPT.
+
+A quel punto ho provato due approcci:
+- far modificare all’AI il codice React esistente
+- far generare una nuova app React partendo dall’HTML
+
+Risultato?
+- Nel primo caso il modello continuava a rompere componenti e logica esistente.
+- Nel secondo, con un prompt molto più semplice, ha generato una base quasi perfetta al primo colpo.
+
+E questa cosa mi ha fatto riflettere.
+
+Oggi gli LLM sono molto più forti nel creare codice da una specifica che nel modificare sistemi già esistenti.
+
+Quindi mi chiedo:
+- Con il miglioramento dei modelli, l’AI diventerà davvero brava nella manutenzione del codice legacy? 
+- Oppure sarà più conveniente rigenerare intere parti di applicazione invece di modificarle incrementalmente?
+
+Magari, in un futuro quasi distopico per noi dev attuali, l'importante sarà salvare un mega prompt aggiornato che descriva l’intera app, piuttosto che preoccuparsi di mantenere un codice pulito e modulare per l’AI.
