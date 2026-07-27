@@ -1,0 +1,29 @@
+Scrivere codice è la parte più noiosa del mio lavoro
+
+Mi capita di leggere diversi post nostalgici di sviluppatori che ricordano con piacere i tempi in cui si scriveva codice a mano.
+
+Sviluppo software da oltre 15 anni e, sinceramente, quella nostalgia non la provo.
+
+Anzi, oggi uso volentieri strumenti come Claude perché mi permettono di dedicare più tempo alla parte che mi appassiona davvero.
+
+Risolvere problemi.
+
+Quando un cliente mi racconta la sua idea, la parte più stimolante è progettare la soluzione.
+
+Inizio a collegare tutti i pezzi nella mia testa.
+
+Questo flusso ha senso?
+Queste funzionalità possono convivere?
+Come gestisco sicurezza e scalabilità?
+Quali casi limite devo considerare?
+Cosa succederà tra uno o due anni quando il progetto crescerà?
+
+È lì che si crea il valore.
+
+Una volta trovata la soluzione giusta, trasformarla in codice è spesso la parte più meccanica del lavoro.
+
+Sono comunque contento di tutto il codice scritto in passato perché mi permette oggi di capire cosa mi produce l'IA.
+
+E voi da che lato state? 
+
+Siete nostalgici del codice scritto riga per riga o preferite sfruttare l'AI per concentrarvi sulla progettazione?

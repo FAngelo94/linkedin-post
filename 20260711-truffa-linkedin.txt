@@ -1,0 +1,20 @@
+Hanno provato a truffarmi qui su LinkedIn
+
+Mi è arrivato un messaggio da un profilo che a prima vista sembrava affidabile: esisteva da 10 anni, foto, descrizione e lavori precedenti coerenti.
+
+Mi contatta per sviluppare un MVP per un startup in ambito healthcare nel USA elencandomi tecnologie e stack che conosco bene, quindi mi sembrava un'opportunità proprio cucita su misura per me.
+
+Molto interessato rispondo affermativamente e chiedo maggiori dettagli sul progetto.
+
+Mi manda maggiori dettagli prima di sentirci per essere sicuro di avere tutte le competenze necessarie. E qui inizio a fiutare la puzza.
+
+Mi manda il link di una cartella dropbox contenente un progetto git con la documentazione del progetto frammentata in file .md e, ciliegina sulla torta, dovevo scaricarlo e spostarmi sul branch "nda" per leggere e rimandare firmato il contratto di non divulgazione.
+
+Giusto per sicurezza copio e incollo i vari documenti .md in locale a mano per non scaricare nulla, leggendoli non mi tornavano varie cose e, facendole analizzare nel loro insieme a Claude, mi conferma che ci sono varie informazioni che, prese singolarmente vanno bene, ma lette insieme hanno diverse incoerenze.
+
+Vado a ricontrollare meglio il profilo LinkedIn e noto che gli ultimi utilizzi del profilo risalgono ad 6 anni prima, quindi probabilmente il profilo è stato hackerato da qualcun'altro.
+
+Alla fine, giusto per vedere cosa avrebbe risposto, gli ho scritto chiedendogli una videochiamata prima di scaricare qualsiasi cosa e, ovviamente, non ho più ricevuto nessuna risposta.
+
+A questo giro hanno beccato quello sbagliato ma all'inizio il contesto era molto credibile e poteva ingannare una persona non troppo esperta.
+Quindi attenzione a chi vi contatta e al tipo di informazioni che vi chiede di scaricare o firmare.

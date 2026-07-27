@@ -1,0 +1,18 @@
+Fate fatica a tradurre la vostra app in task da dare all'IA?
+Provate con Kiro AWS.
+
+È un ambiente di sviluppo creato da Amazon, all'apparenza molto simile a Visual Studio Code con cui condivide la base open source.
+A differenza di Visual Studio Code, però, Kiro è progettato per un utilizzo più agentico.
+
+Prima di scrivere codice Kiro analizza i vostri requisiti scritti in linguaggio naturale e produce documenti di specifica e design che potrete controllare e modificare prima di procedere alla scrittura del codice.
+In questo modo, Kiro vi aiuta a tradurre le vostre idee in task concreti.
+
+Per curiosità l'ho provato ed ecco cosa ne penso.
+
+Lo trovo un valido strumento verso chi non ha competenze tecniche, ne come sviluppatore ne in ambito AI.
+Potete usarlo anche da browser senza bisogno di installare nulla volendo.
+
+Da sviluppatore però l'ho trovato troppo verboso, quello che fa è facilmente replicabile con Claude/Copilot dandogli le giuste istruzioni o integrando la giusta skill.
+
+Voi ne avevate già sentito parlare?
+O, magari, lo avete già provato?

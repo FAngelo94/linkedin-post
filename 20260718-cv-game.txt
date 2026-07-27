@@ -1,0 +1,21 @@
+Non avete programmi per questo weekend?
+Ho preparato dei minigiochi per voi!
+
+Dove si trovano?
+Sul mio sito personale, ovviamente
+
+In che senso? Perché li ho messi sul mio portfolio?
+In passato mi è capitato di vedere siti web di sviluppatori implementati a videogioco in cui poter scoprire le loro competenze e i loro progetti andando in giro per un piccolo mondo stile super Mario.
+
+Da gamer (con sempre meno tempo per giocare 😅) l'ho sempre trovato un modo originale e divertente per presentarsi ma non ho mai avuto il tempo di implementarla come cosa.
+
+Con l'uscita del modello Fable di Claude ho deciso di usarlo per implementare la cosa sul mio portfolio e nel frattempo testare le sue capacità di ragionamento e generazione codice.
+
+Ma quindi gli HR dovranno giocare per scoprire le mie competenze?
+Solo se vogliono, ovviamente l'ho inserita come cosa opzionale e, al momento, non è completa ma avevo comunque voglia di iniziare a condividerla per ricevere qualche feedback prima di perderci ulteriore tempo.
+
+Ci sono alcune cose che mi hanno davvero sorpreso di Fable, ma quelle meritano un post dedicato e più tecnico.
+
+Per ora buon divertimento!
+
+PS: il link è nel primo commento 👇

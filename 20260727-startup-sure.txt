@@ -1,0 +1,23 @@
+Un'idea di startup non è validata finché qualcuno non la usa davvero.
+
+Ne ho parlato con una persona con cui sto collaborando e siamo arrivati a conclusioni diverse. 
+Da lì mi è venuta questa domanda: 
+quanto conta l'MVP per capire se un'idea funziona?
+
+Le strade per validare un'idea software sono diverse, e non si escludono a vicenda:
+
+- studiare il mercato, per capire se esiste una domanda reale e chi sono i competitor;
+- fare sondaggi o interviste con potenziali utenti;
+- costruire una landing page per raccogliere contatti e misurare l'interesse;
+- sviluppare un MVP e raccogliere dati veri sull'utilizzo.
+
+Per esperienza, solo l'ultima dà una risposta definitiva.
+
+Le altre ti dicono che l'idea piace. L'MVP ti dice se il prodotto viene usato.
+
+Finché non metti una prima versione sul mercato e vedi utenti che tornano giorno dopo giorno, hai solo indizi. 
+Anche se tutti gli altri segnali sono positivi.
+
+Ammetto di essere influenzato dal mio "pensare sempre al peggio", che di solito applico quando sviluppo.
+
+Voi come la vedete?

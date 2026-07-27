@@ -1,0 +1,26 @@
+Con cosa avete messo alla prova Fable nelle scorse settimane?
+
+Io l'ho testato in vari progetti ma quello in cui mi sono di più divertito ad usarlo è stato l'implementazione di un mini gioco all'interno del mio sito personale.
+
+A scopo di test ho anche provato a dare al modello carta bianca il più delle volte per vedere cosa creava e come si comportava.
+
+Dove mi ha stupito Fable?
+
+In tre aspetti:
+
+1. Nell'ideare il gioco all'inizio quando ancora non avevo le idee chiare su cosa implementare, gli ho dato poche informazioni e mi ha tirato fuori una prima versione veramente niente male con aggiunte alle quali non avevo pensato e che mi hanno dato ulteriori idee da implementare
+
+2. Nella creazione dell'ambiente di gioco, modelli e animazioni perché mi aspettavo sarebbe partito ad includere qualche libreria 3d o game engine come Three.js o Godot ma invece ha creato tutto da zero con codice vanilla JS e CSS, senza alcuna libreria esterna.
+E le animazioni, nonché la costruzione 3D dall'alto, sono venute gran bene, è un lavoro che se avessi dovuto fare io da zero in puro css mi avrebbe portato via mesi probabilmente
+
+3. Ha avuto l'intuizione di includere all'interno del gioco le analitiche in base alle azioni del giocatore, cosa che non avevo richiesto nei primi messaggi ma avevo intenzione di implementare in seguito
+
+Mi ha deluso in qualcosa?
+
+In alcune animazioni particolarmente complesse che a primo colpo ha completamente cannato (tipo il movimento del personaggio in bici) e nella gestione del codice perché senza dargli specifiche istruzioni, come faccio di solito per avere un codice più pulito e leggibile, ha creato pochi file giganteschi anziché optare per una struttura più modulare e leggibile. 
+
+Niente di troppo grave, problemi che probabilmente non si sarebbero presentati con istruzioni più dettagliate o l'inclusione di qualche skill specifica ma che, tuttavia, fanno capire quanto sia ancora importante guidare il modello, per quanto avanzato possa essere.
+
+Qual'è l'esperimento più interessante che avete fatto con Fable? 
+
+PS: se volete provare il gioco basta cercarmi su Google e cliccare sul mio sito personale o potete andare sul mio profilo LinkedIn

@@ -1,0 +1,20 @@
+Studiare AWS giocando a carte?
+Si può fare!
+
+Una delle cose più interessanti conosciute all'AWS Summit è stato AWS Card Clash, un gioco di carte 1 contro 1, in cui potrete scoprire i servizi AWS in modo divertente e interattivo.
+
+In breve:
+- Ogni giocatore riceve un mazzo in cui ogni carta rappresenta un servizio AWS.
+- Davanti a voi avrete lo schema di un'architettura AWS reale e dovrete posizionare le carte nei punti giusti per completare l'architettura.
+- Più carte posizionate correttamente, più punti guadagnate.
+- Se, terminato il vostro turno o quello dell'avversario, l'architettura è completa, il gioco termina e vince chi ha più punti.
+
+Inoltre ogni carta ha un punto di domanda che, se cliccato, vi spiegherà i dettagli di quel servizio AWS, aiutandovi a imparare giocando anche se siete alle prime armi.
+
+Io l'ho provato e devo dire che è molto ben fatto.. 
+Potrebbero farlo anche per altri argomenti/servizi.
+
+Voi lo conoscevate già?
+Se lo provate (o lo avete già provato), fatemi sapere cosa ne pensate!
+
+📎Link del gioco nei commenti

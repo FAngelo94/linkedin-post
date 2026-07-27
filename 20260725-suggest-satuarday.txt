@@ -1,0 +1,17 @@
+Suggerimento non richiesto del sabato per chi sta iniziando a usare l'AI in modo serio 👇
+
+Se vi state avvicinando per la prima volta a strumenti di AI per il vostro lavoro, evitate i corsi che dopo cinque minuti iniziano già a parlare di skill, sub-agent, MCP, framework e mille altri concetti.
+
+Limitatevi a scrivere un semplice prompt chiedendo quello di cui avete bisogno con più dettagli possibili e prendete confidenza  con lo strumento in questo modo
+
+Oggi molti modelli sono talmente avanzati che, nella maggior parte dei casi, un buon prompt è più che sufficiente per ottenere risultati di qualità.
+
+Unico suggerimento: scaricatevi il tool in locale, non usatelo da browser, in modo che possa interagire con i vostri file
+
+Solo dopo inizierei a esplorare tutto il resto, uno strumento alla volta magari
+
+Altrimenti il rischio è di fare confusione, configurare male gli strumenti, sprecare token e arrivare persino a pensare che l'AI "non funzioni", quando in realtà si sta solo aggiungendo complessità troppo presto.
+
+Fatemi cambiare opinione se non siete d'accordo.
+
+P.S. L'idea per questo post mi è venuta dopo aver seguito, per curiosità, un videocorso sull'argomento di recente
