@@ -1,0 +1,27 @@
+Ho costruito un sottomarino con un tubo di PVC da un metro.
+
+Pubblico qui da un po' ma non mi sono mai presentato. Oltre che per riservatezza anche perchè preferisco parlare di lavoro che di me. 
+
+Leggendo altri, però, mi sono convinto che un minimo di contesto serva.
+
+Quindi, in ordine temporale:
+
+Sono nato a Caltanissetta e, finite le elementari, mi sono trasferito a Sondrio. Da un estremo all'altro dell'Italia, confesso che è stato un po' traumatico.
+
+Ho scelto l'ITIS perché mi piaceva la matematica, ma quella pratica, per questo niente liceo.
+
+Lì ho scritto il mio primo codice utilizzando C# e poi Java. Scelte discutibili come primi linguaggi? Forse, ma non ero io il professore.
+
+Da lì il passaggio al Politecnico di Milano è stato naturale. Ho tanto amato Milano come studente, quanto l'ho odiata da lavoratore, infatti non ci sono rimasto a lungo.
+
+Nei miei anni da studente ho lavorato a diversi progetti, ecco quelli che ricordo con più affetto:
+
+- il sottomarino di cui sopra: era la tesi delle superiori, realizzato con materiali di recupero e zero budget;
+- scala 40: il primo gioco che ho sviluppato per Android;
+- due robot in progetti multidisciplinari, per i quali mi sono occupato della parte software ed elettronica;
+- un algoritmo di raccomandazione, in collaborazione con Spotify;
+- un algoritmo di ottimizzazione di percorso.
+
+Mi piacerebbe riesumarne qualcuno e raccontarvelo per bene, tempo permettendo e, soprattutto, se può interessarvi.
+
+PS: per anni ho anche praticato uno sport agonistico che non indovinerete mai secondo me. Il primo che riesce vince una consulenza gratuita.

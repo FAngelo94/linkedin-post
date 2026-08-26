@@ -1,0 +1,17 @@
+La settimana scorsa GitHub è rimasto down per quasi otto ore.
+
+La causa? 
+Un autoscaling che non ha retto e una tempesta di retry partita dai client VS Code.
+
+Nei giorni seguenti ho letto un'altro dato impressionante: i commit su GitHub sono più che raddoppiati in soli quattro mesi. 
+Ad aprile la piattaforma ha toccato i 275 milioni di commit a settimana.
+
+Non siamo diventati il doppio degli sviluppatori, ovviamente.
+Sono gli agenti che aprono un branch, committano, e quando qualcosa non risponde riprovano. Tutti insieme.
+
+Stiamo scaricando su una piattaforma sola un carico che cresce a una velocità che nessuno aveva messo in conto, e i client che generano quel carico sono programmati per insistere invece che per aspettare.
+
+Intanto per otto ore mezzo mondo dev si è fermato.
+
+Che ne pensate?
+Riuscirà GitHub a reggere il carico dei prossimi mesi dovesse crescere ancora così velocemente o magari imporranno dei limiti ai client?

@@ -1,0 +1,12 @@
+Si spengono i browser per umani e nascono quelli per agenti
+
+Mi è venuto da pensare leggendo nello stesso momento queste due notizie:
+
+- Il 9 agosto OpenAI ha spento ChatGPT Atlas, browser lanciato meno di dieci mesi fa
+
+- Nel mentre, il 6 agosto, Cloudflare ha annunciato Kitesurf, un browser senza UI (con buona pace per gli sviluppatori frontend), nato per ottimizzare la navigazione agentica
+
+La scelta di Cloudflare, che tra le due notizie è quella che trovo più interessante, nasce dalla constatazione che ormai le automazioni hanno superato gli umani nella navigazione web: il 57,5% delle richieste HTTP verso contenuti web proviene da agenti automatizzati, contro il 42,5% degli utenti umani.
+
+Chissà come si evolverà lo sviluppo web nei prossimi anni, voi cosa ne pensate? 
+State già sviluppando i vostri browser con un occhio agli agenti?

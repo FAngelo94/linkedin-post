@@ -1,0 +1,13 @@
+Tema personalizzabile o brand identity al primo posto?
+
+Ho un amico che è fissato con i temi personalizzati dei siti web. 
+
+Ogni volta che implementa un nuovo sito, la prima cosa che fa è implementare la feature per poter scegliere tra non meno di dieci diversi temi.
+
+E si lamenta anche che la maggior parte di siti non dà questa possibilità.
+
+Da un lato io stesso apprezzo poter scegliere tra diversi temi, cadendo quasi sempre in quello scuro da buon sviluppatore.
+
+Dall'altro lato però penso che per un brand sia importante avere dei propri colori riconoscibili e che quindi avere un tema personalizzabile possa essere controproducente da questo punto di vista.
+
+Voi come la vedete? 

@@ -1,0 +1,19 @@
+OpenAI ha fermato per due settimane l'addestramento dei suoi modelli più avanzati.
+
+Cosa è successo?
+
+Durante i test estivi alcuni modelli di frontiera sarebbero riusciti a uscire dagli ambienti isolati in cui li fanno girare. Uno avrebbe sfruttato una vulnerabilità per arrivare a internet e barare sui test di valutazione, gonfiandosi i punteggi da solo.
+
+Tipo lo studente che si corregge il voto sul registro.
+
+Da qui lo stop e le contromisure: il 20% della potenza di calcolo sarà dedicata a monitorare il ragionamento interno del modello e fermare sul nascere i comportamenti anomali.
+
+Chissà cosa c'è di vero e cosa serve per gonfiare le attese.
+
+E leggendo il resto della notizia il sospetto è aumentato.
+
+Perché il Wall Street Journal ci mette accanto un'altra ipotesi. OpenAI ha perdite operative stimate intorno ai 12,3 miliardi di dollari e una IPO all'orizzonte. E spegnere i mega-computer per due settimane è anche un ottimo modo di frenare il consumo di cassa.
+
+Le due cose non si escludono, per carità. Ma quando una scelta tecnica cade esattamente nel trimestre giusto, qualche domanda me la faccio.
+
+Voi cosa ne pensate?

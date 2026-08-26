@@ -1,0 +1,22 @@
+Hai creato una webapp con la tua AI di fiducia ma adesso non sai come pubblicarla?
+
+Ho fatto un video guida veloce per pubblicarla su Vercel e Supabase in pochi minuti.
+
+Un amico mi ha chiesto se gli sviluppavo una webapp a tempo perso e senza fretta.
+
+Ne ho approfittato per farne un'esperimento: creare una webapp interamente con l'IA dandogli meno istruzioni possibile e senza nemmeno scaricarla in locale.
+
+Come ho pubblicato tutto?
+
+- Vercel: collegato l'account GitHub, selezionato il repository, premuto deploy
+- Supabase: copiato dal progetto GitHub il codice sql generato per il DB e incollato nella console
+
+Risultato: Prima versione, utile soltanto per testare l'idea per carità,  online in poche ore di lavoro attivo.
+(Ho perso di gran lunga più tempo a fare il video che a pubblicarla 😂)
+
+Occhio però: non è un tutorial tecnico per chi sviluppa già o sa più o meno cosa siano Vercel e Supabase.
+È un video base, pensato per chi non ha mai pubblicato una webapp e vuole capirci qualcosa in pochi minuti.
+
+Se avete qualche dubbio o vi viene in mente qualche altro video che potrebbe essere utile, scrivetelo.
+
+📎 Link nei commenti.

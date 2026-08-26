@@ -1,0 +1,13 @@
+Dopo il login, riportate l'utente esattamente dove si trovava prima.
+
+Sembra un dettaglio banale, ma come utente ci sono poche cose più frustranti che dover ricominciare la navigazione da capo dopo essersi autenticati.
+
+Stavi leggendo un articolo? Torni alla home.
+
+Stavi cercando un prodotto? Devi rifare la ricerca.
+
+Per molti sviluppatori probabilmente è un comportamento scontato, ma negli ultimi mesi mi è capitato fin troppe volte di vedere siti, anche di grandi aziende, che dopo il login mi rispedissero nella home.
+
+Sono piccole attenzioni come questa che fanno la differenza tra un'esperienza utente fluida e una piena di attriti.
+
+Quale altra piccola funzionalità secondo voi viene spesso trascurata nei siti web?

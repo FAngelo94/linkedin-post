@@ -1,0 +1,13 @@
+Avete mai messo alla prova Claude con un complesso problema logico?
+
+Ma problemi veramente complessi, di quelli che devi rileggerli almeno tre volte per iniziare a capire cosa ti viene chiesto.
+
+Qualche settimana fa ho partecipato ad una challenge organizzata da wincentdragonbyte.
+
+Scopo: in un tot di tempo risolvere diversi problemi logici di varia complessità sfruttando l'AI solo per scrivere codice
+
+Al di fuori della competizione ho provato poi a porre i quesiti a Claude e devo dire che mi ha stupito per le soluzioni che tirava fuori anche per problemi dei quali io stesso non avevo idea di come risolvere.
+
+E in giro c'è ancora chi pensa che l'IA non sappia scrivere codice bene quanto è in grado di fare cose ben più complesse.
+
+Fatevi un favore e provate voi stessi, lascio il link dell'archivio delle prove nei commenti.

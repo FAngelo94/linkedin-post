@@ -5,12 +5,16 @@
 - **Nome**: Spunti LinkedIn - Angelo Falci
 - **ID**: `trig_016M2yzmjYJCu6tfNETDmnsZ`
 - **Gestione**: https://claude.ai/code/routines/trig_016M2yzmjYJCu6tfNETDmnsZ
-- **Cadenza**: ogni giorno alle 09:00 ora italiana (cron `0 7 * * *`, UTC)
+- **Cadenza**: ogni giorno alle 03:00 ora italiana (cron `0 1 * * *`, UTC)
 - **Modello**: Opus 5
 - **Repo**: github.com/FAngelo94/linkedin-post
-- **Output**: 2 spunti al giorno, visibili nella sessione su claude.ai
+- **Output**: 3 spunti al giorno, visibili nella sessione su claude.ai
 - **Memoria**: l'agente committa un log su `suggerimenti-log.md` (branch main) per
   non riproporre gli stessi argomenti nei giorni successivi
+- **Branch**: la routine lavora e pusha sempre su `main`. Il branch di destinazione
+  e' configurato nel campo `outcomes.git_repository.git_info.branches` della routine
+  (valore `main`): se torna a puntare a un `claude/...`, ogni run creera' di nuovo un
+  branch separato.
 
 Il prompt vero e proprio e' incorporato nella routine, non letto da questo file.
 Questo documento e' la copia di riferimento: se lo modifichi, riporta le modifiche
@@ -187,7 +191,12 @@ Chiudi con una riga: **"Se dovessi sceglierne uno: [numero], perché [motivo]."*
 
 ### Dopo aver proposto: aggiorna il log
 
+Lavora sempre sul branch `main`: mai creare un branch nuovo, mai aprire pull request.
+Prima di scrivere: `git checkout main && git pull --rebase origin main`.
+
 Appendi in coda a `suggerimenti-log.md` una sezione `## YYYY-MM-DD` con i titoli
 proposti, categoria, una riga di sintesi e il link della fonte. Poi committa e pusha
-su main. Se il push fallisce, mostra comunque gli spunti e segnalalo.
+con `git push origin HEAD:main`. Se il push fallisce, fai `git pull --rebase origin main`
+e riprova una volta sola; se fallisce ancora mostra comunque gli spunti e segnalalo,
+senza ripiegare su un branch alternativo.
 Modifica solo `suggerimenti-log.md`, nessun altro file del repo.
