@@ -1,0 +1,27 @@
+OpenAI ha iniziato a testare gli agenti sponsorizzati dentro ChatGPT.
+
+Dal 16 settembre, negli Stati Uniti e solo per alcuni inserzionisti selezionati, quando compare un annuncio "pertinente" si può aprire una conversazione con un agente dell'azienda.
+Gli fate domande, lui risponde, e alla fine vi porta sul sito.
+
+Nello stesso annuncio:
+- titoli e descrizioni degli annunci che si adattano da soli al contesto della conversazione, tradotti nella vostra lingua
+- HubSpot primo partner CRM, Shopify primo partner ecommerce
+- campagne create e monitorate senza uscire da HubSpot
+
+Il problema?
+Per vent'anni la pubblicità stava accanto al risultato.
+Si riconosceva dalla posizione, dal riquadro, dalla scritta "Sponsorizzato".
+
+Qui ha la stessa faccia e lo stesso tono di voce di chi vi stava rispondendo un attimo prima.
+L'unica differenza è un'etichetta.
+
+Tipo il commesso che vi consiglia "da amico" proprio il prodotto in promozione.
+
+OpenAI assicura che quella conversazione è separata da quella originale e distinta dalle risposte indipendenti di ChatGPT.
+Ci credo, per carità.
+Ma è la stessa OpenAI che ad agosto continuava a fatturare gli annunci fino a un giorno dopo la pausa della campagna, perchè così c'era scritto nei termini.
+
+Voi vi accorgereste dell'etichetta?
+E chi lavora nel marketing, ci sta già facendo un pensierino?
+
+Link: https://openai.com/index/new-ai-powered-ads-experiences/

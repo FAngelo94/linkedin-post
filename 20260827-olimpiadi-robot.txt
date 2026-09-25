@@ -1,0 +1,28 @@
+Un robot ha battuto il record di Bolt sui 100 metri.
+
+In quanti avete letto questa notizia?
+
+A me sono capitati parecchi post qui su LinkedIn, e anche articoli di giornale, che la raccontavano puntando tutto sull'inutilità di aver battuto un record umano.
+Come se fosse quello l'obiettivo di queste olimpiadi robotiche.
+
+Ma non è così.
+
+Queste gare tra robot non esistono per superare l'uomo sui 100 metri.
+
+A me sembra scontato, ma credo non lo sia per tutti, sopratutto per chi è completamente esterno al mondo tech o della robotica.
+
+A cosa servono davvero?
+
+A mettere alla prova robot umanoidi in contesti realistici, dove devono interagire con l'ambiente e portare a termine task complessi.
+
+Sono un campo di prova per le aziende del settore: testano i prototipi misurandosi con i competitor e raccolgono dati preziosi per migliorare i propri robot, lato software e lato hardware.
+
+E l'Italia?
+
+Ha partecipato attraverso canali accademici, usando principalmente robot preassemblati e non propri.
+L'obiettivo dei laboratori italiani era testare il proprio software.
+
+Il record di Bolt, in tutto questo, è la nota di colore per i giornali. Non il punto.
+
+A voi che versione della notizia vi era arrivata?
+Sarei anche curioso di sapere il parere di chi è più dentro al mondo della robotica se venisse raggiunto da questo post.

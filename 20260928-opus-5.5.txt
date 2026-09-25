@@ -1,0 +1,14 @@
+Ma quanto è forte Opus 5.5?
+
+È uscito settimana scorsa e dopo nemmeno 24 ore vedevo già post che lo osannavano.
+
+Io, in tutta onestà, ho voluto provarlo per un po' di giorni, e su diversi task, prima di esprimere un giudizio.
+
+Quindi?
+Un enorme salto di qualità rispetto alla versione precedente l'ho notato davvero, in particolare in due punti:
+- nel coding, mi sembra che usi molti meno token
+- nei post che mi aiuta a scrivere, la qualità è su tutt'altro livello
+
+Ad esempio durante la revisione di un post, senza che glielo chiedessi, ha introdotto di sua iniziativa una metafora che calzava a pennello con quello che avevo scritto.
+
+Per chi lo sta usando, in quale use case lo avete trovato migliore?

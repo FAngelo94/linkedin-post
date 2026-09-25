@@ -1,0 +1,25 @@
+Una cosa che mi da molto fastidio è quando qualcuno, spiegandomi qualcosa fuori dal mio campo, mi tratta come se fossi un idiota.
+
+L'ultima volta mi è successo con il mutuo per la casa.
+
+Domande semplici, tipo quale fosse la differenza tra tasso fisso e variabile nel nostro caso specifico.
+Risposte lente, scandite, con quel tono da "adesso te lo spiego con parole semplici".
+
+Non sapere una cosa non vuol dire non essere in grado di capirla.
+
+Il problema?
+Nel mio lavoro rischio di fare lo stesso errore tutti i giorni.
+
+Clienti che non sanno cos'è un database, un deploy o un'API.
+E la tentazione di semplificare fino a sminuire c'è, ammetto che qualche volta ci sono cascato anche io.
+
+Cosa cerco di fare adesso?
+- partire da quello che la persona sa già, non da quello che non sa
+- usare un esempio preso dalla sua vita, non dalla mia
+- chiedere "ha senso?" invece di "hai capito?"
+
+Sembra una differenza piccola.
+Ma la prima domanda mette in dubbio la spiegazione, la seconda la persona.
+
+Vi è mai capitato di sentirvi trattati così?
+E chi fa un lavoro tecnico, come fate a spiegarlo a chi non è del mestiere?

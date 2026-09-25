@@ -1,0 +1,27 @@
+Sto sviluppando un gioco mobile
+
+La scusa?
+Il concorso di RevenueCat, scoperto qualche settimana fa.
+
+Il motivo vero?
+I giochi mi piacciono da sempre, e sono il campo di prova perfetto per migliorarsi: dentro c'è di tutto, dalla simulazione al rendering, dal networking al backend, fino ai pagamenti.
+Tra l'altro mentre studiavo pubblicai diversi giochi sul Play Store ormai 10 anni fa.
+Mi pento un po' di non averli mantenuti e aggiornati nel tempo ma, senza AI, era davvero impegnativa come cosa.
+
+Comunque il nuovo gioco si chiama Autochess of Ages, un auto battler multiplayer online tra civiltà antiche.
+Compri le unità, le schieri su una scacchiera esagonale e guardi il tuo esercito combattere da solo.
+
+Per svilupparlo sto usando l'AI in modo massiccio, non solo per scrivere codice ma anche per:
+- Aiutarmi ad aggiornare il server deployato in una VPS noleggiata apposta facendo collegare Claude in SSH
+- Eseguire test automatici non solo sul codice ma anche sulla UI tramite screenshot comparison
+- Eseguire partite automatiche tra bot e, tra una run e l'altra, analizzare win rate e performance delle unità per bilanciare il gioco
+- Generare parte dei contenuti grafici (per alcuni ho trovato un bravo designer che mi sta aiutando con i modellini 3D delle unità)
+- Analizzare i log e ottimizzare codice e configurazione del server
+
+Il mio ruolo?
+Meno digitare, più decidere, dare obiettivi all'IA, verificare e dire di no quando una soluzione non mi convince.
+
+Come andrà il concorso non lo so.
+Ammetto però che mi sto divertendo a svilupparlo!
+
+Se volete provarlo in anteprima scrivetemi, appena è sul Play Store vi mando il link.

@@ -1,0 +1,23 @@
+Quali sono i test più importanti da scrivere in un progetto?
+
+È una domanda che ogni tanto mi hanno fatto in passato in qualche colloquio.
+
+Esistono talmente tante tipologie di test che provando ad elencarle sicuramente ne dimenticherei qualcuna.
+
+La mia risposta oggi?
+Quello che non si scrive.
+
+Adesso che l'IA è sempre più in grado di scriverne e lanciarne tanti in automatico, il test più importante rimane quello umano.
+
+Aprire il sito e provare a mano le varie funzionalità.
+
+Il motivo?
+Lì dietro si nascondono spesso problemi che l'IA, al momento, non è in grado di rilevare:
+- un pulsante troppo scomodo da cliccare per la sua posizione nella pagina
+- nessun feedback visivo quando si interagisce con un elemento
+- un flusso di navigazione poco intuitivo 
+- un elemento troppo piccolo o grande rispetto al contesto della pagina
+
+Tutte cose che non rompono il software, ma che possono avere un grande impatto sull'esperienza dell'utente insomma.
+
+Voi qual è l'ultimo problema che avete scoperto solo aprendo il sito a mano?
