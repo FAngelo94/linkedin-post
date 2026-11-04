@@ -1,0 +1,21 @@
+Sapete qual è una delle attività che trovo più noiose nello sviluppo?
+Deployare quello che sviluppo.
+
+Sopratutto se si tratta di un'app Android.
+
+Così ho deciso di automatizzare tutto per Autochess of Ages, il gioco di cui vi ho già parlato.
+
+Pensavo che la parte dei permessi fosse la più complicata.
+E invece è bastato creare un service account su Google Cloud, dargli i permessi giusti e "invitarlo" nel progetto su Google Play Console.
+
+Poi ho salvato nei GitHub Secrets tutto quello che serve: keystore, password e credenziali del service account.
+
+L'ultimo pezzo l'ha fatto Claude.
+Gli ho spiegato tutto il flusso e mi ha generato il file yml per GitHub Actions.
+
+Ammetto che, da solo, questa sarebbe stata la parte più complessa.
+
+Adesso?
+Pusho un tag e dopo qualche minuto la nuova versione è sul Play Store.
+
+Chi sviluppa mobile, avete automatizzato anche voi il rilascio o caricate ancora tutto a mano?

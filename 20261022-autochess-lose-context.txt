@@ -1,0 +1,23 @@
+Autochess of Ages non ha vinto nessun premio.
+
+E in realtà me lo aspettavo xD
+
+Per chi si fosse perso il post in cui ne parlavo:
+a fine agosto, tramite un banner pubblicitario, scopro un hackathon su un sito di nome Devpost.
+
+Lo scopo?
+Creare un'app di qualsiasi tipo che usasse la libreria RevenueCat per gestire un qualche pagamento.
+
+Uso l'hackathon come scusa per provare a creare un gioco mobile e iscriverlo.
+Per lo sviluppo ho rispolverato diverse vecchie conoscenze e, sopratutto, ne ho imparate di nuove.
+
+Sono anche riuscito a coinvolgere un paio di persone, una conosciuta per caso qui su LinkedIn, che hanno reso lo sviluppo più divertente.
+
+Cosa ne è venuto fuori?
+Un giochino simpatico, anche se lontano dall'essere perfetto al momento.
+Questo, unito al numero enorme di progetti iscritti al concorso, rendeva difficile sperare di vincere.
+
+Ma vabbè, proverò comunque a portarlo avanti nel tempo libero dato che mi sono divertito a svilupparlo.
+
+Per chi vuole provarlo lascio il link nei commenti 👇
+E se vi piacesse e voleste partecipare allo sviluppo, scrivetemi pure!

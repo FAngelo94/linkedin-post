@@ -1,0 +1,19 @@
+La funzionalità più figa che ho sviluppato per Smanno?
+(Fino ad ora)
+
+Un editor che permette di programmare i robot ad alto livello, senza scrivere una riga di codice.
+
+A prima vista sembra semplice, ma nasconde diverse complessità.
+
+Ogni robot sa eseguire una serie di azioni atomiche, ognuna con i suoi input. 
+Collegandole si creano missioni più complesse, e ogni collegamento è una condizione: il percorso cambia in base a ciò che restituisce il robot o a ciò che sceglie un operatore.
+
+Qualche dettaglio di cui vado fiero:
+- si possono creare cicli, ma ognuno deve avere un limite di ripetizioni e una via d'uscita: nessuna missione può bloccare un robot all'infinito
+- una missione può contenere altre missioni, quindi riutilizzabili
+- il grafo viene validato prima del salvataggio, così chi non programma non può creare logiche rotte
+
+Per le missioni lunghe ho aggiunto anche strumenti per renderle leggibili: colori per ogni azione, evidenziazione del blocco o del ramo selezionato, duplicazione dei blocchi, zoom e spostamento libero.
+
+Risultato?
+Un sistema talmente flessibile che Emanuele, che i robot li costruisce, crea missioni con logiche alle quali nemmeno io avevo pensato.

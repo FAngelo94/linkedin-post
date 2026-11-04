@@ -1,0 +1,26 @@
+Una suite da ufficio dove il documento non sta su nessun server.
+Sta dentro il link.
+
+Si chiama Tiny Little Office ed è uscita a metà ottobre.
+Dieci strumenti in una sola pagina: word processor, fogli di calcolo, presentazioni, diagrammi, disegno, calendario e qualcos'altro.
+Nessun account, open source con licenza MIT.
+
+Come fa a non salvare niente?
+Il contenuto del documento viene codificato nell'indirizzo, dopo il #.
+E quella parte del link il browser non la invia mai al server.
+
+Quindi il documento esiste solo nel link che avete in mano.
+Per condividerlo basta mandarlo, anche protetto da password, in sola lettura o con una scadenza.
+
+Il rovescio della medaglia?
+Se perdete il link, perdete il documento.
+
+Che è anche la cosa che mi ha fatto riflettere di più: ormai diamo per scontato che "salvato" voglia dire "salvato sul server di qualcun altro".
+
+Non so se lo userei per lavorare tutti i giorni.
+Ma per chi deve buttare giù due righe o un diagramma al volo, senza aprire l'ennesimo account, mi sembra perfetto.
+
+Lo conoscevate già?
+Voi cosa usate per i documenti "usa e getta"?
+
+📎 Link nei commenti.

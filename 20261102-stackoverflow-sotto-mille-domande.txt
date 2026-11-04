@@ -1,0 +1,27 @@
+A settembre Stack Overflow ha ricevuto meno di mille domande.
+
+In tutto il mese.
+A marzo 2014, il suo mese record, erano state 207.204.
+
+Il calo è iniziato ben prima di ChatGPT, per carità, ma l'IA ha dato il colpo finale.
+Oggi le domande le facciamo, ovviamente, alle IA.
+
+E questa cosa mi ha fatto fare una riflessione che voglio condividere.
+
+I modelli hanno imparato a risolvere i bug anche grazie a milioni di thread in cui qualcuno ci aveva sbattuto la testa prima di noi.
+Il bug assurdo che salta fuori solo con quella versione, su quel sistema operativo, dietro quel proxy.
+Uno lo trovava, un altro rispondeva, un terzo correggeva nei commenti.
+E diventava patrimonio comune, accessibile a chiunque avesse lo stesso problema.
+
+Oggi quel bug lo risolviamo in chat.
+Se va bene, la soluzione resta lì, privata.
+Se va male, non la trova nessuno dei due.
+
+Come se in medicina non ci fosse più uno scambio di esperienze tra medici su casi rari e ognuno dovesse vedersela da solo da un certo anno in poi.
+
+I framework di domani avranno documentazione e codice sorgente, ma i loro bug assurdi forse non li avrà raccontati nessuno.
+
+Con i modelli che ragionano, e sviluppano codice, sempre meglio, forse non ci sarà più il problema del bug raro.
+
+Voi cosa ne pensate?
+E quand'è stata l'ultima volta che avete cercato qualcosa su Stack Overflow?

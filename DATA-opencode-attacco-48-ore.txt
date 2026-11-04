@@ -1,0 +1,29 @@
+OpenCode, uno degli agenti di coding open source più usati, è rimasto sotto attacco per 48 ore.
+
+Nella notte del 16 ottobre qualcuno entra in un loro sistema legacy.
+La mattina dopo parte la mail agli utenti: "Action Required: Potential provider key breach".
+
+Coinvolto l'1,4% degli iscritti alla Console, quelli che lì avevano salvato le chiavi API di Anthropic, OpenAI, Google e simili.
+App e CLI sono fuori: le chiavi usate in locale non passano dai loro server.
+
+Alcuni utenti raccontano addebiti non autorizzati da qualche centinaio fino a oltre 1.000 dollari.
+
+La parte più assurda però arriva dopo.
+Il cofondatore Dax Raad racconta che il team investigava con l'aiuto di agenti AI, e a un certo punto i modelli hanno iniziato a rifiutarsi.
+Le protezioni anti-abuso scambiavano chi si difendeva per un attaccante.
+
+Gli attaccanti nel frattempo usavano agenti h24.
+
+Tipo il vigile che ferma l'ambulanza per eccesso di velocità mentre i ladri scappano.
+
+Cosa significa in pratica?
+Una chiave API è una carta di credito senza plafond.
+E cancellarla dalla Console di OpenCode non basta: va revocata dal provider.
+
+Io gli abbonamenti li pago di tasca mia, e un addebito da 1.000 dollari lo sentirei eccome.
+Pensare sempre al peggio, anche su dove lasciamo le chiavi.
+
+Voi dove tenete le vostre chiavi API?
+E chi usa la Console di OpenCode, avete già controllato?
+
+link: https://thehackernews.com/2026/10/opencode-console-breach-may-have.html

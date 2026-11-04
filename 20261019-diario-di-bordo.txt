@@ -1,0 +1,20 @@
+Il mio secondo viaggio in Giappone l'ho organizzato partendo dal diario del primo.
+
+Da un certo punto della mia vita in poi ho preso questa abitudine.
+Sia per i viaggi che per i progetti a cui lavoro.
+
+A cosa serve?
+Nei viaggi a ricordare dettagli che col tempo dimenticherei.
+Nei progetti a ritrovare tool, risorse o soluzioni usate in passato.
+
+L'unico problema?
+Più il diario cresce, più diventa difficile trovarci dentro qualcosa.
+
+Con l'IA questo problema è praticamente sparito.
+
+- Giappone: dovevo tornare a Kyoto e Tokyo e volevo vedere posti nuovi. Ho allegato il diario del primo viaggio e ho chiesto di escludere le tappe già visitate
+- Lavoro: mi serviva un tool che avevo già usato ma di cui non ricordavo il nome. Ho spiegato il problema a Claude, allegato il diario, e me l'ha ritrovato
+
+È come avere una memoria esterna a cui finalmente posso fare domande.
+
+Voi tenete traccia dei vostri progetti/viaggi da qualche parte?
