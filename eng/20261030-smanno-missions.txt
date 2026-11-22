@@ -1,0 +1,19 @@
+The coolest feature I've developed for Smanno?
+(So far)
+
+An editor that lets you program robots at a high level, without writing a line of code.
+
+At first glance it looks simple, but it hides several complexities.
+
+Each robot knows how to perform a series of atomic actions, each with its own inputs. 
+Connecting them creates more complex missions, and every connection is a condition: the path changes based on what the robot returns or what an operator chooses.
+
+A few details I'm proud of:
+- you can create loops, but each one must have a repetition limit and an exit: no mission can block a robot forever
+- a mission can contain other missions, so they're reusable
+- the graph is validated before saving, so those who don't program can't create broken logic
+
+For long missions I also added tools to make them readable: colors for each action, highlighting of the selected block or branch, block duplication, zoom and free panning.
+
+Result?
+A system so flexible that Emanuele, who builds the robots, creates missions with logic I hadn't even thought of.

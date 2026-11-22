@@ -1,0 +1,10 @@
+If you had to start from zero in software development today, where would you start?
+
+In one of my posts I said that I don't miss programming but I still feel how useful it is to have done it for years.
+But if I started over today I don't know if it would be worth spending years developing "by hand" to learn that skill.
+
+Maybe I'd start directly from AI tools, learning right away to collaborate with them and building a way of working around these technologies.
+I even wonder whether this approach might lead, especially in the coming years with ever more advanced models, to developing different and maybe even more effective skills.
+
+What would you do? 
+Or if you're among those who started recently or are about to start, how are you moving? 

@@ -1,0 +1,23 @@
+Venerdì scorso, 13 novembre 2026, la popolazione mondiale doveva diventare infinita.
+
+Non è una battuta.
+È il titolo di un articolo, provocatorio, pubblicato su Science il 4 novembre 1960: "Doomsday: Friday, 13 November, A.D. 2026".
+
+Heinz von Foerster e due colleghi avevano preso i dati storici della popolazione, trovato la curva che li descriveva meglio e l'avevano prolungata.
+Il tempo di raddoppio si accorciava fino ad arrivare a zero proprio quel giorno.
+
+Cosa è successo?
+Già dagli anni '60 la crescita ha smesso di seguire quella curva e oggi si parla di stabilizzazione entro fine secolo.
+La matematica era giusta. Era il mondo a non essere d'accordo.
+
+L'ho voluta condividere perché è curiosa, ma anche perché mi ha fatto pensare ai grafici sull'IA che vedo spesso qui su Linkedin.
+Tipo quello di METR sui task che raddoppiano di durata ogni 7 mesi circa, con la linea tirata in avanti fino all'AGI.
+
+Una curva descrive il passato, ma non garantisce il futuro.
+- i dati su cui allenare i modelli non sono infiniti
+- energia e datacenter costano sempre di più
+- ogni punto in più sui benchmark costa più del precedente
+
+E chi ha più interesse a prolungare quella linea è spesso chi deve chiudere il prossimo round di investimenti.
+
+PS: il 13 novembre era anche il compleanno di von Foerster. Forse un po' ci scherzava pure lui.

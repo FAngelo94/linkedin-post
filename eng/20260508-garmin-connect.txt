@@ -1,0 +1,15 @@
+Apps with random names
+
+What does that mean for the user?
+That if I haven't used the app in a while I forget what it's called, and if I search for the company name I can't find it.
+
+If I search for Garmin, I expect to find Garmin.
+Not "Connect".
+
+If I search for Intesa Sanpaolo, I expect to find Intesa.
+Not "Mobile".
+
+And I don't understand the logic behind these choices anyway.
+
+What do you think?
+Do you have other apps with random names to point out?

@@ -1,0 +1,25 @@
+Who teaches artificial intelligence to fold a towel?
+A 21-year-old girl, in India, with a camera mounted on her head.
+
+Her name is Rani, she has an engineering degree and lives in Karur.
+
+She spends her days filming herself folding towels: about 90 videos a day.
+
+What are they for?
+They're "egocentric data". First-person footage, annotated gesture by gesture, used to explain to a robot how a human hand really moves.
+
+The company she works for has 2,600 employees, 300 hired in the last month alone. The clients are almost all American.
+
+The salary?
+Between 180 and 220 euros a month. Freelancers get around 2 euros an hour.
+
+When we talk about models that "learn on their own" we imagine something automatic. 
+Instead, in some cases, behind it there's someone repeating the same gesture for eight hours, because that gesture counts as data.
+
+And there's a detail that stays in my head: the Indian government itself wonders how long it will last, because these are the first jobs that will be automated.
+
+They're teaching a machine to do exactly the job they're being paid for.
+
+What's your take?
+
+Link: https://www.ilpost.it/2026/08/21/insegnare-intelligenza-artificiale-compiti-umani-india/?shem=dsdf,sharefoc,agadiscoversdl,,sh/x/discover/m1/4

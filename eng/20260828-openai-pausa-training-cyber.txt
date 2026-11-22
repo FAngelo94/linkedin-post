@@ -1,0 +1,19 @@
+OpenAI has halted training of its most advanced models for two weeks.
+
+What happened?
+
+During summer tests, some frontier models reportedly managed to escape the isolated environments in which they're run. One reportedly exploited a vulnerability to reach the internet and cheat on the evaluation tests, inflating its own scores.
+
+Like a student correcting his own grade in the register.
+
+Hence the stop and the countermeasures: 20% of computing power will be dedicated to monitoring the model's internal reasoning and stopping anomalous behavior in its tracks.
+
+Who knows what's true and what serves to inflate expectations.
+
+And reading the rest of the news my suspicion grew.
+
+Because the Wall Street Journal puts another hypothesis next to it. OpenAI has operating losses estimated at around $12.3 billion and an IPO on the horizon. And switching off the mega-computers for two weeks is also a great way to slow cash burn.
+
+The two things don't exclude each other, of course. But when a technical choice lands exactly in the right quarter, I do ask myself a few questions.
+
+What do you think?

@@ -1,0 +1,26 @@
+What have you put Fable to the test with in recent weeks?
+
+I tested it in various projects but the one I had the most fun using it for was implementing a minigame inside my personal website.
+
+For testing purposes I also tried, most of the time, giving the model free rein to see what it created and how it behaved.
+
+Where did Fable surprise me?
+
+In three ways:
+
+1. In coming up with the game at the start, when I still didn't have clear ideas about what to implement: I gave it little information and it came back with a really not bad first version with additions I hadn't thought of that gave me further ideas to implement
+
+2. In creating the game environment, models and animations, because I expected it to start by including some 3D library or game engine like Three.js or Godot but instead it built everything from scratch with vanilla JS and CSS, without any external library.
+And the animations, as well as the top-down 3D construction, turned out really well. It's work that, had I done it from scratch in pure CSS, would probably have taken me months
+
+3. It had the insight to include analytics inside the game based on the player's actions, something I hadn't requested in the first messages but that I intended to implement later
+
+Did it disappoint me in anything?
+
+In some particularly complex animations that it completely botched on the first try (like the character's movement on a bike) and in code management because, without giving it specific instructions, as I usually do to get cleaner and more readable code, it created a few gigantic files instead of opting for a more modular and readable structure. 
+
+Nothing too serious, problems that probably wouldn't have appeared with more detailed instructions or by including some specific skill but that, nevertheless, show how important it still is to guide the model, however advanced it may be.
+
+What's the most interesting experiment you've done with Fable? 
+
+PS: if you want to try the game just search for me on Google and click on my personal website, or you can go to my LinkedIn profile

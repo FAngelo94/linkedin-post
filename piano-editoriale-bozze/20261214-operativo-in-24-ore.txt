@@ -1,0 +1,22 @@
+Operativo in 24 ore. Cosa significa in pratica?
+
+Sul mio sito c'è scritto così, e qualcuno giustamente me l'ha chiesto.
+Soprattutto chi ha già un team e sa quanto ci mette di solito una persona nuova a combinare qualcosa.
+
+Non significa che dopo un giorno conosco il vostro progetto come chi ci lavora da due anni.
+Sarebbe una balla.
+
+Significa che il giorno dopo la call sto già lavorando, senza passare per settimane di contratti, colloqui tecnici e test a casa.
+
+Come faccio a entrare in un progetto che non è mio?
+
+- Parto da un compito piccolo e vero, non da un mese di studio. Si impara molto di più sistemando una cosa che leggendo tutto.
+- Chiedo. Dieci minuti con chi ha scritto quel pezzo valgono più di due ore passate a indovinare.
+- Vi aggiorno ogni giorno, così se sto andando nella direzione sbagliata lo scopriamo subito e non a fine settimana.
+
+[DA TE: una riga su cosa fai davvero il primo giorno, per esempio cosa chiedi sempre di vedere per primo]
+
+In un progetto dove sono entrato come responsabile del frontend, con uno sviluppatore interno sul backend, dopo poco davo una mano anche da quel lato quando serviva.
+Non perchè fosse previsto. Perchè in un team piccolo le cose funzionano così.
+
+Chi ha un team: quanto ci mette di solito una persona nuova a essere davvero utile da voi?

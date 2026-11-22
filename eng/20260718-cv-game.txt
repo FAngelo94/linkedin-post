@@ -1,0 +1,21 @@
+No plans for this weekend?
+I've prepared some minigames for you!
+
+Where can you find them?
+On my personal website, of course
+
+What do you mean? Why did I put them in my portfolio?
+In the past I've come across developers' websites built like a video game where you could discover their skills and projects by wandering around a small world in the style of Super Mario.
+
+As a gamer (with less and less time to play 😅) I've always found it an original and fun way to introduce yourself, but I never had the time to actually implement it.
+
+With the release of Claude's Fable model I decided to use it to build it on my portfolio and, in the meantime, test its reasoning and code generation abilities.
+
+So will HR have to play to discover my skills?
+Only if they want to, of course. I included it as an optional thing and, for now, it isn't complete, but I still wanted to start sharing it to get some feedback before sinking more time into it.
+
+There are some things about Fable that really surprised me, but those deserve a dedicated and more technical post.
+
+For now, have fun!
+
+PS: the link is in the first comment 👇

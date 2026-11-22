@@ -18,11 +18,12 @@ Examples:
 from __future__ import annotations
 
 import argparse
+import json
 import os
 import re
 import sys
 import unicodedata
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from datetime import date, datetime, timezone
 from pathlib import Path
 from typing import Iterable, Sequence
@@ -32,7 +33,8 @@ DEFAULT_SOURCE_DIR = Path(__file__).resolve().parent
 DEFAULT_ENV_FILE = DEFAULT_SOURCE_DIR / ".env"
 DEFAULT_PROJECT_ID = "angelo-falci"
 DEFAULT_TAGS = ("post linkedin",)
-FILE_PATTERN = re.compile(r"^(\d{8})-(.+)\.txt$")
+SLUG_PREFIX = "linkedin"
+FILE_PATTERN = re.compile(r"^(\d{8})-(.+)$")
 
 
 @dataclass(frozen=True)
@@ -95,6 +97,37 @@ def parse_args() -> argparse.Namespace:
         ),
     )
     parser.add_argument(
+        "--publish",
+        action="store_true",
+        help=(
+            "Create posts as published (publishedAt = displayDate) instead of drafts. "
+            "Posts dated after today are still created as drafts. Eligibility is "
+            "decided by slug (not by cutoff) unless --cutoff-date is given."
+        ),
+    )
+    parser.add_argument(
+        "--tags-file",
+        help=(
+            "JSON file mapping a file name to its list of tags, e.g. "
+            '{"20260519-cliente-ritorna.txt": ["post linkedin", "freelance"]}. '
+            "Files not listed use the default tags."
+        ),
+    )
+    parser.add_argument(
+        "--slug-prefix",
+        help="Slug prefix. Defaults to 'linkedin' for it and 'linkedin-<locale>' otherwise.",
+    )
+    parser.add_argument(
+        "--titles-file",
+        help='JSON file mapping a file name to a title override, e.g. {"file.txt": "Title"}.',
+    )
+    parser.add_argument(
+        "--exclude",
+        action="append",
+        default=[],
+        help="File name to skip (repeat the flag for multiple files).",
+    )
+    parser.add_argument(
         "--dry-run",
         action="store_true",
         help="Preview eligible posts without creating Firestore drafts.",
@@ -116,6 +149,46 @@ def title_from_segment(segment: str) -> str:
     if not title:
         return ""
     return title[:1].upper() + title[1:]
+
+
+def title_from_content(content: str, title_segment: str) -> str:
+    """First line of the post (without trailing period); falls back to the file name."""
+    first = next((line.strip() for line in content.splitlines() if line.strip()), "")
+    first = first.rstrip(".").strip()
+    if first and len(first) <= 100:
+        return first
+    return title_from_segment(title_segment)
+
+
+def normalize_head(text: str) -> str:
+    return re.sub(r"\W+", "", text.lower())[:40]
+
+
+def load_existing_index(db, field_filter_cls, collection_name: str, locale: str):
+    """Slugs, dates and first lines of posts already on the blog (any status)."""
+    slugs: set[str] = set()
+    dates: set[date] = set()
+    heads: set[str] = set()
+    query = apply_equals_filter(db.collection(collection_name), field_filter_cls, "locale", locale)
+    for doc in query.stream():
+        data = doc.to_dict() or {}
+        slugs.add(data.get("slug", ""))
+        if data.get("displayDate") is not None:
+            dates.add(coerce_firestore_date(data["displayDate"]))
+        first = next((line for line in (data.get("content") or "").splitlines() if line.strip()), "")
+        if first:
+            heads.add(normalize_head(first))
+    return slugs, dates, heads
+
+
+def already_on_blog(post, index) -> bool:
+    slugs, dates, heads = index
+    first = next((line for line in post.content.splitlines() if line.strip()), "")
+    return (
+        post.slug in slugs
+        or post.display_date.date() in dates
+        or normalize_head(first) in heads
+    )
 
 
 def excerpt_from_content(content: str) -> str:
@@ -189,19 +262,34 @@ def collect_local_posts(source_dir: Path) -> tuple[list[LocalPost], list[str]]:
             continue
 
         date_prefix, title_segment = match.groups()
+        if entry.suffix == ".txt":
+            title_segment = title_segment[: -len(".txt")]
+        elif "." in entry.name:
+            continue  # images, .bak and other non-post files
+        if title_segment.lower().rstrip().endswith(" copy"):
+            continue  # duplicates like "name copy.txt"
+
         try:
             display_date = parse_prefix_to_datetime(date_prefix)
         except ValueError:
-            invalid_files.append(entry.name)
-            continue
+            # Tolerate a ddmmyyyy prefix (e.g. 09092026-kangury.txt)
+            try:
+                parsed = datetime.strptime(date_prefix, "%d%m%Y")
+            except ValueError:
+                invalid_files.append(entry.name)
+                continue
+            display_date = parsed.replace(tzinfo=timezone.utc)
+            date_prefix = display_date.strftime("%Y%m%d")
 
         content = entry.read_text(encoding="utf-8").strip()
+        if not content:
+            continue  # empty file
         posts.append(
             LocalPost(
                 filename=entry.name,
                 file_path=entry,
-                title=title_from_segment(title_segment),
-                slug=f"linkedin-{date_prefix}-{generate_slug(title_segment)}",
+                title=title_from_content(content, title_segment),
+                slug=f"{SLUG_PREFIX}-{date_prefix}-{generate_slug(title_segment)}",
                 content=content,
                 excerpt=excerpt_from_content(content),
                 display_date=display_date,
@@ -300,7 +388,12 @@ def slug_exists(db, field_filter_cls, collection_name: str, slug: str) -> bool:
     return bool(docs)
 
 
-def create_draft(db, firestore_module, collection_name: str, post: LocalPost, locale: str, tags: Sequence[str]) -> None:
+def to_millis(value: datetime) -> int:
+    return int(value.timestamp() * 1000)
+
+
+def create_draft(db, firestore_module, collection_name: str, post: LocalPost, locale: str, tags: Sequence[str], publish: bool = False) -> str:
+    status = "published" if publish and post.display_date.date() <= date.today() else "draft"
     db.collection(collection_name).add(
         {
             "title": post.title,
@@ -309,14 +402,15 @@ def create_draft(db, firestore_module, collection_name: str, post: LocalPost, lo
             "excerpt": post.excerpt,
             "coverImage": "",
             "tags": list(tags),
-            "status": "draft",
+            "status": status,
             "locale": locale,
-            "displayDate": post.display_date,
-            "publishedAt": None,
+            "displayDate": to_millis(post.display_date),
+            "publishedAt": to_millis(post.display_date) if status == "published" else None,
             "createdAt": firestore_module.SERVER_TIMESTAMP,
             "updatedAt": firestore_module.SERVER_TIMESTAMP,
         }
     )
+    return status
 
 
 def format_post_line(post: LocalPost) -> str:
@@ -342,7 +436,12 @@ def main() -> int:
         print(f"Source directory not found: {source_dir}", file=sys.stderr)
         return 1
 
+    global SLUG_PREFIX
+    SLUG_PREFIX = args.slug_prefix or ("linkedin" if args.locale == "it" else f"linkedin-{args.locale}")
     posts, invalid_files = collect_local_posts(source_dir)
+    if args.titles_file:
+        overrides = json.loads(Path(args.titles_file).read_text(encoding="utf-8"))
+        posts = [replace(p, title=overrides[p.filename]) if p.filename in overrides else p for p in posts]
     if not posts and not invalid_files:
         print("No LinkedIn post files found.")
         return 0
@@ -352,27 +451,49 @@ def main() -> int:
     field_filter_cls = None
     cutoff_date: date | None
 
+    credentials_path = resolve_credentials_path(args.credentials)
     if args.cutoff_date:
         cutoff_date = parse_user_date(args.cutoff_date)
     else:
-        credentials_path = resolve_credentials_path(args.credentials)
+        cutoff_date = None
+
+    # In publish mode eligibility is decided by slug, so Firestore is always needed.
+    need_firestore = args.publish or not args.cutoff_date
+    if need_firestore:
         if credentials_path is None:
             print(
-                "Credentials required unless --cutoff-date is provided. Use --credentials or set GOOGLE_APPLICATION_CREDENTIALS.",
+                "Credentials required. Use --credentials or set GOOGLE_APPLICATION_CREDENTIALS.",
                 file=sys.stderr,
             )
             return 1
         firestore_db, firestore_module, field_filter_cls = init_firestore(credentials_path, args.project_id)
-        cutoff_date = get_latest_published_date(
-            firestore_db,
-            firestore_module,
-            field_filter_cls,
-            args.collection,
-            args.locale,
-        )
+        if not args.publish and not args.cutoff_date:
+            cutoff_date = get_latest_published_date(
+                firestore_db,
+                firestore_module,
+                field_filter_cls,
+                args.collection,
+                args.locale,
+            )
 
     candidates, skipped_by_cutoff = filter_newer_posts(posts, cutoff_date)
+    candidates = [post for post in candidates if post.filename not in set(args.exclude)]
     tags = resolve_tags(args.tags)
+    per_post_tags: dict[str, list[str]] = {}
+    if args.tags_file:
+        per_post_tags = json.loads(Path(args.tags_file).read_text(encoding="utf-8"))
+    today = date.today()
+    existing_index = (
+        load_existing_index(firestore_db, field_filter_cls, args.collection, args.locale)
+        if firestore_db is not None
+        else None
+    )
+
+    def tags_for(post: LocalPost) -> Sequence[str]:
+        return per_post_tags.get(post.filename, tags)
+
+    def status_for(post: LocalPost) -> str:
+        return "published" if args.publish and post.display_date.date() <= today else "draft"
 
     print(f"Source directory: {source_dir}")
     print(f"Parsed posts: {len(posts)}")
@@ -390,8 +511,17 @@ def main() -> int:
 
     if args.dry_run:
         print("\nDRY RUN: no Firestore writes will be performed.")
+        would_create = 0
         for post in candidates:
-            print(f"  WOULD CREATE {format_post_line(post)}")
+            if existing_index is not None and already_on_blog(post, existing_index):
+                print(f"  EXISTS {format_post_line(post)}")
+                continue
+            would_create += 1
+            print(
+                f"  WOULD CREATE [{status_for(post)}] {format_post_line(post)}"
+                f" | title: {post.title} | tags: {', '.join(tags_for(post))}"
+            )
+        print(f"\nWould create: {would_create}")
         return 0
 
     if firestore_db is None or firestore_module is None or field_filter_cls is None:
@@ -407,20 +537,21 @@ def main() -> int:
 
     for post in candidates:
         try:
-            if slug_exists(firestore_db, field_filter_cls, args.collection, post.slug):
+            if already_on_blog(post, existing_index):
                 print(f"  SKIP DUPLICATE {format_post_line(post)}")
                 duplicate_count += 1
                 continue
 
-            create_draft(
+            status = create_draft(
                 firestore_db,
                 firestore_module,
                 args.collection,
                 post,
                 args.locale,
-                tags,
+                tags_for(post),
+                publish=args.publish,
             )
-            print(f"  CREATED {format_post_line(post)}")
+            print(f"  CREATED [{status}] {format_post_line(post)}")
             created += 1
         except Exception as exc:  # noqa: BLE001
             print(f"  ERROR {post.filename}: {exc}", file=sys.stderr)

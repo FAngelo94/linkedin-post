@@ -1,0 +1,17 @@
+LinkedIn has turned off its AI.
+
+In recent days I read a lot of posts about the new button that lets you report low-quality AI-generated content.
+
+Only today though did I discover the other half of the news: LinkedIn also removed "Enhance your post", the feature that rewrote your posts with AI.
+
+It was reserved for premium users, so it went by pretty quietly.
+
+And I find it a curious choice.
+
+If the goal is to fight badly written AI content, removing your own tool doesn't help much. 
+
+Did they remove it because it didn't work well or because it was too expensive to maintain?
+
+I lean toward the second.
+
+What do you think? Had you ever used it as a feature?

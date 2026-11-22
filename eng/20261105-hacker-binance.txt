@@ -1,0 +1,29 @@
+Binance suffered the biggest theft in crypto history: 6.3 billion dollars.
+
+It happened on October 29th, in a few hours.
+On November 3rd Binance published the report on how they pulled it off.
+
+The most fascinating thing? The how.
+No hidden flaw, no movie-style exploit.
+
+In September a Binance engineer is contacted on LinkedIn.
+First interview on video with a fake HR person.
+Second interview in chat with the fake CEO of a company that doesn't exist.
+
+Then an apparently harmless request that several of you will have come across: download an assignment to complete.
+
+It was a repository with malware inside, run on the company laptop.
+From there, a month later, they reached the wallets and emptied them.
+
+How did he fall for it?
+Actually the fake company, to gain the victim's trust, built an entire credible story: a realistic fake website, fake social profiles, fake interviews and fake company documents.
+
+A few months ago something similar happened to me too but nowhere near this sophisticated and so I didn't fall for it.
+
+It's a story many companies can learn from, often the weak link in a company's security remains the human being, which is why it's worth paying attention to:
+- investing in training, but done well, not the usual boring theoretical lessons on phishing emails
+- organizing user permissions so that they have access only to what is strictly necessary for their job
+
+Personally, after this story, and my similar experience and others I've read on LinkedIn, in my next interviews I'm definitely not downloading anything anymore xD
+
+What do you think of this story? Have you ever had similar experiences during interviews or previous jobs?

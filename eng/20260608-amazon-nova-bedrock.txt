@@ -1,0 +1,15 @@
+Amazon Nova and Bedrock
+Here are the latest services that caught my curiosity at the AWS Summit in Milan
+
+Nova is a family of models created by Amazon in response to the more famous GPT, Claude and Gemini.
+It surprised me more for the fact that I hadn't heard of it until now.
+They looked very far behind the competition, though.
+
+Bedrock instead seemed like a very interesting service, but only for big companies.
+What does it do and why do I say this?
+In a nutshell you can use Bedrock as a layer to access multiple models and related services, so instead of having to create several subscriptions you can manage everything from one place.
+A huge advantage for a big company, especially if it already uses other AWS services.
+For a startup, on the other hand, it seems to introduce only extra complexity and costs, without bringing real benefits.
+
+My opinions are based on a few workshops seen at the fair, brief online research and some quick tests.
+So I challenge you to change my mind if you have more experience than me with these services! :D

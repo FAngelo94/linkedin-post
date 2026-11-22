@@ -1,0 +1,20 @@
+I organized my second trip to Japan starting from the diary of the first.
+
+From a certain point in my life onward I picked up this habit.
+Both for trips and for the projects I work on.
+
+What is it for?
+On trips, to remember details I would forget over time.
+On projects, to find tools, resources or solutions used in the past.
+
+The only problem?
+The more the diary grows, the harder it gets to find anything in it.
+
+With AI this problem has practically disappeared.
+
+- Japan: I had to go back to Kyoto and Tokyo and wanted to see new places. I attached the diary of the first trip and asked it to exclude the stops already visited
+- Work: I needed a tool I had already used but whose name I didn't remember. I explained the problem to Claude, attached the diary, and it found it for me
+
+It's like having an external memory I can finally ask questions to.
+
+Do you keep track of your projects/trips somewhere?

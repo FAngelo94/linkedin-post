@@ -1,0 +1,25 @@
+Avete un'idea di software tra i buoni propositi del 2027?
+
+Un'app, una piattaforma, un servizio online.
+Quella cosa di cui parlate da mesi e che quest'anno, giurate, fate partire.
+
+Prima di spendere un euro in sviluppo io farei tre cose. In quest'ordine.
+
+1) Cercate chi lo fa già
+Se non lo fa nessuno, di solito non è perchè siete i primi ad averci pensato. Se lo fanno in dieci, c'è un mercato: dovete capire cosa farete di diverso.
+
+2) Parlatene con dieci persone che dovrebbero usarlo
+Non amici e parenti. Loro vi diranno che è bellissimo.
+
+3) Fatevi una demo da soli
+Con gli strumenti di IA di oggi una prima bozza da far vedere riuscite a farla senza saper programmare. Non sarà un prodotto, ma chiarisce le idee più di cento slide.
+
+E lo sviluppatore?
+Arriva dopo. Quando sapete cosa volete costruire e vi serve la prima versione vera da mettere in mano a degli utenti.
+
+Perché è lì che si scopre se l'idea funziona: quando qualcuno la usa e torna il giorno dopo.
+Tutto quello che viene prima sono indizi.
+
+Lo dico contro il mio interesse, per carità. Ma preferisco un cliente che arriva con le idee chiare a uno che dopo un mese scopre che il prodotto non serviva a nessuno.
+
+Chi di voi ha un progetto così nel cassetto? A che punto siete?

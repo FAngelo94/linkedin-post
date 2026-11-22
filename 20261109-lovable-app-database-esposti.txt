@@ -1,0 +1,21 @@
+Hanno scansionato 159.041 app fatte con Lovable: 24.664 restituivano i dati del database senza chiedere il login.
+
+Cosa c'era dentro?
+- 7.403 app con tabelle di indirizzi email
+- oltre 1.000 record con numero di passaporto, nazionalità e scadenza
+- dati di pagamento
+- circa 200.000 messaggi di chat
+
+La causa nella maggior parte dei casi? Un interruttore spento sul database, la Row Level Security, quello che dice "questa riga la può leggere solo chi ne ha diritto".
+
+Il problema era già venuto fuori nel 2025, e anche oggi Lovable dice che la sicurezza è una responsabilità condivisa tra loro e chi pubblica l'app.
+
+Giusto o sbagliato?
+Lascio decidere a voi.
+
+Se però avete creato app con Lovable e non siete sicuri di aver settato tutto bene, è arrivato il momento di assumermi xD
+
+Scherzi a parte, anche a me piace sporcarmi le mani con lavori nei quali non ho molta competenza (di solito il fai da te in casa), e capita di fare qualche casino.
+In quei casi mi piacerebbe assumere un professionista che, senza giudicare, controlli quanto fatto o, se necessario, sistemi il danno.
+
+Ecco, io vorrei essere quel professionista per chi ha creato app con Lovable, o altri tool AI in generale, e si trova in difficoltà.

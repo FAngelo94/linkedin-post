@@ -1,0 +1,29 @@
+Writing code is the most boring part of my job
+
+I happen to read several nostalgic posts from developers who fondly remember the times when code was written by hand.
+
+I've been developing software for over 15 years and, honestly, I don't feel that nostalgia.
+
+On the contrary, today I gladly use tools like Claude because they let me spend more time on the part I'm really passionate about.
+
+Solving problems.
+
+When a client tells me their idea, the most stimulating part is designing the solution.
+
+I start connecting all the pieces in my head.
+
+Does this flow make sense?
+Can these features coexist?
+How do I handle security and scalability?
+Which edge cases do I need to consider?
+What will happen in a year or two when the project grows?
+
+That's where value is created.
+
+Once the right solution is found, turning it into code is often the most mechanical part of the job.
+
+I'm still glad of all the code I wrote in the past because it lets me understand today what the AI produces for me.
+
+And you, which side are you on? 
+
+Are you nostalgic for code written line by line or do you prefer using AI to focus on design?

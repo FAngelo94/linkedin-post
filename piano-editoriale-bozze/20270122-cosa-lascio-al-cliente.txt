@@ -1,0 +1,24 @@
+Cosa resta al cliente quando smettiamo di lavorare insieme?
+
+Qualche mese fa scrivevo che il mio obiettivo con un cliente è diventare inutile.
+Qualcuno mi aveva risposto: bello a parole, ma in pratica?
+
+In pratica, l'ultimo giorno di un progetto faccio queste cose.
+
+- Il codice è già in un posto a cui il cliente accede. Non lo "consegno" alla fine, ce l'ha dal primo giorno.
+- Gli account dei servizi sono suoi. Se durante lo sviluppo ne ho usato uno mio per fare prima, lo trasferisco. In un progetto ho passato tutto a un account creato apposta dal cliente.
+- Lascio scritto come si pubblica un aggiornamento e cosa fare se qualcosa si ferma.
+- Se c'è qualcuno interno che prenderà in mano il progetto, ci passo del tempo insieme.
+
+Dopo di che il cliente può fare tre cose: continuare da solo, chiamare un altro, richiamare me.
+
+Ho perso lavoro così?
+Può darsi. Qualche cliente è andato avanti per conto suo e va bene.
+
+Ma mi è successa anche un'altra cosa.
+Un cliente con cui avevo chiuso è tornato dopo qualche mese, per una fase nuova del prodotto.
+Non era obbligato. Aveva tutto in mano per rivolgersi a chiunque.
+
+Quel ritorno per me vale più di un contratto di dodici mesi con una clausola di esclusiva.
+
+Ditemi che non sono l'unico a pensarla così.

@@ -1,0 +1,25 @@
+"Vorremmo mettere l'IA nel nostro prodotto"
+
+È una frase che sento sempre più spesso.
+E la mia prima risposta è sempre una domanda: per fare cosa?
+
+Non per fare il difficile.
+È che da quella risposta dipende se ha senso oppure no.
+
+[DA TE: due o tre richieste reali che hai ricevuto, in una riga ciascuna. Quelle sotto sono esempi presi dai servizi elencati sul tuo sito, da sostituire o confermare]
+
+Le richieste che di solito hanno senso:
+- un assistente che risponde ai clienti usando i vostri documenti, invece di far cercare le risposte in venti pagine di FAQ
+- far leggere all'IA cose noiose e ripetitive: email, moduli, documenti da classificare
+- riassumere e cercare dentro materiale che nessuno ha tempo di rileggere
+
+Quella che non ha senso?
+"Mettiamo l'IA" e basta. Perché ce l'hanno i concorrenti, o perché l'ha chiesto qualcuno ai piani alti.
+
+Lì si finisce con un chatbot in un angolo del sito che nessuno apre, e un costo in più ogni mese.
+
+C'è anche una terza categoria, quella che mi piace meno dover spiegare: i casi in cui l'IA si potrebbe usare ma un filtro fatto bene o un menù a tendina risolvono meglio e costano un decimo.
+
+L'IA è uno strumento. Si parte dal problema e poi si guarda se è lo strumento giusto.
+
+Voi dove l'avete inserita nei vostri prodotti o in azienda? E sopratutto, la usa qualcuno?

@@ -1,0 +1,21 @@
+Do LLMs really understand what we say?
+
+Or have they simply become monstrously good at imitating human language?
+
+I read an article that argues an interesting thesis: current LLMs aren't truly intelligent and, above all, will never lead to AGI as they're conceived today.
+
+They don't model understanding.
+They model probability.
+
+Basically, a model answers that 2+2=4 not because it "understood" addition, but because that answer is statistically the most plausible.
+
+What do I think?
+
+Today's most advanced models require enormous amounts of data, computing power and energy to replicate, at least in part, abilities that the human brain expresses using just 20 watts.
+
+So is a paradigm shift needed to reach true AGI?
+For now I think so.
+
+What's your take?
+
+📎 Link to the article in the comments.

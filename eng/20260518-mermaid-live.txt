@@ -1,0 +1,14 @@
+Do you need a free, simple tool to make a diagram?
+Here's mermaid.live
+
+I rediscovered it recently: the first version is about ten years old, so maybe you already know it.
+It's a web app that lets you create flowcharts, timelines, relational schemas, kanban boards, git-flow and more, using a very simple Markdown-like syntax.
+
+You can represent a git flow, a kanban, a timeline, a relational schema (like the one in the picture), and a lot more.
+When you select the chart type it already shows you an example of code to start from.
+
+Fun fact: 
+Why is it called "Mermaid" (it's the first thing that comes to mind when I see a tool with an odd name😂)? 
+The creator, Knut Sveidqvist, picked the name of the cartoon his kids were watching when he started developing the tool, which was "The Little Mermaid".
+
+Link to the tool in the comments!

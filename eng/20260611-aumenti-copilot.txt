@@ -1,0 +1,26 @@
+Is it still worth using Copilot after Microsoft's senseless price hikes?
+Spoiler: I'm not so sure anymore.
+
+I've used Copilot since the beta and, before these increases, I recommended it for very concrete reasons:
+
+- it was cheap, about 100 euros a year
+- inline suggestions that are really handy for developers
+- native integration with GitHub, my main development platform
+- it let you try different models, even though in recent months the choice had already shrunk
+- it also offered free models useful for the simplest tasks
+
+Since June 1st, though, the token count on the main models hasn't simply doubled: in some cases it has gone up 6x, with Sonnet reaching even 9x.
+
+Before, I could cover the month by managing the various models well and using the free ones. Today, with the same usage, I struggle to make it to the end of the first week.
+
+Since my annual subscription will still last for quite a few months, the most sensible solution I've found for now was to add Claude Pro and use the two tools together.
+
+Claude Pro isn't exactly generous with tokens either, so on its own it wouldn't be enough for me. But combined with Copilot, it's still manageable.
+
+On top of that, the former free Copilot models are still very convenient, since they still have a 0.33x count. If you give them a well-split plan of tasks, maybe prepared with Sonnet or Opus, they still do a great job and save quite a few tokens.
+
+In my opinion Microsoft made a blunder raising its costs so much and with so little notice, the risk of pushing people toward Anthropic or other competitors is high.
+
+What do you think?
+
+Or how did you organize yourselves if you used Copilot?

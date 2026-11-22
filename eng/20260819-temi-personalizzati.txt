@@ -1,0 +1,13 @@
+Customizable theme or brand identity first?
+
+I have a friend who is obsessed with custom themes on websites. 
+
+Every time he builds a new site, the first thing he does is implement the feature to choose among no fewer than ten different themes.
+
+And he also complains that most sites don't offer this option.
+
+On one hand I myself appreciate being able to choose among different themes, almost always landing on the dark one like a good developer.
+
+On the other hand though I think it's important for a brand to have its own recognizable colors and that, from this point of view, a customizable theme could be counterproductive.
+
+What's your take? 

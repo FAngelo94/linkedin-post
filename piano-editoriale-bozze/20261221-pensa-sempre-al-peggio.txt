@@ -1,0 +1,31 @@
+Il mio motto quando sviluppo è "pensa sempre al peggio".
+
+Detto così sembro uno simpatico alle feste, lo so.
+
+Ma nel software funziona.
+
+Quando un cliente mi racconta la sua idea, lui vede il caso in cui tutto va bene.
+L'utente si registra, compra, torna.
+È giusto così, l'idea è sua e deve crederci.
+
+Il mio lavoro è vedere gli altri casi.
+
+Cosa succede se l'utente chiude la pagina a metà del pagamento?
+Se due persone modificano la stessa cosa nello stesso momento?
+Se qualcuno scrive nell'indirizzo del browser il numero di un ordine che non è il suo?
+Se il servizio esterno che usiamo domani raddoppia i prezzi o chiude?
+
+Un esempio da un progetto con dei robot.
+Chi li usa può creare sequenze di azioni, anche ripetute in ciclo.
+La prima cosa che ho pensato è stata: e se qualcuno crea un ciclo che non finisce mai?
+
+Per questo ogni ciclo ha un numero massimo di ripetizioni e una via d'uscita obbligatoria.
+Nessuno me l'aveva chiesto. Ma un robot bloccato all'infinito in un laboratorio non è un bug, è un problema serio.
+
+Queste domande al cliente all'inizio danno anche un po' fastidio, me ne rendo conto.
+Sembra che voglia smontargli l'idea.
+
+Costano molto meno fatte prima che scoperte dopo.
+
+Buone feste a tutti.
+E per i cenoni, pensate sempre al peggio: tenete un posto in più a tavola.

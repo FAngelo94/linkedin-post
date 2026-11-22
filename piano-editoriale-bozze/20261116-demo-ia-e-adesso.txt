@@ -1,0 +1,27 @@
+Avete fatto una demo con l'IA e funziona. E adesso?
+
+Settimana scorsa scrivevo delle 24.664 app fatte con Lovable che restituivano i dati del database senza chiedere il login.
+
+Qualcuno mi ha chiesto: ok, ma allora cosa manca a una demo per diventare un prodotto?
+
+Di solito queste quattro cose.
+
+1) Il login
+Nella demo spesso non c'è, o c'è ma chiunque può vedere i dati di chiunque.
+
+2) I dati salvati davvero
+Molte demo salvano tutto sul computer di chi le usa. Cambiate dispositivo e non c'è più niente.
+
+3) La pubblicazione
+Un indirizzo vostro, un posto dove gira, un modo per aggiornarla senza rompere tutto ogni volta.
+
+4) La sicurezza
+L'interruttore spento di cui parlavo settimana scorsa. Dalla demo non si vede, finché qualcuno non va a guardare.
+
+Nessuna di queste cose si nota quando mostrate la demo a un amico.
+Si notano tutte quando arriva il primo utente vero.
+
+La buona notizia è che la parte difficile l'avete già fatta: avete un'idea che sta in piedi e qualcosa da far vedere.
+Fino a poco tempo fa per arrivare lì serviva già uno sviluppatore.
+
+Se avete una demo ferma a questo punto, quale di queste quattro vi sta bloccando?

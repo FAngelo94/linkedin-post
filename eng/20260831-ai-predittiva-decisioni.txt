@@ -1,0 +1,18 @@
+Predictive AI is the real superpower of AI
+
+When AI is discussed, even here in the posts I see on LinkedIn, it's almost always in terms of generative AI
+
+It's used to automate tasks, develop faster, write emails
+
+However I read that, data in hand, the real difference for companies in terms of the bottom line is being made by Predictive AI
+
+In short, the real advantage of using AI isn't producing more stuff faster, but deciding better
+
+This is because it makes it possible, by analyzing all the available data, to make predictions about your customers, suppliers or products
+
+Something that until recently required entire teams of analysts and weeks or months of work can now be done in a few hours, a few days at most
+
+What do you think?
+Are you already using it in your company?
+
+link: https://fortune.com/2025/08/18/mit-report-95-percent-generative-ai-pilots-at-companies-failing-cfo/

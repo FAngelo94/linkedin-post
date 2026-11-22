@@ -1,0 +1,24 @@
+We have a site with terrible performance.
+
+Users complain about slowness and difficult navigation.
+The "less patient" ones (and a few bad actors who take advantage) attack the site with DDoS attacks, trying to overload it and take it offline.
+
+And the site operators' answer is:
+- On one hand they strengthen all defense mechanisms, or so they say, against DDoS attacks, advertising it widely
+- On the other hand they devote more "resources" to the users who make more noise or who can do more damage, ignoring the others
+
+Putting into practice a plan, maybe even a long-term one, to improve the site's overall performance?
+Out of the question.
+Absurd situation, right?
+
+Well, it's exactly what seems to me to be happening in Italy these days.
+
+- Yet another security decree of dubious usefulness at the expense of more effective structural interventions
+- Sending soldiers to Milan, with some ministers hoping they'll stay in Milan for years; in the spirit of "I hope we'll always keep the patch but never fix the hole"
+- Handouts to truckers to placate them temporarily; announcing, according to some, measures that were in fact already planned
+- Zero long-term structural interventions, and zero roundtables with groups of peaceful protesters
+
+Because yes, it wasn't only the violent ones.
+But that's the only thing I hear about around.
+
+What's your take?

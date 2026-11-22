@@ -1,0 +1,17 @@
+With the new API version of October 21, 2026, Anthropic removed temperature, top_p and top_k.
+
+First of all, what were they for?
+In short, they were used to control how "creative" or "rigid" the model's behavior was.
+
+And in their place?
+Nothing.
+There's effort, but it controls how much the model reasons, not how creative it is.
+
+The reason?
+Officially I haven't found it written anywhere.
+In my opinion, and it's the thing I find most interesting about the news, frontier models have become so complex that not even their creators can predict them.
+As a result, introducing parameters to control their behavior is becoming harder and harder.
+
+
+Personally I never used those parameters in my most important projects so it's a change that didn't affect me.
+If it caused problems for any of you, I'd like to know how you handled the situation.

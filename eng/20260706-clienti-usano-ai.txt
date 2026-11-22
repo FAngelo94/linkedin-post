@@ -1,0 +1,17 @@
+"How awful, websites made with AI by non-experts"
+
+That's the gist of more and more posts I see on LinkedIn where some professionals seem to even be annoyed at being contacted to fix sites made with AI.
+
+For me it depends on the type of client. If it's a big company showing me an enormous AI-made site full of holes to patch, then yes, I wouldn't be too thrilled.
+
+If instead it's an individual, or a small business, then I don't mind working with, and maybe doing a bit of training for, someone who made a site with AI without having the skills to do it well.
+
+Because I kind of see myself in them, in the sense that I too like to try my hand at jobs, often manual ones, that let's say aren't really my core business, often making a bit of a mess.
+
+And in those cases I'd like to have a professional who not only fixes what I did but also gives me some advice to do better next time.
+
+In software development I want to be that kind of professional.
+
+So if you've put your hands on a website or an app with AI, and the result is a bit patched together, for me it's not a problem.
+
+Let's see what can be fixed, and how to do it better from there on.

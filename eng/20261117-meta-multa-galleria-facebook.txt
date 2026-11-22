@@ -1,0 +1,17 @@
+The Privacy Authority has fined Meta 805 million euros.
+
+The Facebook app for Android, with the "Get suggestions from the gallery" feature introduced in 2023, could read the entire camera roll of the phone. 
+Photos, videos and metadata of about 20 million Italian users.
+
+Well but the users had given permission, right?
+Otherwise the app couldn't have accessed the gallery.
+
+Yes, but the Facebook app asked for permission to access the gallery when the user wanted to upload photos or videos.
+And then it used that permission to read the whole gallery at other times too, not only when the user was uploading content.
+And it didn't clearly state this to the user anywhere.
+
+Asking for permissions isn't enough in an Android app.
+You have to make sure it's clear to the user how that permission is used.
+And, if needed for other features, ask the user for permission again, clearly explaining the reason.
+
+Are you sure that's what happens in your Android apps?

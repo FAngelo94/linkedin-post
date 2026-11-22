@@ -1,0 +1,25 @@
+In questi giorni sto giocando a Zelda: Ocarina of Time.
+Il remake ovviamente, l'originale non l'avevo mai giocato.
+
+Gioco fantastico, che non posso fare a meno di guardare anche con gli occhi da sviluppatore.
+
+Una delle idee che preferisco?
+Un solo pulsante che cambia azione in base a dove ti trovi.
+Davanti a una porta la apri, vicino a un vaso lo sollevi, accanto a un personaggio ci parli.
+Il gioco ti propone l'unica cosa che ha senso fare in quel momento.
+
+Un approccio simile l'ho adottato per la web app di un cliente.
+
+La sua web app aveva una pagina che faceva un po' di tutto.
+Diverse funzionalità una sotto l'altra, pulsanti ovunque.
+E la usavano principalmente da telefono.
+
+L'ho divisa in più pagine, ognuna con un solo compito e un solo pulsante principale, ben visibile.
+Chi la apre sa subito cosa può fare lì, senza cercare.
+
+Sembra un passo indietro: più pagine invece di una.
+Ma su uno schermo piccolo avere tutto a portata di mano spesso significa non trovare niente.
+
+Avete anche voi una pagina, nel sito o nel gestionale che usate ogni giorno, dove ogni volta dovete cercare il pulsante giusto?
+
+PS: chi altro sta giocando a Ocarina of Time?

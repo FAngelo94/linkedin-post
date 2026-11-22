@@ -1,0 +1,17 @@
+Il Garante della Privacy ha multato Meta per 805 milioni di euro.
+
+L'app di Facebook per Android, con la funzione "Ottieni suggerimenti dalla galleria" introdotta nel 2023, poteva leggere tutto il rullino del telefono. 
+Foto, video e metadati di circa 20 milioni di utenti italiani.
+
+Bè ma gli utenti avevano dato il permesso, no?
+Altrimenti l'app non avrebbe potuto accedere alla galleria.
+
+Sì, ma l'app di Facebook chiedeva il permesso per accedere alla galleria quando l'utente voleva caricare delle foto o dei video.
+E successivamente usava quel permesso per leggere tutta la galleria anche in altri momenti, non solo quando l'utente stava caricando contenuti.
+E non lo indicava chiaramente all'utente da nessuna parte.
+
+Chiedere i permessi non è sufficiente in un'app Android.
+Bisogna garantire che per l'utente sia chiaro come quel permesso venga usato.111
+E, se necessario per altre funzionalità, chiedere nuovamente il permesso all'utente, spiegando chiaramente il motivo.
+
+Siete sicuri che succeda nelle vostra app Android?

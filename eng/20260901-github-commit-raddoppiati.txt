@@ -1,0 +1,17 @@
+Last week GitHub was down for almost eight hours.
+
+The cause? 
+An autoscaling that didn't hold up and a retry storm started by VS Code clients.
+
+In the following days I read another impressive figure: commits on GitHub more than doubled in just four months. 
+In April the platform hit 275 million commits per week.
+
+We haven't doubled the number of developers, of course.
+It's the agents that open a branch, commit, and when something doesn't respond they try again. All together.
+
+We're dumping onto a single platform a load that grows at a speed nobody accounted for, and the clients generating that load are programmed to insist rather than wait.
+
+Meanwhile, for eight hours half of the dev world stopped.
+
+What do you think?
+Will GitHub manage to handle the load of the coming months if it keeps growing this fast, or will they perhaps impose limits on clients?

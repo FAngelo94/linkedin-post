@@ -1,0 +1,25 @@
+Cosa si riesce a fare in una settimana di sviluppo?
+
+Me lo chiedono quasi sempre nella prima call, ed è una domanda giusta: chi non sviluppa non ha modo di saperlo.
+
+La risposta onesta è che dipende da quanto è chiaro quello che volete.
+Ma qualche esempio concreto posso darlo.
+
+In una settimana di solito ci sta una di queste cose:
+- una landing page, pubblicata
+- i pagamenti online dentro un sito che esiste già
+- un chatbot sul vostro sito
+- il sito tradotto in più lingue
+- le statistiche di utilizzo fatte bene, per capire cosa fanno davvero gli utenti
+- una prima versione molto semplice di un'idea, da far provare a qualcuno
+
+Cosa invece non ci sta?
+Un prodotto completo. Per quello si parla di un mese o più.
+
+E la settimana rende molto meno se la passiamo a decidere cosa fare.
+Per questo prima di partire faccio una call: se alla fine della call l'obiettivo non sta in una frase, non partiamo ancora.
+
+Ammetto che la settimana singola all'inizio l'avevo pensata solo per i lavori piccoli.
+Poi ho visto che molti la usano per un altro motivo: provare come lavoro prima di affidarmi qualcosa di più grosso.
+
+Mi sembra un ottimo motivo.

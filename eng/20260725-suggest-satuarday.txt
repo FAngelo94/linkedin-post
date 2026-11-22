@@ -1,0 +1,17 @@
+Unsolicited Saturday tip for those starting to use AI seriously 👇
+
+If you're approaching AI tools for your work for the first time, avoid the courses that after five minutes already start talking about skills, sub-agents, MCP, frameworks and a thousand other concepts.
+
+Just write a simple prompt asking for what you need in as much detail as possible and get familiar with the tool this way
+
+Today many models are so advanced that, in most cases, a good prompt is more than enough to get quality results
+
+Only one tip: download the tool locally, don't use it from the browser, so that it can interact with your files
+
+Only afterwards would I start exploring everything else, maybe one tool at a time
+
+Otherwise the risk is getting confused, configuring the tools badly, wasting tokens and even coming to think that AI "doesn't work", when in reality you're just adding complexity too early.
+
+Change my mind if you disagree.
+
+P.S. The idea for this post came to me after recently following, out of curiosity, a video course on the subject

@@ -1,0 +1,15 @@
+In September the Milan tech calendar starts up again. 
+Have you already signed up for any events?
+
+The most interesting ones I've found so far are:
+
+- Milano Digital Week, from September 30 to October 6, in various places around the city
+- GDG Milano with "Agentic Apps with Google Gemini SDK and TypeScript", September 25 at the Randstad Box on Via San Vigilio
+- Codemotion Milano, October 28-29 at Superstudio Più on Via Tortona
+
+I must admit, though, that I struggle to find interesting events, especially for networking.
+
+There are too many event sites scattered around the web and they're also poorly advertised.
+
+Do you follow any tech communities in Milan or nearby? 
+Or do you have any events to suggest?

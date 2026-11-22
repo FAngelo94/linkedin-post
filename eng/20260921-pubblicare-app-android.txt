@@ -1,0 +1,26 @@
+How much stuff does Google ask for to publish an app on the Play Store?
+
+In these days I've gotten ahead with publishing Autochess of Ages, the game I told you about a few days ago.
+
+When I published my last app, about ten years ago, all you needed was the APK, a few screenshots and a content questionnaire.
+
+Today?
+- Identity verification with a document and phone number
+- Mandatory privacy policy
+- A page explaining how to delete the account and the user's data
+- Data safety form: what data you collect, why, whether you share it, whether it's encrypted
+- Questionnaires on target audience, ads, test credentials for reviewers
+- Target API 36 (Android 16), mandatory from August 31, 2026
+- I probably forgot something
+
+The part that surprised me most?
+For personal accounts created after November 2023 you first need a closed test with at least 12 testers, enrolled for 14 consecutive days.
+And from 2026 Google even checks that the app is really being used.
+Luckily I managed to recover my old developer account so I shouldn't have to go through this step.
+
+I understand the goal: fewer junk apps and fewer scams on the store.
+Then though I often come across misleading ads for games that promise experiences that don't match reality.
+Or, in other cases, games that blatantly violate the copyright of other works and I wonder how on earth they got past the store's review.
+
+A bit exaggerated for nothing if there are still apps that manage to pass review while breaking the rules?
+How do those who often develop mobile experience it? 

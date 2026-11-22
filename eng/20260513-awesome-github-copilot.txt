@@ -1,0 +1,16 @@
+How do I create an agent or a skill?
+Often the right answer is: don't start from scratch.
+
+If you're tinkering with GitHub Copilot, but the material can be adapted to other tools like Claude too, there's a website I think is worth bookmarking: Awesome GitHub Copilot.
+
+It collects agents, skills, plugins and other examples created by other users.
+You can copy them or use them as inspiration to create something of your own.
+
+By the way, the site is made the way I like.
+Simple, essential design, no frills, with a search bar and a series of categories to make searching easier.
+
+It does only one thing, but does it well!
+
+What do you think? Do you have other similar sites to recommend?
+
+PS: link in the comments

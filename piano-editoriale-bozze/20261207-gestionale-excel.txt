@@ -1,0 +1,27 @@
+Il vostro gestionale è un file Excel?
+
+Non c'è niente di male.
+Mezza Italia gira su un foglio Excel condiviso, e in tanti casi va benissimo così.
+
+Ve lo dice uno che di lavoro vende software.
+
+[DA TE: un caso o una richiesta reale, anche non andata in porto. Due o tre righe: chi era, cosa gestiva con Excel, cosa ti ha chiesto]
+
+Quando va bene tenerselo?
+- lo usa una persona, massimo due
+- i dati servono solo a voi
+- se domani si rompe perdete un pomeriggio, non un cliente
+
+Quando invece inizia a costarvi?
+- lo aprite in tre e ogni tanto qualcuno sovrascrive il lavoro di un altro
+- esiste "ordini_definitivo_v3_QUESTO.xlsx"
+- c'è una persona sola che sa come funziona, e quando è in ferie si ferma tutto
+- vi serve dal telefono, o serve ai vostri clienti
+- certi dati non dovrebbero vederli tutti
+
+Se vi riconoscete in due o tre punti della seconda lista, il problema non è Excel.
+È che quel file sta facendo un lavoro per cui non è nato.
+
+Un po' come usare il gruppo WhatsApp di famiglia per gestire i turni di un'azienda. Funziona, finché non funziona più.
+
+Voi cosa gestite ancora con un foglio Excel?

@@ -1,0 +1,27 @@
+I'm developing a mobile game
+
+The excuse?
+RevenueCat's contest, which I discovered a few weeks ago.
+
+The real reason?
+I've always loved games, and they're the perfect testing ground to improve: they have everything, from simulation to rendering, from networking to backend, to payments.
+Besides, while I was studying I published several games on the Play Store about 10 years ago.
+I regret a bit not maintaining and updating them over time but, without AI, it was really demanding.
+
+Anyway the new game is called Autochess of Ages, an online multiplayer auto battler between ancient civilizations.
+You buy units, deploy them on a hexagonal board and watch your army fight on its own.
+
+To develop it I'm using AI heavily, not only to write code but also to:
+- Help me update the server deployed on a VPS rented for the purpose, by having Claude connect via SSH
+- Run automated tests not only on the code but also on the UI through screenshot comparison
+- Run automatic matches between bots and, between one run and the next, analyze win rates and unit performance to balance the game
+- Generate part of the graphic content (for some I found a good designer who's helping me with the 3D models of the units)
+- Analyze logs and optimize server code and configuration
+
+My role?
+Less typing, more deciding, giving goals to the AI, verifying and saying no when a solution doesn't convince me.
+
+How the contest will go I don't know.
+I admit though that I'm having fun developing it!
+
+If you want to try it in preview write to me, as soon as it's on the Play Store I'll send you the link.

@@ -1,0 +1,23 @@
+Last Friday, November 13, 2026, the world population was supposed to become infinite.
+
+It's not a joke.
+It's the title of a provocative article published in Science on November 4, 1960: "Doomsday: Friday, 13 November, A.D. 2026".
+
+Heinz von Foerster and two colleagues had taken the historical population data, found the curve that described it best and extended it.
+The doubling time shrank until it reached zero on exactly that day.
+
+What happened?
+Already from the 1960s growth stopped following that curve and today people talk about stabilization by the end of the century.
+The math was right. It was the world that disagreed.
+
+I wanted to share it because it's curious, but also because it made me think of the charts on AI that I often see here on LinkedIn.
+Like the METR one on tasks doubling in duration roughly every 7 months, with the line extended forward to AGI.
+
+A curve describes the past, but doesn't guarantee the future.
+- the data to train models on isn't infinite
+- energy and datacenters cost more and more
+- every extra point on the benchmarks costs more than the previous one
+
+And whoever has the most interest in extending that line is often whoever needs to close the next funding round.
+
+PS: November 13 was also von Foerster's birthday. Maybe he was joking a little too.

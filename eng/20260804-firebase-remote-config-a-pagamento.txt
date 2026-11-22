@@ -1,0 +1,16 @@
+News from Firebase, one thing you start paying for, the other disappears
+
+I'm talking about it because it's a platform I use often, as web hosting or when I need a simple backend/db without setting up half an infrastructure
+
+From September 1st Remote Config becomes paid
+100,000 fetches per day stay free, then $0.06 per 10,000 requests
+
+To tell the truth I've never used Remote Config, it mainly concerns people developing mobile apps, letting them change the app's behavior without having to release an update
+
+I don't know anyone in my circle who uses it but if you reading this use it/have used it I'd be curious to know how much impact this will have for you
+
+A second update, more interesting for anyone following/using Google AI tools: Firebase Studio shuts down on March 22, 2027
+
+It's part of Google's unification strategy to concentrate everything in its main AI platforms, Google AI Studio and Google Antigravity
+
+Here too I wonder how many active users Firebase Studio had, if you know, drop a comment

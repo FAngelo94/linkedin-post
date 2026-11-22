@@ -1,0 +1,13 @@
+After login, take the user back exactly to where they were before.
+
+It seems like a trivial detail, but as a user there are few things more frustrating than having to start your navigation over after authenticating.
+
+Were you reading an article? Back to the home page.
+
+Were you searching for a product? You have to redo the search.
+
+For many developers it's probably taken for granted, but in recent months I've come across far too many sites, even from big companies, that sent me back to the home page after login.
+
+It's small touches like this that make the difference between a smooth user experience and one full of friction.
+
+Which other small feature do you think is often overlooked on websites?

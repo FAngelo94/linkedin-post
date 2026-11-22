@@ -1,0 +1,23 @@
+Sicuro di aver bisogno di uno sviluppatore full-time?
+
+Per mia esperienza, tanti progetti software non richiedono qualcuno a tempo pieno.
+
+Il motivo?
+Il lavoro arriva a picchi.
+
+Io stesso quando ero dipendente avevo periodi di intenso lavoro alternati a periodi in cui praticamente non avevo quasi nulla da fare.
+Vuoi per la fase di testing, vuoi per l'attesa dei feedback dai clienti, ci sono momenti in cui il lavoro rallenta notevolmente.
+Lo stipendio però, giustamente, arrivava lo stesso.
+
+Con l'IA questa cosa è diventata ancora più evidente.
+I picchi si sono accorciati, i periodi tranquilli molto meno.
+
+Eppure vedo ancora un sacco di annunci che cercano sviluppatori a tempo pieno.
+
+Non dico che il full-time non serva mai, per carità.
+Se il software è il cuore della vostra azienda e potete sfruttare una risorsa su più progetti, avere qualcuno in casa ha senso.
+
+Ma se vi serve qualcuno che faccia evolvere un solo prodotto e ci sia nei momenti di picco, ci sono altre strade.
+
+Voi come la vedete?
+E chi ha assunto uno sviluppatore interno per un solo progetto, a distanza di qualche mese lo rifarebbe?

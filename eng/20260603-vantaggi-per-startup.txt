@@ -1,0 +1,22 @@
+Dynamic projects? Per-project pricing is a trap.
+
+In innovative contexts requirements change constantly. Estimating everything upfront is often impossible, so freelancers usually choose one of these two paths:
+
+- Raise the initial figure a lot to cover uncertainty.
+- Offer a low price but tie the work to the current plan, charging extra for every change.
+
+Both options make costs unpredictable or unsustainable for the startup.
+
+My proposal: a fixed monthly fee (subscription).
+
+How it works:
+a monthly fee that covers the activities needed to move the project forward: development, bug fixes, small tweaks, reprioritizations.
+
+Why it's convenient:
+- More predictable expenses, often lower.
+- Faster iterations: you don't lose time on contracts for every change.
+- More flexibility to adapt to changing priorities.
+
+In my experience this model has often reduced costs for clients and sped up development.
+
+If you're interested, check out my website (link in my profile) or write to me directly. 

@@ -1,0 +1,28 @@
+Google has launched an AI model that can't even write a sentence.
+
+It's called Gemini Decision 1, it came out on November 11th with the new Decisions API and it does only one thing: choose.
+
+You give it a question and the possible options, and it returns the probability of each.
+- yes/no questions
+- choices between 2 and 255 options
+- scores on scales of 2 to 255 levels
+
+The price?
+$0.10 per million input tokens.
+$0 on output.
+
+What does it mean in practice?
+That a good part of what we ask an LLM isn't writing, it's deciding.
+Does this request go to sales or support? Does this contract have an automatic renewal clause? Which tool should the agent use?
+Often, to get a "yes" back, we use a model capable of writing a novel.
+
+On the $0 for output, though, I admit it has more impact in the headline than on the invoice.
+A one-word answer was cheap even before.
+
+The real difference, in my opinion, lies elsewhere:
+- nothing to configure: a generalist, if you don't turn off reasoning, charges you hundreds of tokens to say "yes"
+- shorter prompts: no more "answer only yes or no, without explanations"
+- a probability instead of text: no more out-of-format answers, and you decide the threshold
+
+What do you think?
+And for those already using an LLM in production, how many of your calls are actually a choice among a few options?

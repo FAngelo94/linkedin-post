@@ -1,0 +1,28 @@
+A robot broke Bolt's 100 meter record.
+
+How many of you read this news?
+
+I came across quite a few posts here on LinkedIn, and newspaper articles too, that told it by focusing everything on the pointlessness of beating a human record.
+As if that were the goal of these robot Olympics.
+
+But it isn't.
+
+These races between robots don't exist to beat humans over 100 meters.
+
+To me it seems obvious, but I think it isn't for everyone, especially for those completely outside the tech or robotics world.
+
+What are they really for?
+
+To test humanoid robots in realistic contexts, where they have to interact with the environment and complete complex tasks.
+
+They're a testing ground for companies in the sector: they test prototypes by measuring themselves against competitors and collect valuable data to improve their robots, on both the software and hardware sides.
+
+And Italy?
+
+It took part through academic channels, mainly using pre-assembled robots rather than its own.
+The goal of the Italian labs was to test their own software.
+
+Bolt's record, in all this, is the color piece for newspapers. Not the point.
+
+What version of the news reached you?
+I'd also be curious to hear the opinion of people more inside the robotics world if this post reaches them.

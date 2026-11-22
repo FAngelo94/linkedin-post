@@ -1,0 +1,14 @@
+How strong is Opus 5.5, really?
+
+It came out last week and after less than 24 hours I was already seeing posts praising it.
+
+I, in all honesty, wanted to try it for a few days, and on different tasks, before expressing a judgment.
+
+So?
+I really did notice a huge leap in quality compared to the previous version, in two points in particular:
+- in coding, it seems to use far fewer tokens
+- in the posts it helps me write, the quality is on a whole other level
+
+For example, while reviewing a post, without my asking, it came up on its own with a metaphor that fit perfectly with what I had written.
+
+For those using it, in which use case have you found it best?

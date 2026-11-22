@@ -1,0 +1,21 @@
+Do you know what one of the most boring activities in development is, to me?
+Deploying what I develop.
+
+Especially if it's an Android app.
+
+So I decided to automate everything for Autochess of Ages, the game I've already told you about.
+
+I thought the permissions part would be the most complicated.
+Instead all it took was creating a service account on Google Cloud, giving it the right permissions and "inviting" it to the project on Google Play Console.
+
+Then I saved everything needed in GitHub Secrets: keystore, passwords and service account credentials.
+
+The last piece was done by Claude.
+I explained the whole flow to it and it generated the yml file for GitHub Actions.
+
+I admit that, on my own, this would have been the most complex part.
+
+Now?
+I push a tag and after a few minutes the new version is on the Play Store.
+
+Those who develop mobile, have you automated the release too or do you still upload everything by hand?

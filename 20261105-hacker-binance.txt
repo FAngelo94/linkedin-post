@@ -1,0 +1,29 @@
+Binance ha subito il furto più grande nella storia delle crypto: 6,3 miliardi di dollari.
+
+È successo il 29 ottobre, in poche ore.
+Il 3 novembre Binance ha pubblicato il report su come ci sono riusciti.
+
+La cosa più affascinante? Il come.
+Nessuna falla nascosta, nessun exploit da film.
+
+A settembre un ingegnere di Binance viene contattato su LinkedIn.
+Primo colloquio in video con un finto HR.
+Secondo colloquio in chat con il finto CEO di un'azienda che non esiste.
+
+Poi una richiesta apparentemente innocua che a diversi di voi sarà capitata: scaricare un compito da svolgere.
+
+Era un repository con dentro il malware, fatto girare sul portatile aziendale.
+Da lì, un mese dopo, sono arrivati ai wallet e li hanno svuotati.
+
+Come ha fatto a cascarci?
+In realtà la finta azienda, per acquisire la fiducia della vittima, ha costruito un'intera storia credibile: finto sito realistico, finti profili social, finti colloqui e finti documenti aziendali.
+
+Qualche mese fa mi era capitato anche a me qualcosa di simile ma neanche lontanamente così sofisticato e quindi non ci sono cascato.
+
+È una storia dalla quale tante aziende possono imparare, spesso l'anello debole della sicurezza di un'azienda rimane l'essere umano, per questo vale la pena fare attenzione a:
+- investire in formazione, ma fatta bene non le solite noiose lezioni teoriche su email di phishing
+- organizzare i permessi degli utenti in modo che abbiano accesso solo a ciò che è strettamente necessario per il loro lavoro
+
+Poi personalmente dopo questa storia, e la mia esperienza simile e altre lette su LinkedIn, sicuramente nei prossimi futuri colloqui non scaricherò più niente xD
+
+Voi cosa ne pensate di questa storia? Avete mai vissuto esperienze simili durante colloqui o lavori precedenti?

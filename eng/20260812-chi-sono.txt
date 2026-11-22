@@ -1,0 +1,27 @@
+I built a submarine out of a one-meter PVC pipe.
+
+I've been posting here for a while but I've never introduced myself. Partly for privacy and partly because I prefer talking about work rather than about myself. 
+
+Reading others, though, I became convinced that a bit of context is needed.
+
+So, in chronological order:
+
+I was born in Caltanissetta and, after elementary school, I moved to Sondrio. From one end of Italy to the other, I confess it was a bit traumatic.
+
+I chose the ITIS because I liked math, but the practical kind, so no liceo.
+
+There I wrote my first code using C# and then Java. Questionable choices as first languages? Maybe, but I wasn't the teacher.
+
+From there the move to the Politecnico di Milano was natural. I loved Milan as a student as much as I hated it as a worker, in fact I didn't stay long.
+
+During my student years I worked on several projects, here are the ones I remember most fondly:
+
+- the submarine mentioned above: it was my high school thesis, built with salvaged materials and zero budget;
+- scala 40: the first game I developed for Android;
+- two robots in multidisciplinary projects, for which I handled the software and electronics side;
+- a recommendation algorithm, in collaboration with Spotify;
+- a route optimization algorithm.
+
+I'd like to dig some of them up and tell you about them properly, time permitting and, above all, if you're interested.
+
+PS: for years I also practiced a competitive sport that you'll never guess, I think. The first one who gets it wins a free consultation.

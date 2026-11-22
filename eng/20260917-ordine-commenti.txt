@@ -1,0 +1,23 @@
+LinkedIn has changed the order of comments under posts
+
+There's no longer one order for everyone.
+Each reader sees a ranking calculated on themselves: professional interests, connections, engagement activity.
+
+Announced in August 2026, rolling out since then
+
+The official reason?
+Time spent reading comments has grown 18% year over year and LinkedIn wants "more relevant" conversations
+
+It should be said that according to statistics AI-generated comments are becoming more and more common.
+So it could also be a strategy to give more visibility to real comments and hide AI-generated ones.
+
+Graphically nothing has changed, you'll still see the "Most relevant" option to sort comments, the algorithm underneath has changed.
+Before, it simply showed the most viewed comments at the top.
+
+I'm personally not convinced it's a positive change.
+
+The upside is that it could give more visibility to comments that are truly interesting for each user rather than to the most popular one.
+
+The downside is that it could make it harder to discover interesting comments that don't fall within our immediate interests, perhaps losing the chance to change perspective and/or learn something new.
+
+What do you think?

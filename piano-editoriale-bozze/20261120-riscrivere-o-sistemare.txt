@@ -1,0 +1,25 @@
+Riscrivere tutto o sistemare quello che c'è?
+
+È la prima domanda che mi sono fatto quando un cliente mi ha portato la sua demo.
+
+L'aveva costruita da solo con l'IA, senza saper programmare.
+Funzionava, e già questo fino a poco tempo fa sarebbe stato impensabile.
+
+Com'era fatta dentro?
+Ogni pagina era un unico file enorme, migliaia di righe con tutto mischiato.
+
+La richiesta era semplice: sistemarla e metterla online. Con un budget limitato.
+
+Le due strade classiche non andavano bene.
+
+Sistemare quei file così com'erano voleva dire perdere giorni a ogni modifica.
+Riscrivere tutto a mano voleva dire settimane di lavoro prima di vedere qualcosa.
+
+Ho preso una via di mezzo.
+Ho dato la demo in pasto all'IA per farla ricostruire in una struttura ordinata, e da lì ho proseguito io: correzioni, pulizia e le cose che nella demo mancavano, come la registrazione degli utenti e il salvataggio dei dati su un database invece che sul computer di chi la usava.
+
+Due settimane dopo era online.
+Con il progetto intestato a un account del cliente, non mio.
+
+Ammetto che un paio d'anni fa avrei detto "si riscrive da zero" senza pensarci.
+Oggi quella risposta al cliente sarebbe costata il doppio.

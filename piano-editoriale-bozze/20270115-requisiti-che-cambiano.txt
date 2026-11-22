@@ -1,0 +1,30 @@
+In una startup i requisiti cambiano ogni settimana.
+
+Non è una critica, è così che funziona. Parlate con un cliente nuovo e scoprite che gli serve una cosa diversa da quella che avevate immaginato.
+
+Il guaio è quando il software non riesce a starvi dietro.
+
+Un caso che ho vissuto dall'inizio.
+Una startup di tre persone che porta robot nei laboratori clinici.
+Uno segue clienti e business, uno costruisce i robot, io tutto il software.
+
+Il punto di partenza? Un'idea e requisiti molto generici.
+E la certezza che sarebbero arrivati robot diversi, in laboratori diversi, per fare lavori diversi.
+
+Se avessi scritto il software attorno al primo robot, al secondo avrei dovuto rifare mezzo progetto.
+E al terzo di nuovo.
+
+Quindi ho ridotto tutto a due concetti:
+- chi fa qualcosa (un robot, ma anche una macchina o una postazione)
+- cosa c'è da fare (il compito, piccolo o complesso)
+
+Tutto il resto si costruisce combinando questi due.
+
+Cosa ha voluto dire in pratica?
+Che quando è arrivato un robot nuovo non ho riscritto la piattaforma, ho aggiunto un pezzo.
+E che oggi chi costruisce i robot crea compiti con logiche a cui nemmeno io avevo pensato.
+
+All'inizio è costato qualche giorno in più, non lo nascondo. Si è ripagato alla prima richiesta cambiata.
+
+Se state costruendo un prodotto che sapete già che cambierà spesso e vi serve qualcuno che lo progetti pensando a questo, in questo periodo ho spazio per un nuovo progetto.
+[DA TE: confermare la disponibilità reale]

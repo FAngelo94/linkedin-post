@@ -1,0 +1,23 @@
+What are the most important tests to write in a project?
+
+It's a question I was asked every now and then in the past in some interviews.
+
+There are so many types of tests that if I tried to list them I'd surely forget some.
+
+My answer today?
+The one you don't write.
+
+Now that AI is increasingly able to write and run lots of them automatically, the most important test remains the human one.
+
+Opening the site and trying the various features by hand.
+
+The reason?
+Behind it there are often problems that AI, at the moment, isn't able to detect:
+- a button that's too awkward to click because of its position on the page
+- no visual feedback when you interact with an element
+- a navigation flow that isn't intuitive 
+- an element that's too small or too big for the page context
+
+All things that don't break the software, but that can have a big impact on the user experience.
+
+What's the last problem you discovered only by opening the site by hand?

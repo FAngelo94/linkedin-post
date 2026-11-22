@@ -1,0 +1,12 @@
+Autochess of Ages is on the Play Store.. more or less
+
+Having an old developer account saved me from the requirement of 12 testers for 14 days.
+But I still have to wait for Google's approval before the game is visible to everyone.
+
+Indicated wait time: 7 days (but it could vary)
+
+And in the meantime?
+I published it in an internal test, limited to 100 users at most, to start collecting feedback.
+Open and closed tests also have to wait for Google's first approval, while the internal one starts right away.
+
+If you want to try it, send me the email of your Google account privately, I'll add you to the testers list and send you the link to download it.

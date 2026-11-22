@@ -1,0 +1,25 @@
+These days I'm playing Zelda: Ocarina of Time.
+The remake of course, I had never played the original.
+
+A fantastic game, which I can't help looking at with a developer's eyes too.
+
+One of the ideas I like most?
+A single button that changes action depending on where you are.
+In front of a door you open it, next to a pot you lift it, next to a character you talk to them.
+The game offers you the only thing that makes sense to do at that moment.
+
+I adopted a similar approach for a client's web app.
+
+His web app had a page that did a bit of everything.
+Several features one below the other, buttons everywhere.
+And they used it mainly from their phone.
+
+I split it into several pages, each with a single task and a single main button, clearly visible.
+Whoever opens it knows right away what they can do there, without searching.
+
+It looks like a step backward: more pages instead of one.
+But on a small screen having everything within reach often means not finding anything.
+
+Do you also have a page, in the site or the management software you use every day, where you have to hunt for the right button every time?
+
+PS: who else is playing Ocarina of Time?

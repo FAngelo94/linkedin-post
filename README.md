@@ -25,6 +25,13 @@ Esempi:
 - `python publish_new_blog_drafts.py --credentials C:\path\service-account.json`
 - `python publish_new_blog_drafts.py --cutoff-date 2026-05-27 --dry-run`
 
+Pubblicazione diretta (non solo bozze):
+- `python publish_new_blog_drafts.py --publish --dry-run` mostra cosa verrebbe creato (titolo = prima riga del post, data = prefisso del file)
+- `--publish` crea i post come `published` (quelli con data futura restano `draft`); `displayDate` e `publishedAt` sono salvati in millisecondi come fa la dashboard
+- `--tags-file tags.json` assegna tag per file (`{"nome-file.txt": ["post linkedin", "freelance"]}`), `--exclude nome-file.txt` salta un file
+- un post e considerato gia online se esiste un post con stesso slug, stessa data o stessa prima riga
+- tag `freelance`: post rivolti ai potenziali clienti
+
 Note:
 - legge i file `YYYYMMDD-*.txt` nella root di questa cartella
 - crea documenti nella collection `posts` con `status = draft`

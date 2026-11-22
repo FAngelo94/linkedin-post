@@ -1,0 +1,19 @@
+Anthropic has canceled the price increase on Sonnet 5.
+
+At launch, $2/$10 per million tokens was declared an introductory price: from September 1st it would go to $3/$15.
+
+On August 10th they updated the pricing page: that $2/$10 becomes the standard price, the increase won't happen.
+
+The reason?
+
+On July 30th OpenAI cut GPT-5.6 Luna by up to 80%.
+On August 13th Google launched Gemini 3.7 Flash at $0.75/$3.75, half of 3.6 (but only until the end of the year).
+Underneath, the constant pressure from Chinese models.
+
+In a price war like this, raising by 50% would have been an own goal.
+
+It reminds me of Microsoft in June, which did the exact opposite with Copilot and pushed me to move a good part of my work to Claude.
+
+When in doubt, for now, I haven't taken out any annual subscription given the rapid evolution of prices and models.
+
+How are you handling it?

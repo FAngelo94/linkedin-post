@@ -1,0 +1,16 @@
+Meet Kangury, a bridge between physical and digital photos
+
+It's the first startup in which I collaborated as a cofounder together with @emanuele schiavon (who took care more of the business and testing side).
+
+We've been working on it, with ups and downs, for 3 years now and I've learned a huge amount along the way:
+
+- Managing a real project as fullstack as fullstack gets: frontend, backend, db, integration of various external services and deployment of prod and test environments
+- Collaborating with a cofounder on all strategic and operational decisions
+- Managing suppliers both contractually and operationally, integrating with their systems
+- Testing the market and making quick changes to the project
+- Dealing with external consultants and potential clients
+
+Ok but what exactly is Kangury?
+Well, for those who have the patience I'll leave in the comments a link to a video in which I not only present what it is but also tell the whole story of Kangury's creation and development.
+
+So the goal of the video isn't just to present Kangury but also to tell, to those who don't know me, a bit about me and my way of working.

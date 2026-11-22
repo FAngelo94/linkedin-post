@@ -1,0 +1,27 @@
+In September Stack Overflow received fewer than a thousand questions.
+
+In the whole month.
+In March 2014, its record month, there were 207,204.
+
+The decline began well before ChatGPT, of course, but AI delivered the final blow.
+Today we obviously ask our questions to AIs.
+
+And this made me think about something I want to share.
+
+Models learned to solve bugs also thanks to millions of threads in which someone had banged their head against it before us.
+The absurd bug that only shows up with that version, on that operating system, behind that proxy.
+One person found it, another answered, a third corrected in the comments.
+And it became common heritage, accessible to anyone with the same problem.
+
+Today we solve that bug in a chat.
+If it goes well, the solution stays there, private.
+If it goes badly, neither of the two finds it.
+
+As if in medicine there were no more exchange of experience among doctors on rare cases and everyone had to deal with it alone from a certain year onward.
+
+Tomorrow's frameworks will have documentation and source code, but their absurd bugs maybe won't have been told by anyone.
+
+With models that reason, and develop code, better and better, maybe the rare bug problem will no longer exist.
+
+What do you think?
+And when was the last time you looked something up on Stack Overflow?

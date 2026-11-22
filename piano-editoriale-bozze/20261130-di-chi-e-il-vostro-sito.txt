@@ -1,0 +1,27 @@
+Di chi è il vostro sito?
+
+Non chi l'ha pagato. Chi ha in mano le chiavi.
+
+Mi è capitato di parlare con diverse persone che l'hanno scoperto nel momento peggiore: quando volevano cambiare fornitore.
+
+Il dominio era intestato all'agenzia.
+Il codice non l'avevano mai visto.
+Le password dei servizi le aveva una persona sola, che nel frattempo aveva smesso di rispondere.
+
+Non serve essere tecnici per evitarlo. Bastano quattro domande, da fare prima di firmare:
+
+1) A chi sono intestati dominio, hosting e database?
+La risposta giusta è: a voi.
+
+2) Dove sta il codice e posso accederci?
+Anche se non lo aprirete mai.
+
+3) Se domani smettiamo di lavorare insieme, cosa mi consegni?
+
+4) Un altro sviluppatore riuscirebbe a metterci mano?
+
+Se a una di queste arriva una risposta vaga, o un "non vi preoccupate, pensiamo a tutto noi", io qualche domanda in più la farei.
+
+Ammetto di essere influenzato dal mio "pensare sempre al peggio", ma un fornitore serio a queste domande risponde in due minuti e senza offendersi.
+
+Voi sapreste rispondere oggi alla prima?

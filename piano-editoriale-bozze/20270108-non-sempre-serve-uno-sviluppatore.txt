@@ -1,0 +1,30 @@
+Non sempre vi serve uno sviluppatore.
+
+Detto da uno sviluppatore suona strano, me ne rendo conto.
+
+Ma mi capita di sentire richieste per cui la risposta onesta è: questo potete farlo da soli, o con uno strumento che esiste già.
+
+Qualche caso.
+
+Vi serve una pagina per presentare l'attività e raccogliere contatti?
+Ci sono strumenti pronti che costano pochi euro al mese.
+
+Volete far vedere un'idea a un socio o a un investitore?
+Una demo fatta con l'IA basta e avanza. Ho avuto un cliente che la sua l'aveva costruita da solo, senza saper programmare.
+
+Vi serve vendere dieci prodotti online?
+Le piattaforme di e-commerce già fatte funzionano bene. Non serve un negozio su misura.
+
+Quando invece serve qualcuno del mestiere?
+
+- quando ci sono dati di altre persone da proteggere
+- quando ci sono di mezzo pagamenti e abbonamenti
+- quando lo strumento pronto non fa quella cosa che per voi è il cuore del servizio
+- quando la demo deve reggere utenti veri
+
+Non prendi l'auto per fare 200 metri.
+E non chiami un idraulico per cambiare una lampadina, anche se magari te la cambia.
+
+Preferisco dirvi "per questo non vi servo" oggi e sentirvi tra sei mesi quando vi servo davvero.
+
+Vi è mai capitato un professionista che vi ha detto di non comprare da lui?

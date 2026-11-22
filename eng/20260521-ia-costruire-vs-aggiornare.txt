@@ -1,0 +1,25 @@
+With AI, is it becoming easier to redo than to modify?
+And in the future?
+
+Lately I ran an interesting test.
+
+I had to modify a web app, similar services and content, but with a completely different UI.
+The client gave me an HTML mockup generated with ChatGPT.
+
+So I tried two approaches:
+- have the AI modify the existing React code
+- have it generate a brand new React app starting from the HTML
+
+The result?
+- In the first case the model kept breaking existing components and logic.
+- In the second, with a much simpler prompt, it generated an almost perfect base on the first try.
+
+And this made me think.
+
+Today LLMs are much stronger at creating code from a spec than at modifying existing systems.
+
+So I wonder:
+- As models improve, will AI really become good at maintaining legacy code? 
+- Or will it be more convenient to regenerate whole parts of an application instead of modifying them incrementally?
+
+Maybe, in a future that's almost dystopian for us current devs, what will matter is saving an updated mega prompt that describes the whole app, rather than worrying about keeping the code clean and modular for the AI.

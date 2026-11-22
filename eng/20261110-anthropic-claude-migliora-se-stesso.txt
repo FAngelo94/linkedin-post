@@ -1,0 +1,14 @@
+Anthropic wrote in its stock market filing that Claude could "soon" start improving itself.
+
+Can you imagine?
+New, ever more performant models raining down.
+Although hardware remains a limiting factor so we shouldn't expect miracles or exponential accelerations.
+
+But what I found most interesting is this news especially in combination with another statement by Anthropic: 
+that in the past it noticed the capability leaps obtained by using AI in its own research only after they had already happened.
+
+So they might notice Claude's capability leaps only some time after they've happened.
+
+Then I take all this news with a grain of salt because I never know how much is true and how much is communication strategy.
+
+What do you think?

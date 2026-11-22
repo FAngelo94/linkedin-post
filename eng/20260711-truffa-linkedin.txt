@@ -1,0 +1,20 @@
+They tried to scam me here on LinkedIn
+
+I got a message from a profile that at first glance seemed trustworthy: it had existed for 10 years, with a photo, description and consistent previous jobs.
+
+They contact me to develop an MVP for a healthcare startup in the USA, listing technologies and a stack I know well, so it seemed like an opportunity tailor-made for me.
+
+Very interested, I reply affirmatively and ask for more details about the project.
+
+They send me more details before we talk, to make sure I have all the necessary skills. And here I start to smell something fishy.
+
+They send me the link to a Dropbox folder containing a git project with the project documentation fragmented into .md files and, cherry on top, I had to download it and switch to the "nda" branch to read and send back the signed non-disclosure agreement.
+
+Just to be safe I copy and paste the various .md documents locally by hand so as not to download anything. Reading them, several things didn't add up and, having Claude analyze them all together, it confirms that there's various information that, taken individually is fine, but read together has several inconsistencies.
+
+I go back and check the LinkedIn profile more carefully and notice that the profile's last activity dates back 6 years, so it was probably hacked by someone else.
+
+In the end, just to see what they'd reply, I wrote asking for a video call before downloading anything and, of course, I never got another answer.
+
+This time they got the wrong guy but at first the context was very credible and could have fooled someone not too experienced.
+So be careful about who contacts you and the kind of information they ask you to download or sign.

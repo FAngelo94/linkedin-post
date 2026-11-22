@@ -1,0 +1,12 @@
+Browsers for humans are shutting down and browsers for agents are being born
+
+I got to thinking while reading these two pieces of news at the same time:
+
+- On August 9th OpenAI shut down ChatGPT Atlas, a browser launched less than ten months ago
+
+- Meanwhile, on August 6th, Cloudflare announced Kitesurf, a browser with no UI (sorry, frontend developers), built to optimize agentic browsing
+
+Cloudflare's choice, which of the two is the one I find more interesting, comes from the observation that automation has now surpassed humans in web browsing: 57.5% of HTTP requests to web content come from automated agents, against 42.5% from human users.
+
+Who knows how web development will evolve in the coming years, what do you think? 
+Are you already building your browsers with an eye on agents?
